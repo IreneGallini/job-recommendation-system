@@ -39,5 +39,12 @@ Position key words:
 - ml engineer
 - ai engineer
 
-Scraping every 6 hours
-
+Features: 
+- Scraping every 6 hours
+- store jobs + display on .md file in table
+- 24 hour email notifications
+- suggest people to network with 
+    - based on common school, interest, position, etc 
+    - find contact info
+    - summary and suggested questions for coffee chat
+    - write reach out message 
