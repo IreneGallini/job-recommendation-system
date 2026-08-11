@@ -1,8 +1,8 @@
 name: Scrape Internships
 
 on:
-  # schedule:
-  #   - cron: '0 */6 * * *'  # every 6 hours — disabled until failures are fixed
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:       # allow manual trigger from GitHub Actions tab
 
 permissions:
@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           # Fetch full history so the bot push isn't blocked by branch protection
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
 
@@ -26,17 +26,15 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        env:
-          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-          EMAIL_APP_PASSWORD: ${{ secrets.EMAIL_APP_PASSWORD }}
-          # Override the URL here if you want to target a different repo/branch
-          # SIMPLIFY_README_URL: https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md
+        # To target a different repo/branch, add:
+        #   env:
+        #     SIMPLIFY_README_URL: https://raw.githubusercontent.com/SimplifyJobs/Summer2028-Internships/dev/README.md
         run: python main.py
 
-      - name: Commit updated CSV
+      - name: Commit updated CSV and README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add internships.csv
-          git diff --cached --quiet || git commit -m "chore: update internships.csv [skip ci]"
+          git add internships.csv README.md
+          git diff --cached --quiet || git commit -m "chore: update internships.csv and README [skip ci]"
           git push

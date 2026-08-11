@@ -9,6 +9,7 @@ class Posting:
     location: str
     link: str
     date_added: str
+    source: str
 
 
 class Scraper(ABC):

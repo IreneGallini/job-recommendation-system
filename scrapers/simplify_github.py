@@ -2,6 +2,13 @@ import re
 import requests
 from .base import Posting, Scraper
 
+_ROW_RE = re.compile(r"<tr>(.*?)</tr>", re.DOTALL)
+_CELL_RE = re.compile(r"<td>(.*?)</td>", re.DOTALL)
+_ANCHOR_TEXT_RE = re.compile(r"<a[^>]*>([^<]+)</a>")
+_HREF_RE = re.compile(r'href="([^"]+)"')
+_TAG_RE = re.compile(r"<[^>]+>")
+_DETAILS_RE = re.compile(r"<details>.*?</summary>(.*?)</details>", re.DOTALL)
+
 
 class SimplifyGitHubScraper(Scraper):
     def __init__(self, readme_url: str):
@@ -14,71 +21,67 @@ class SimplifyGitHubScraper(Scraper):
 
     def _parse(self, markdown: str) -> list[Posting]:
         postings = []
-        for line in markdown.splitlines():
-            posting = self._parse_row(line)
+        for row in _ROW_RE.findall(markdown):
+            posting = self._parse_row(row)
             if posting:
                 postings.append(posting)
         return postings
 
     def _parse_row(self, row: str) -> Posting | None:
-        if not row.startswith("|"):
+        cells = _CELL_RE.findall(row)
+        if len(cells) < 5:
             return None
 
-        cells = [c.strip() for c in row.split("|")]
-        # cells[0] empty, cells[1..5] data, cells[6] empty
-        if len(cells) < 6:
+        company_cell, role_cell, location_cell, link_cell, age_cell = cells[:5]
+
+        # Skip sub-role rows (company cell is just "↳")
+        if self._strip_tags(company_cell).strip() == "↳":
             return None
 
-        company_cell, role_cell, location_cell, link_cell = (
-            cells[1], cells[2], cells[3], cells[4],
-        )
-        date_cell = cells[5] if len(cells) > 5 else ""
-
-        # Skip header and separator rows
-        if "---" in company_cell or company_cell.lower() == "company":
-            return None
-
-        # Skip sub-role rows (start with ↳)
-        if company_cell.startswith("↳") or not company_cell:
-            return None
-
-        # Skip rows with no open link (locked postings show 🔒)
-        if "🔒" in link_cell:
-            return None
-
-        company = self._extract_text(company_cell)
+        company = self._extract_anchor_text(company_cell)
         if not company:
             return None
 
-        role = self._strip_tags(role_cell)
-        location = self._strip_tags(location_cell)
+        role = self._strip_tags(role_cell).strip()
+        location = self._extract_location(location_cell)
 
-        link = self._extract_href(link_cell) or self._extract_md_link(link_cell)
+        link = self._extract_href(link_cell)
         if not link:
             return None
 
-        date = self._strip_tags(date_cell)
+        age = self._strip_tags(age_cell).strip()
 
-        return Posting(company=company, role=role, location=location, link=link, date_added=date)
+        return Posting(
+            company=company,
+            role=role,
+            location=location,
+            link=link,
+            date_added=age,
+            source="SimplifyJobs",
+        )
 
     @staticmethod
-    def _extract_text(cell: str) -> str:
-        # Handles **[Company](url)** and **Company**
-        match = re.search(r"\[([^\]]+)\]", cell)
+    def _extract_anchor_text(cell: str) -> str:
+        match = _ANCHOR_TEXT_RE.search(cell)
         if match:
             return match.group(1).strip()
-        return re.sub(r"[*_`]", "", cell).strip()
+        return SimplifyGitHubScraper._strip_tags(cell).strip()
 
     @staticmethod
-    def _strip_tags(text: str) -> str:
-        return re.sub(r"<[^>]+>", "", text).strip()
+    def _extract_location(cell: str) -> str:
+        details_match = _DETAILS_RE.search(cell)
+        body = details_match.group(1) if details_match else cell
+        parts = [
+            SimplifyGitHubScraper._strip_tags(part).strip()
+            for part in body.split("<br>")
+        ]
+        return "; ".join(p for p in parts if p)
 
     @staticmethod
     def _extract_href(cell: str) -> str | None:
-        match = re.search(r'href=["\']([^"\']+)["\']', cell)
+        match = _HREF_RE.search(cell)
         return match.group(1) if match else None
 
     @staticmethod
-    def _extract_md_link(cell: str) -> str | None:
-        match = re.search(r"\[.*?\]\(([^)]+)\)", cell)
-        return match.group(1) if match else None
+    def _strip_tags(text: str) -> str:
+        return _TAG_RE.sub("", text)
