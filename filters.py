@@ -21,50 +21,33 @@ _UK_MARKERS = (
     "scotland", "wales", "northern ireland", "gb",
 )
 
-# EU + EEA + Switzerland country names/aliases (lowercase) -> canonical country name.
+# Eligible countries only (lowercase names/aliases, incl. native spellings)
+# -> canonical country name. This is a deliberate allowlist, not the full
+# EU/EEA: any country not listed here is dropped.
 _EUROPE_COUNTRIES = {
     "italy": "Italy", "italia": "Italy",
+    "switzerland": "Switzerland", "svizzera": "Switzerland",
+    "schweiz": "Switzerland", "suisse": "Switzerland",
     "france": "France",
     "germany": "Germany", "deutschland": "Germany",
+    "denmark": "Denmark", "danmark": "Denmark",
+    "norway": "Norway", "norge": "Norway",
+    "sweden": "Sweden", "sverige": "Sweden",
+    "finland": "Finland", "suomi": "Finland",
     "spain": "Spain", "espana": "Spain", "españa": "Spain",
     "portugal": "Portugal",
-    "netherlands": "Netherlands", "the netherlands": "Netherlands", "holland": "Netherlands",
-    "belgium": "Belgium",
-    "luxembourg": "Luxembourg",
+    "netherlands": "Netherlands", "the netherlands": "Netherlands",
+    "holland": "Netherlands", "nederland": "Netherlands",
+    "belgium": "Belgium", "belgië": "Belgium", "belgique": "Belgium",
+    "austria": "Austria", "österreich": "Austria", "osterreich": "Austria",
     "ireland": "Ireland",
-    "austria": "Austria",
-    "switzerland": "Switzerland", "svizzera": "Switzerland",
-    "poland": "Poland",
-    "czech republic": "Czech Republic", "czechia": "Czech Republic",
-    "slovakia": "Slovakia",
-    "hungary": "Hungary",
-    "romania": "Romania",
-    "bulgaria": "Bulgaria",
-    "greece": "Greece",
-    "sweden": "Sweden",
-    "denmark": "Denmark",
-    "finland": "Finland",
-    "norway": "Norway",
-    "iceland": "Iceland",
-    "lithuania": "Lithuania",
-    "latvia": "Latvia",
-    "estonia": "Estonia",
-    "slovenia": "Slovenia",
-    "croatia": "Croatia",
-    "serbia": "Serbia",
-    "malta": "Malta",
-    "cyprus": "Cyprus",
 }
 
 _ISO2_TO_COUNTRY = {
-    "it": "Italy", "fr": "France", "de": "Germany", "es": "Spain",
-    "pt": "Portugal", "nl": "Netherlands", "be": "Belgium", "lu": "Luxembourg",
-    "ie": "Ireland", "at": "Austria", "ch": "Switzerland", "pl": "Poland",
-    "cz": "Czech Republic", "sk": "Slovakia", "hu": "Hungary", "ro": "Romania",
-    "bg": "Bulgaria", "gr": "Greece", "se": "Sweden", "dk": "Denmark",
-    "fi": "Finland", "no": "Norway", "is": "Iceland", "lt": "Lithuania",
-    "lv": "Latvia", "ee": "Estonia", "si": "Slovenia", "hr": "Croatia",
-    "rs": "Serbia", "mt": "Malta", "cy": "Cyprus",
+    "it": "Italy", "ch": "Switzerland", "fr": "France", "de": "Germany",
+    "dk": "Denmark", "no": "Norway", "se": "Sweden", "fi": "Finland",
+    "es": "Spain", "pt": "Portugal", "nl": "Netherlands", "be": "Belgium",
+    "at": "Austria", "ie": "Ireland",
 }
 
 _US_MARKERS = ("united states", "usa", "us")
@@ -111,9 +94,15 @@ def normalize_location_text(raw: str) -> tuple[str, str, str] | None:
 
     # No explicit country token matched as its own segment; try whole-word
     # matches for "City, Country"-style single segments like "Rome, Italy".
-    for country_name, canonical in _EUROPE_COUNTRIES.items():
-        if _contains_word(lowered, (country_name,)):
-            return ("", canonical, _region_for_country(canonical))
+    # Excluded segments are skipped here too, so "Northern Ireland" (UK)
+    # can't whole-word-match "ireland".
+    for segment in raw.replace(";", ",").split(","):
+        seg_lower = segment.strip().lower()
+        if not seg_lower or _contains_word(seg_lower, _EXCLUDED_MARKERS):
+            continue
+        for country_name, canonical in _EUROPE_COUNTRIES.items():
+            if _contains_word(seg_lower, (country_name,)):
+                return ("", canonical, _region_for_country(canonical))
 
     if is_remote and _contains_word(lowered, ("europe", "emea")):
         return ("", "", REMOTE_EUROPE)

@@ -2,7 +2,7 @@
 
 Goal: Summer 2027 internship postings in Europe, Milan first.
 
-Location priority: Milan > rest of Italy > rest of EU/EEA/Switzerland > remote-Europe. UK excluded (visa sponsorship required as an EU citizen post-Brexit).
+Location priority: Milan > rest of Italy > rest of Europe (Switzerland, France, Germany, Denmark, Norway, Sweden, Finland, Spain, Portugal, Netherlands, Belgium, Austria, Ireland only) > remote-Europe. UK excluded (visa sponsorship required as an EU citizen post-Brexit).
 
 Classification:
 - big tech
@@ -38,7 +38,6 @@ Features:
 | Priority | Company | Role | Location | Category | Source | Found | Apply |
 |---|---|---|---|---|---|---|---|
 |  | NVIDIA | Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving | Germany | big-tech | Workday | 2026-09-28 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) |
-|  | Bosch | Working Student Data Engineering | Romania | big-tech | SmartRecruiters | 2026-09-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151876276) |
 |  | Bosch | Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps | Germany | big-tech | SmartRecruiters | 2026-09-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151296789) |
 |  | Bosch | Pflichtpraktikum Data Engineering & Data Analytics im Akustik-Testing | Germany | big-tech | SmartRecruiters | 2026-09-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000149861229) |
 |  | Bosch | Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.) | Portugal | big-tech | SmartRecruiters | 2026-09-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738) |
