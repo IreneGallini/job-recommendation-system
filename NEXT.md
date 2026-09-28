@@ -1,0 +1,3 @@
+- outreach plan 
+- list active companies in italy
+- pay special attention to big tech

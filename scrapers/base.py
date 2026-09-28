@@ -10,6 +10,12 @@ class Posting:
     link: str
     date_added: str
     source: str
+    country: str = ""
+    city: str = ""
+    category: str = "unknown"
+    priority: str = "normal"
+    ats: str = ""
+    first_seen: str = ""
 
 
 class Scraper(ABC):

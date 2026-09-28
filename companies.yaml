@@ -1,0 +1,99 @@
+# Company watchlist for European internship scraping.
+#
+# Each entry's `ats` field must be one of: greenhouse, lever, ashby, workday,
+# smartrecruiters, personio, workable, teamtailor.
+#
+# Every company below was verified live (2026-09-28): its actual careers
+# page was checked to confirm which ATS it uses and to find the right
+# slug/tenant, and the corresponding public API was hit directly. This is a
+# small, high-confidence seed — see CLAUDE.md for how to add more.
+#
+# category: big-tech | startup | pharma-biotech | finance | consulting
+# priority: high | normal  (high = Milan-based, Italian, or otherwise
+#   especially relevant — surfaces first in the README and Discord)
+
+- name: Scalapay
+  ats: greenhouse
+  slug: scalapaysrl
+  category: finance
+  priority: high
+  # Milan-based BNPL fintech; public careers page is on
+  # job-boards.eu.greenhouse.io but the API host is unchanged.
+
+- name: ION Group
+  ats: lever
+  slug: ion
+  category: finance
+  priority: high
+  # Italian-founded fintech (Andrea Pignataro), large Milan/Trento presence.
+
+- name: Buddyfit
+  ats: personio
+  slug: buddyfit
+  host_suffix: jobs.personio.de
+  category: startup
+  priority: high
+  # Milan-based fitness-tech startup.
+
+- name: Biogen
+  ats: smartrecruiters
+  company_identifier: Biogen
+  category: pharma-biotech
+  priority: high
+  # Has a Milan office; confirmed via its own smartrecruiters.com posting
+  # page even though 0 postings were open at verification time.
+
+- name: Philips
+  ats: workday
+  tenant: philips
+  wd_host: wd3
+  site: jobs-and-careers
+  search_text: intern
+  category: pharma-biotech
+  priority: high
+  # Healthtech; live Milan internship confirmed at verification time.
+
+- name: NVIDIA
+  ats: workday
+  tenant: nvidia
+  wd_host: wd5
+  site: NVIDIAExternalCareerSite
+  search_text: intern
+  category: big-tech
+  priority: normal
+  # Carried over from the old US-only nvidia_careers.py scraper.
+
+- name: Mistral AI
+  ats: ashby
+  slug: mistral.ai
+  category: startup
+  priority: high
+  # Paris-based frontier AI lab; EU-wide hiring including Milan.
+
+- name: Stripe
+  ats: greenhouse
+  slug: stripe
+  category: big-tech
+  priority: normal
+  # Has a Dublin (EU) office.
+
+- name: Bosch
+  ats: smartrecruiters
+  company_identifier: BoschGroup
+  category: big-tech
+  priority: normal
+  # German industrial/tech giant, many EU locations.
+
+- name: Quantis
+  ats: workable
+  slug: quantis
+  category: consulting
+  priority: normal
+  # Paris-based sustainability consultancy.
+
+- name: SOFTSWISS
+  ats: teamtailor
+  slug: softswiss
+  category: finance
+  priority: normal
+  # Fintech/igaming, Warsaw + Vilnius offices.
