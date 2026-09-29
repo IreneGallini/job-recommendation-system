@@ -239,6 +239,7 @@ input[type="search"] { cursor: text; flex: 1 1 220px; min-width: 0; }
 }
 
 .more { display: block; margin: 12px auto 0; }
+.more[hidden] { display: none; }
 
 .toast {
   position: fixed;
