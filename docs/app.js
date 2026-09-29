@@ -107,6 +107,7 @@ async function load() {
   fillCountryFilter();
   document.getElementById("i-sort").value = state.prefs.inboxSort || "score";
   document.getElementById("i-role").value = state.prefs.inboxRole || "";
+  document.getElementById("i-country").value = state.prefs.inboxCountry || "";
   render();
 }
 
@@ -125,8 +126,10 @@ function render() {
 
 function renderInbox() {
   const targetOnly = val("i-role") === "match";
+  const country = val("i-country");
   const uncategorized = sortRows(
-    postings.filter((p) => p.active && !statusOf(p) && (!targetOnly || p.role_match)),
+    postings.filter((p) => p.active && !statusOf(p) && (!targetOnly || p.role_match)
+      && (!country || p.country === country)),
     val("i-sort"));
   const fits = uncategorized.filter((p) => p.summer_fit !== "no");
   const noFit = uncategorized.filter((p) => p.summer_fit === "no");
@@ -470,9 +473,13 @@ function val(id) {
 }
 
 function fillCountryFilter() {
-  const select = document.getElementById("f-country");
-  const countries = [...new Set(postings.map((p) => p.country).filter(Boolean))].sort();
-  for (const c of countries) select.append(new Option(c, c));
+  // Italy first (the priority), then alphabetical.
+  const countries = [...new Set(postings.map((p) => p.country).filter(Boolean))]
+    .sort((a, b) => (b === "Italy") - (a === "Italy") || a.localeCompare(b));
+  for (const id of ["f-country", "i-country"]) {
+    const select = document.getElementById(id);
+    for (const c of countries) select.append(new Option(c, c));
+  }
 }
 
 function showToast(text, undo) {
@@ -501,9 +508,11 @@ document.querySelectorAll(".tabs button").forEach((btn) => {
 ["f-search", "f-country", "f-summer", "f-role", "f-sort", "f-closed"].forEach((id) => {
   document.getElementById(id).addEventListener("input", () => { allShown = PAGE_SIZE; renderAll(); });
 });
-["i-sort", "i-role"].forEach((id) => {
+["i-sort", "i-role", "i-country"].forEach((id) => {
   document.getElementById(id).addEventListener("input", () => {
-    state.prefs = { ...state.prefs, inboxSort: val("i-sort"), inboxRole: val("i-role") };
+    state.prefs = {
+      ...state.prefs, inboxSort: val("i-sort"), inboxRole: val("i-role"), inboxCountry: val("i-country"),
+    };
     saveState();
     inboxShown = nofitShown = PAGE_SIZE;
     renderInbox();
