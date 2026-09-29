@@ -1,16 +1,21 @@
 import os
+import config
 import filters
+import ranking
 from scrapers.base import Posting
 
 TABLE_START = "<!-- POSTINGS_TABLE_START -->"
 TABLE_END = "<!-- POSTINGS_TABLE_END -->"
 
 _SECTIONS = [
-    (filters.MILAN, "Milan"),
+    (filters.MILAN, "Milan area"),
+    (filters.TURIN, "Turin area"),
     (filters.ITALY, "Rest of Italy"),
     (filters.EUROPE, "Rest of Europe"),
     (filters.REMOTE_EUROPE, "Remote (Europe)"),
 ]
+
+_SUMMER_LABELS = {"yes": "✅ summer", "unknown": "❔", "no": "❌ not summer"}
 
 
 def write_postings_table(readme_path: str, postings: list[Posting]) -> None:
@@ -35,33 +40,51 @@ def write_postings_table(readme_path: str, postings: list[Posting]) -> None:
 
 
 def _render_sections(postings: list[Posting]) -> str:
-    if not postings:
-        return "_No postings found yet._"
+    """Target-role postings that are still open, ranked by recommendation
+    score within each region. Postings that clearly don't fit the summer go
+    in one collapsed block at the end; the full collection (every eligible
+    internship) lives on the site."""
+    visible = ranking.rank(ranking.active(p for p in postings if p.role_match))
+    header = (
+        f"Ranked by recommendation score. Triage (applied / ineligible) and the full "
+        f"collection of every eligible internship are on the **[site]({config.SITE_URL})**."
+    )
+    if not visible:
+        return f"{header}\n\n_No postings found yet._"
+
+    fits = [p for p in visible if p.summer_fit != "no"]
+    no_fit = [p for p in visible if p.summer_fit == "no"]
 
     by_region: dict[str, list[Posting]] = {region: [] for region, _ in _SECTIONS}
-    for p in postings:
+    for p in fits:
         by_region.setdefault(filters.region_for_posting(p), []).append(p)
 
-    blocks = []
+    blocks = [header]
     for region, heading in _SECTIONS:
         rows = by_region.get(region, [])
-        if not rows:
-            continue
-        blocks.append(f"### {heading}\n\n{_render_table(rows)}")
-    return "\n\n".join(blocks) if blocks else "_No postings found yet._"
+        if rows:
+            blocks.append(f"### {heading}\n\n{_render_table(rows)}")
+    if no_fit:
+        blocks.append(
+            f"<details>\n<summary>Not a summer fit ({len(no_fit)}) — 5+ months or "
+            f"starts Sept–March</summary>\n\n{_render_table(no_fit)}\n\n</details>"
+        )
+    return "\n\n".join(blocks)
 
 
 def _render_table(postings: list[Posting]) -> str:
-    rows = sorted(postings, key=lambda p: p.first_seen or p.date_added, reverse=True)
     lines = [
-        "| Priority | Company | Role | Location | Category | Source | Found | Apply |",
-        "|---|---|---|---|---|---|---|---|",
+        "| Score | Company | Role | Location | Summer | Posted | Apply |",
+        "|---|---|---|---|---|---|---|",
     ]
-    for p in rows:
-        flag = "⭐" if p.priority == "high" else ""
+    for p in postings:
+        flag = "⭐ " if p.priority == "high" else ""
+        summer = _SUMMER_LABELS.get(p.summer_fit, "❔")
+        if p.duration_months:
+            summer += f" ({p.duration_months} mo)"
         lines.append(
-            f"| {flag} | {_escape(p.company)} | {_escape(p.role)} | {_escape(p.location)} "
-            f"| {_escape(p.category)} | {_escape(p.source)} | {_escape(p.first_seen or p.date_added)} "
+            f"| {ranking.score(p)} | {flag}{_escape(p.company)} | {_escape(p.role)} "
+            f"| {_escape(p.location)} | {summer} | {ranking.effective_date(p)} "
             f"| [Apply]({p.link}) |"
         )
     return "\n".join(lines)

@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Internship Inbox</title>
+  <meta name="description" content="European internship postings, Milan first — ranked, triaged, tracked.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <h1>Internship Inbox</h1>
+      <div class="top-actions">
+        <button type="button" class="ghost" id="export-btn" title="Download your triage state as JSON">Export</button>
+        <label class="ghost file-btn" title="Load a previously exported JSON file">
+          Import<input type="file" id="import-input" accept="application/json" hidden>
+        </label>
+      </div>
+    </div>
+    <p class="subtitle" id="updated">Loading…</p>
+    <nav class="tabs" role="tablist">
+      <button type="button" role="tab" data-tab="inbox" aria-selected="true">Inbox <span class="count" id="count-inbox"></span></button>
+      <button type="button" role="tab" data-tab="all" aria-selected="false">All <span class="count" id="count-all"></span></button>
+      <button type="button" role="tab" data-tab="outreach" aria-selected="false">Outreach <span class="count" id="count-outreach"></span></button>
+    </nav>
+  </header>
+
+  <main>
+    <section id="tab-inbox" class="tab-panel">
+      <p class="hint">Unread target-role postings, best match first. Triage each one and it leaves the inbox; everything stays under <em>All</em>.</p>
+      <ol class="list" id="inbox-list"></ol>
+      <details class="collapsed" id="inbox-nofit">
+        <summary>Not a summer fit <span class="count" id="count-nofit"></span> <span class="muted">— 5+ months or starts Sept–March</span></summary>
+        <ol class="list" id="inbox-nofit-list"></ol>
+      </details>
+    </section>
+
+    <section id="tab-all" class="tab-panel" hidden>
+      <div class="filters">
+        <input type="search" id="f-search" placeholder="Search company, role, city…" aria-label="Search">
+        <select id="f-country" aria-label="Country"><option value="">All countries</option></select>
+        <select id="f-status" aria-label="Status">
+          <option value="">Any status</option>
+          <option value="unread">Unread</option>
+          <option value="read">Read</option>
+          <option value="applied">Applied</option>
+          <option value="ineligible">Ineligible</option>
+          <option value="not_interested">Not interested</option>
+        </select>
+        <select id="f-summer" aria-label="Summer fit">
+          <option value="">Any summer fit</option>
+          <option value="yes">Summer ✓</option>
+          <option value="unknown">Summer ?</option>
+          <option value="no">Not summer</option>
+        </select>
+        <select id="f-role" aria-label="Role">
+          <option value="">All roles</option>
+          <option value="match">Target roles only</option>
+        </select>
+        <select id="f-sort" aria-label="Sort">
+          <option value="score">Best match</option>
+          <option value="date">Newest</option>
+        </select>
+        <label class="check"><input type="checkbox" id="f-closed"> Show closed</label>
+      </div>
+      <p class="hint" id="all-summary"></p>
+      <ol class="list" id="all-list"></ol>
+      <button type="button" class="ghost more" id="all-more" hidden>Show more</button>
+    </section>
+
+    <section id="tab-outreach" class="tab-panel" hidden>
+      <p class="hint">Companies and people to contact. Edit <code>outreach.yaml</code> in the repo to add names; status and notes are saved in this browser.</p>
+      <div class="filters">
+        <select id="o-status" aria-label="Outreach status">
+          <option value="">Any status</option>
+          <option value="todo">Not contacted</option>
+          <option value="contacted">Contacted</option>
+          <option value="replied">Replied</option>
+          <option value="follow_up">Follow up</option>
+        </select>
+      </div>
+      <ol class="list" id="outreach-list"></ol>
+    </section>
+  </main>
+
+  <div class="toast" id="toast" role="status" hidden>
+    <span id="toast-text"></span>
+    <button type="button" id="toast-undo">Undo</button>
+  </div>
+
+  <template id="posting-tpl">
+    <li class="card">
+      <div class="score" title="Recommendation score"></div>
+      <div class="body">
+        <div class="title-row">
+          <a class="role" target="_blank" rel="noopener"></a>
+          <span class="new-badge" hidden>new</span>
+        </div>
+        <div class="company"></div>
+        <div class="meta"></div>
+        <div class="badges"></div>
+      </div>
+      <div class="actions"></div>
+    </li>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

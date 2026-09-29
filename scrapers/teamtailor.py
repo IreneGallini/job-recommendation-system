@@ -43,4 +43,5 @@ class TeamtailorScraper(Scraper):
             category=self.category,
             priority=self.priority,
             ats="teamtailor",
+            description=item.get("content_html", ""),
         )

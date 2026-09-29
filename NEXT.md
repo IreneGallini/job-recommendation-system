@@ -1,16 +1,19 @@
-- outreach plan 
-- list active companies in italy
-- pay special attention to big tech
-- data posted
-- scraper collects everything possible -> in one page (Complete collection)
-- current page: ranked by reccomandation + latest date
-    - add feature to easily eliminate ineligible, already applied etc. Stack like
-- implement reccomandation component based on my preferences (may-september, milan/turin area)
-- qualifications (rank lower if it says requires MS/Phd)
-- from readme open link in other page
+## Done (2026-09-29)
+- Complete collection: every internship in the 14 eligible countries (site "All" tab)
+- Inbox: unread target-role postings, ranked; Applied / Ineligible / Not interested / Read (site "Inbox" tab)
+- Recommendation score (Milan/Turin area, summer fit, MS/PhD penalty, recency) — weights in `config.SCORE_WEIGHTS`
+- Posted date, duration / start / summer_fit parsing, degree requirement parsing
+- Links open in a new tab (site)
+- Watchlist grown to 31 companies (Italy + big tech); Google / Microsoft / Apple / Meta tracked manually in `outreach.yaml`
+- Outreach tab + `outreach.yaml`
 
+## Still to do
+- Outreach plan (written doc)
+- One-time: enable GitHub Pages (Settings → Pages → main, /docs) — repo must be public on a free plan
+- Add named contacts to `outreach.yaml` as you find them
+- More companies: Bending Spoons, Reply, Stellantis, Intesa Sanpaolo, Pirelli, Leonardo aren't on a supported ATS (or weren't found) — custom scrapers or manual checks
 
-## Duration and timing (important)
+## Duration and timing (important) — implemented in enrich.py
 I'm only available mid-May to early September (about 14-16 weeks), so fixed
 6-month internships usually won't work.
 - Parse duration and start date from the title/description when present, in

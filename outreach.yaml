@@ -1,0 +1,130 @@
+# Outreach targets — rendered on the site's Outreach tab (docs/outreach.json
+# is regenerated from this file every run, with each company's open
+# postings attached by matching `company` to the watchlist name).
+#
+# Seeded at company level with LinkedIn *people-search* links, not named
+# individuals. When you find a specific person, add `name:` (and point
+# `link:` at their profile). Contact status and notes are tracked on the
+# site, in your browser.
+#
+# Fields: company, contact_role, why, link, careers_url, priority
+#   (high|normal), notes, name (optional), id (optional; defaults to
+#   company + contact_role — set it explicitly before renaming either, or
+#   the site loses that entry's saved status).
+
+# --- Milan / Turin, on the watchlist ---
+
+- company: Satispay
+  contact_role: Tech recruiter / Talent acquisition
+  why: Milan HQ payments fintech; most open roles are in Milan.
+  link: https://www.linkedin.com/search/results/people/?keywords=Satispay%20talent%20acquisition
+  careers_url: https://jobs.ashbyhq.com/satispay
+  priority: high
+
+- company: Prima Assicurazioni
+  contact_role: Engineering manager / Tech recruiter
+  why: Milan insurtech with a large in-house engineering team.
+  link: https://www.linkedin.com/search/results/people/?keywords=Prima%20Assicurazioni%20engineering%20manager
+  careers_url: https://jobs.eu.lever.co/prima
+  priority: high
+
+- company: Scalapay
+  contact_role: Talent acquisition
+  why: Milan BNPL fintech; posts internships regularly.
+  link: https://www.linkedin.com/search/results/people/?keywords=Scalapay%20talent%20acquisition
+  careers_url: https://job-boards.eu.greenhouse.io/scalapaysrl
+  priority: high
+
+- company: Moneyfarm
+  contact_role: Data / engineering team lead
+  why: Milan-founded digital wealth manager; small team, direct contact works.
+  link: https://www.linkedin.com/search/results/people/?keywords=Moneyfarm%20data%20engineering
+  careers_url: https://apply.workable.com/moneyfarm/
+  priority: high
+
+- company: Mastercard
+  contact_role: Campus / early-careers recruiter (Italy)
+  why: Runs Summer 2027 intern programs in Milan and Rome — structured summer fit.
+  link: https://www.linkedin.com/search/results/people/?keywords=Mastercard%20campus%20recruiter%20Italy
+  careers_url: https://careers.mastercard.com/
+  priority: high
+
+- company: Amazon
+  contact_role: University recruiter (Italy)
+  why: 2027 SDE and ops intern roles in Turin and Milan.
+  link: https://www.linkedin.com/search/results/people/?keywords=Amazon%20university%20recruiter%20Italy
+  careers_url: https://www.amazon.jobs/en/search?base_query=intern&country=ITA
+  priority: high
+
+- company: Accenture
+  contact_role: Campus recruiting Italy
+  why: Largest intern intake in Milan/Assago; tech and data tracks.
+  link: https://www.linkedin.com/search/results/people/?keywords=Accenture%20campus%20recruiting%20Italia
+  careers_url: https://www.accenture.com/it-it/careers
+  priority: high
+
+- company: Databricks
+  contact_role: Solutions engineer (Milan office)
+  why: Milan office; data/ML platform matches target roles.
+  link: https://www.linkedin.com/search/results/people/?keywords=Databricks%20Milan
+  careers_url: https://www.databricks.com/company/careers
+  priority: high
+
+- company: Sanofi
+  contact_role: Early-careers / data team (Milan)
+  why: Milan internships; pharma data fits the chem/bio interest.
+  link: https://www.linkedin.com/search/results/people/?keywords=Sanofi%20Milano%20data
+  careers_url: https://jobs.sanofi.com/
+  priority: high
+
+# --- Not on a supported ATS: check these careers pages manually ---
+
+- company: Google
+  contact_role: University recruiter (EMEA)
+  why: Milan office. No public jobs API — check the careers page manually.
+  link: https://www.linkedin.com/search/results/people/?keywords=Google%20university%20recruiter%20EMEA
+  careers_url: https://www.google.com/about/careers/applications/jobs/results/?location=Italy&target_level=INTERN_AND_APPRENTICE
+  priority: high
+  notes: EMEA STEP / SWE intern applications usually open in autumn.
+
+- company: Microsoft
+  contact_role: University recruiter (Italy)
+  why: Microsoft House in Milan. Own careers site — check manually.
+  link: https://www.linkedin.com/search/results/people/?keywords=Microsoft%20university%20recruiter%20Italy
+  careers_url: https://jobs.careers.microsoft.com/global/en/search?lc=Italy&exp=Students%20and%20graduates
+  priority: high
+
+- company: Apple
+  contact_role: University recruiter (EMEA)
+  why: Milan offices and the Naples Developer Academy. Own careers site.
+  link: https://www.linkedin.com/search/results/people/?keywords=Apple%20university%20recruiter%20EMEA
+  careers_url: https://jobs.apple.com/en-us/search?location=italy-ITAC
+  priority: normal
+
+- company: Meta
+  contact_role: University recruiter (EMEA)
+  why: Small Milan office; most EMEA interns are in London (excluded) or Paris/Dublin.
+  link: https://www.linkedin.com/search/results/people/?keywords=Meta%20university%20recruiter%20EMEA
+  careers_url: https://www.metacareers.com/jobs?roles[0]=Internship
+  priority: normal
+
+- company: Bending Spoons
+  contact_role: Talent team
+  why: Milan's best-known tech company; own careers site, not a supported ATS.
+  link: https://www.linkedin.com/search/results/people/?keywords=Bending%20Spoons%20talent
+  careers_url: https://bendingspoons.com/careers
+  priority: high
+
+- company: Reply
+  contact_role: Campus recruiting
+  why: Turin HQ IT consultancy with many technical internships.
+  link: https://www.linkedin.com/search/results/people/?keywords=Reply%20campus%20recruiting%20Torino
+  careers_url: https://www.reply.com/en/careers
+  priority: high
+
+- company: Stellantis
+  contact_role: Early-careers / data & software teams (Turin)
+  why: Turin engineering and software hubs.
+  link: https://www.linkedin.com/search/results/people/?keywords=Stellantis%20early%20careers%20Torino
+  careers_url: https://www.stellantis.com/en/careers
+  priority: normal

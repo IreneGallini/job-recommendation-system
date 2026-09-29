@@ -14,7 +14,8 @@ class WorkableScraper(Scraper):
         self.priority = priority
 
     def get_postings(self) -> list[Posting]:
-        url = f"https://apply.workable.com/api/v1/widget/accounts/{self.slug}"
+        # details=true adds each job's HTML `description` to the list response.
+        url = f"https://apply.workable.com/api/v1/widget/accounts/{self.slug}?details=true"
         response = requests.get(url, headers={"User-Agent": _USER_AGENT}, timeout=30)
         response.raise_for_status()
         jobs = response.json().get("jobs", [])
@@ -34,4 +35,5 @@ class WorkableScraper(Scraper):
             category=self.category,
             priority=self.priority,
             ats="workable",
+            description=job.get("description", ""),
         )

@@ -97,3 +97,173 @@
   category: finance
   priority: normal
   # Fintech/igaming, Warsaw + Vilnius offices.
+
+# --- Added 2026-09-29: Italy + big tech expansion. Each API below was hit
+# live and returned postings in Italy before being added. ---
+
+- name: Satispay
+  ats: ashby
+  slug: satispay
+  category: finance
+  priority: high
+  # Milan-based payments fintech; most of its ~90 open roles are in Milan.
+
+- name: Prima Assicurazioni
+  ats: lever
+  slug: prima
+  host: api.eu.lever.co
+  category: finance
+  priority: high
+  # Milan-based insurtech; EU Lever host (api.lever.co returns nothing).
+
+- name: Moneyfarm
+  ats: workable
+  slug: moneyfarm
+  category: finance
+  priority: high
+  # Milan-founded digital wealth manager; nearly all roles in Italy.
+
+- name: Amazon
+  ats: amazon
+  category: big-tech
+  priority: high
+  # Custom scraper (amazon.jobs search JSON). Dozens of 2027 intern roles
+  # in Milan, Rome, Turin area and Piedmont logistics sites.
+
+- name: Mastercard
+  ats: workday
+  tenant: mastercard
+  wd_host: wd1
+  site: CorporateCareers
+  search_text: ["intern Italy", "intern"]
+  category: finance
+  priority: high
+  summer_program: true
+  # "Summer 2027" intern roles in Milan and Rome.
+
+- name: Sanofi
+  ats: workday
+  tenant: sanofi
+  wd_host: wd3
+  site: SanofiCareers
+  search_text: ["intern Italy", "intern"]
+  category: pharma-biotech
+  priority: high
+  # Milan internships (marketing, medical affairs, data).
+
+- name: Accenture
+  ats: workday
+  tenant: accenture
+  wd_host: wd103
+  site: AccentureCareers
+  search_text: ["intern Italy", "stage", "intern"]
+  category: consulting
+  priority: high
+  # Large Milan/Assago intern intake. Its Workday omits locationsText; the
+  # scraper reads the location from the job URL path instead.
+
+- name: Databricks
+  ats: greenhouse
+  slug: databricks
+  category: big-tech
+  priority: high
+  # Milan office.
+
+- name: Celonis
+  ats: greenhouse
+  slug: celonis
+  category: big-tech
+  priority: normal
+  # Munich HQ, Milan office.
+
+- name: Airbnb
+  ats: greenhouse
+  slug: airbnb
+  category: big-tech
+  priority: normal
+  # Milan office.
+
+- name: MongoDB
+  ats: greenhouse
+  slug: mongodb
+  category: big-tech
+  priority: normal
+  # Milan and Rome offices; Dublin engineering hub.
+
+- name: Elastic
+  ats: greenhouse
+  slug: elastic
+  category: big-tech
+  priority: normal
+  # Distributed; hires remote in Italy.
+
+- name: Datadog
+  ats: greenhouse
+  slug: datadog
+  category: big-tech
+  priority: normal
+  # Paris/Dublin engineering; remote roles open to Italy.
+
+- name: Salesforce
+  ats: workday
+  tenant: salesforce
+  wd_host: wd12
+  site: External_Career_Site
+  search_text: ["intern Italy", "intern"]
+  category: big-tech
+  priority: normal
+  # Milan and Rome offices.
+
+- name: Cisco
+  ats: workday
+  tenant: cisco
+  wd_host: wd5
+  site: Cisco_Careers
+  search_text: ["intern Italy", "intern"]
+  category: big-tech
+  priority: normal
+  # Milan and Rome offices.
+
+- name: P&G
+  ats: workday
+  tenant: pg
+  wd_host: wd5
+  site: "1000"
+  search_text: ["internship Italy", "intern"]
+  category: big-tech
+  priority: normal
+  # Rome general office runs a large internship program.
+
+- name: GSK
+  ats: workday
+  tenant: gsk
+  wd_host: wd5
+  site: GSKCareers
+  search_text: ["intern Italy", "intern"]
+  category: pharma-biotech
+  priority: normal
+  # Siena vaccines R&D hub.
+
+- name: Novartis
+  ats: workday
+  tenant: novartis
+  wd_host: wd3
+  site: Novartis_Careers
+  search_text: ["intern Italy", "intern"]
+  category: pharma-biotech
+  priority: normal
+  # Milan and Ivrea (Turin area) sites; Basel HQ.
+
+- name: ElevenLabs
+  ats: ashby
+  slug: elevenlabs
+  category: startup
+  priority: normal
+  # AI audio; remote roles in Italy.
+
+- name: Deliveroo
+  ats: greenhouse
+  slug: deliveroo
+  category: startup
+  priority: normal
+  # Milan office.

@@ -36,4 +36,5 @@ class AshbyScraper(Scraper):
             category=self.category,
             priority=self.priority,
             ats="ashby",
+            description=job.get("descriptionPlain", ""),
         )

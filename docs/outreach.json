@@ -1,0 +1,339 @@
+{
+ "generated_at": "2026-09-29T14:15+00:00",
+ "contacts": [
+  {
+   "id": "satispay-tech-recruiter-talent-acquisition",
+   "company": "Satispay",
+   "why": "Milan HQ payments fintech; most open roles are in Milan.",
+   "contact_role": "Tech recruiter / Talent acquisition",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Satispay%20talent%20acquisition",
+   "careers_url": "https://jobs.ashbyhq.com/satispay",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "prima-assicurazioni-engineering-manager-tech-recruiter",
+   "company": "Prima Assicurazioni",
+   "why": "Milan insurtech with a large in-house engineering team.",
+   "contact_role": "Engineering manager / Tech recruiter",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Prima%20Assicurazioni%20engineering%20manager",
+   "careers_url": "https://jobs.eu.lever.co/prima",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "Talent Acquisition Intern",
+     "link": "https://jobs.eu.lever.co/prima/dfa040e4-cad3-4f8a-a527-6ff38002467e",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 1
+  },
+  {
+   "id": "scalapay-talent-acquisition",
+   "company": "Scalapay",
+   "why": "Milan BNPL fintech; posts internships regularly.",
+   "contact_role": "Talent acquisition",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Scalapay%20talent%20acquisition",
+   "careers_url": "https://job-boards.eu.greenhouse.io/scalapaysrl",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "SDR Intern",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4927248101",
+     "role_match": false
+    },
+    {
+     "role": "Receptionist Intern (6months)",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4960781101",
+     "role_match": false
+    },
+    {
+     "role": "Legal Counsel Intern - Regulatory and Complaints handling - (6 months)",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4961960101",
+     "role_match": false
+    },
+    {
+     "role": "In-Store Operations intern - bilingual French/Italian (6-months)",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4739799101",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 4
+  },
+  {
+   "id": "moneyfarm-data-engineering-team-lead",
+   "company": "Moneyfarm",
+   "why": "Milan-founded digital wealth manager; small team, direct contact works.",
+   "contact_role": "Data / engineering team lead",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Moneyfarm%20data%20engineering",
+   "careers_url": "https://apply.workable.com/moneyfarm/",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "mastercard-campus-early-careers-recruiter-italy",
+   "company": "Mastercard",
+   "why": "Runs Summer 2027 intern programs in Milan and Rome — structured summer fit.",
+   "contact_role": "Campus / early-careers recruiter (Italy)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Mastercard%20campus%20recruiter%20Italy",
+   "careers_url": "https://careers.mastercard.com/",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "Associate Consultant Intern, Summer 2027 – Milan, Italy",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Milan-Italy/Associate-Consultant-Intern--Summer-2027---Milan--Italy_R-287715-1",
+     "role_match": false
+    },
+    {
+     "role": "Product Management Intern, Summer 2027 - Rome, Italy",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
+     "role_match": false
+    },
+    {
+     "role": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
+     "role_match": false
+    },
+    {
+     "role": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 4
+  },
+  {
+   "id": "amazon-university-recruiter-italy",
+   "company": "Amazon",
+   "why": "2027 SDE and ops intern roles in Turin and Milan.",
+   "contact_role": "University recruiter (Italy)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Amazon%20university%20recruiter%20Italy",
+   "careers_url": "https://www.amazon.jobs/en/search?base_query=intern&country=ITA",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "2027 Software Dev Engineer Intern - Italy",
+     "link": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
+     "role_match": true
+    },
+    {
+     "role": "Process Improvement Specialist Intern - 2027  ",
+     "link": "https://www.amazon.jobs/en/jobs/10558364/process-improvement-specialist-intern-2027",
+     "role_match": false
+    },
+    {
+     "role": "Process Improvement Specialist Intern - 2027 ",
+     "link": "https://www.amazon.jobs/en/jobs/10559027/process-improvement-specialist-intern-2027",
+     "role_match": false
+    },
+    {
+     "role": "2027 Software Dev Engineer Intern - Spain",
+     "link": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
+     "role_match": true
+    },
+    {
+     "role": "2027 Software Dev Engineer Intern",
+     "link": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
+     "role_match": true
+    }
+   ],
+   "open_postings_total": 86
+  },
+  {
+   "id": "accenture-campus-recruiting-italy",
+   "company": "Accenture",
+   "why": "Largest intern intake in Milan/Assago; tech and data tracks.",
+   "contact_role": "Campus recruiting Italy",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Accenture%20campus%20recruiting%20Italia",
+   "careers_url": "https://www.accenture.com/it-it/careers",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "Cloud Transformation Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
+     "role_match": false
+    },
+    {
+     "role": "Capital Projects Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
+     "role_match": false
+    },
+    {
+     "role": "Stage Sales and Business Development per il mercato Financial Services",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-Sales-and-Business-Development_R00074273",
+     "role_match": false
+    },
+    {
+     "role": "Tech Intern - Accenture Customer Innovation Network",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
+     "role_match": false
+    },
+    {
+     "role": "Junior SAP Analyst - Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 40
+  },
+  {
+   "id": "databricks-solutions-engineer-milan-office",
+   "company": "Databricks",
+   "why": "Milan office; data/ML platform matches target roles.",
+   "contact_role": "Solutions engineer (Milan office)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Databricks%20Milan",
+   "careers_url": "https://www.databricks.com/company/careers",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "sanofi-early-careers-data-team-milan",
+   "company": "Sanofi",
+   "why": "Milan internships; pharma data fits the chem/bio interest.",
+   "contact_role": "Early-careers / data team (Milan)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Sanofi%20Milano%20data",
+   "careers_url": "https://jobs.sanofi.com/",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich ICF Quality Pharma Fill and Inspection für November 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-ICF-Quality-Pharma-Fill-and-Inspection_R2828009",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Cartridge Platform Development Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Cartridge-Platform-Development-Mai-2028_R2855486",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikum im Bereich BioAnalytics Germany November 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikum-im-Bereich-BioAnalytics-Germany-November-2027_R2872380",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs der Franchise Rare Diseases Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs-der-Franchise-Rare-Diseases_R2845345",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 15
+  },
+  {
+   "id": "google-university-recruiter-emea",
+   "company": "Google",
+   "why": "Milan office. No public jobs API — check the careers page manually.",
+   "contact_role": "University recruiter (EMEA)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Google%20university%20recruiter%20EMEA",
+   "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=Italy&target_level=INTERN_AND_APPRENTICE",
+   "notes": "EMEA STEP / SWE intern applications usually open in autumn.",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "microsoft-university-recruiter-italy",
+   "company": "Microsoft",
+   "why": "Microsoft House in Milan. Own careers site — check manually.",
+   "contact_role": "University recruiter (Italy)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Microsoft%20university%20recruiter%20Italy",
+   "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Italy&exp=Students%20and%20graduates",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "apple-university-recruiter-emea",
+   "company": "Apple",
+   "why": "Milan offices and the Naples Developer Academy. Own careers site.",
+   "contact_role": "University recruiter (EMEA)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Apple%20university%20recruiter%20EMEA",
+   "careers_url": "https://jobs.apple.com/en-us/search?location=italy-ITAC",
+   "notes": "",
+   "priority": "normal",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "meta-university-recruiter-emea",
+   "company": "Meta",
+   "why": "Small Milan office; most EMEA interns are in London (excluded) or Paris/Dublin.",
+   "contact_role": "University recruiter (EMEA)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Meta%20university%20recruiter%20EMEA",
+   "careers_url": "https://www.metacareers.com/jobs?roles[0]=Internship",
+   "notes": "",
+   "priority": "normal",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "bending-spoons-talent-team",
+   "company": "Bending Spoons",
+   "why": "Milan's best-known tech company; own careers site, not a supported ATS.",
+   "contact_role": "Talent team",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Bending%20Spoons%20talent",
+   "careers_url": "https://bendingspoons.com/careers",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "reply-campus-recruiting",
+   "company": "Reply",
+   "why": "Turin HQ IT consultancy with many technical internships.",
+   "contact_role": "Campus recruiting",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Reply%20campus%20recruiting%20Torino",
+   "careers_url": "https://www.reply.com/en/careers",
+   "notes": "",
+   "priority": "high",
+   "open_postings": [],
+   "open_postings_total": 0
+  },
+  {
+   "id": "stellantis-early-careers-data-software-teams-turin",
+   "company": "Stellantis",
+   "why": "Turin engineering and software hubs.",
+   "contact_role": "Early-careers / data & software teams (Turin)",
+   "name": "",
+   "link": "https://www.linkedin.com/search/results/people/?keywords=Stellantis%20early%20careers%20Torino",
+   "careers_url": "https://www.stellantis.com/en/careers",
+   "notes": "",
+   "priority": "normal",
+   "open_postings": [],
+   "open_postings_total": 0
+  }
+ ]
+}

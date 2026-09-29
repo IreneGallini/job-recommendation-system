@@ -52,11 +52,12 @@ class PersonioScraper(Scraper):
             role=title,
             location="; ".join(offices),
             link=f"https://{self.slug}.{self.host_suffix}/job/{job_id}?language=en",
-            date_added="",
+            date_added=self._field(block, "createdAt"),
             source="Personio",
             category=self.category,
             priority=self.priority,
             ats="personio",
+            description=self._field(block, "jobDescriptions"),
         )
 
     @staticmethod

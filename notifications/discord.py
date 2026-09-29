@@ -1,5 +1,6 @@
 import requests
 import filters
+import ranking
 from scrapers.base import Posting
 
 _MAX_MESSAGE_LEN = 1900  # Discord's cap is 2000; leave a margin.
@@ -13,7 +14,7 @@ def send_new_postings(webhook_url: str, postings: list[Posting]) -> None:
     if not postings:
         return
 
-    ordered = sorted(postings, key=_sort_key)
+    ordered = ranking.rank(postings)
     lines = [_format_line(p) for p in ordered]
 
     header = f"**{len(ordered)} new internship posting(s):**"
@@ -27,18 +28,13 @@ def send_new_postings(webhook_url: str, postings: list[Posting]) -> None:
         response.raise_for_status()
 
 
-def _sort_key(p: Posting) -> tuple[int, int, str]:
-    region = filters.region_for_posting(p)
-    region_rank = 0 if region == filters.MILAN else 1
-    priority_rank = 0 if p.priority == "high" else 1
-    return (region_rank, priority_rank, p.company)
-
-
 def _format_line(p: Posting) -> str:
-    flag = "⭐ " if p.priority == "high" or filters.region_for_posting(p) == filters.MILAN else ""
+    region = filters.region_for_posting(p)
+    flag = "⭐ " if p.priority == "high" or region in (filters.MILAN, filters.TURIN) else ""
+    summer = "[summer ✓]" if p.summer_fit == "yes" else "[summer ?]"
     return (
-        f"{flag}**{p.company}** — {p.role}\n"
-        f"{p.location} · {p.source}\n"
+        f"{flag}**{p.company}** — {p.role} {summer}\n"
+        f"{p.location} · {p.source} · score {ranking.score(p)}\n"
         f"{p.link}"
     )
 

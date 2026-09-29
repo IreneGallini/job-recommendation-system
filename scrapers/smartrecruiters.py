@@ -1,9 +1,10 @@
-import requests
 import filters
-from .base import Posting, Scraper
+from .base import Posting, Scraper, retrying_session
 
 _USER_AGENT = "internship-scraper/1.0 (+https://github.com/)"
 _PAGE_LIMIT = 100
+# Bosch alone is ~48 pages; one read timeout used to drop the whole company.
+_session = retrying_session()
 
 
 class SmartRecruitersScraper(Scraper):
@@ -25,7 +26,7 @@ class SmartRecruitersScraper(Scraper):
         postings = []
         offset = 0
         while True:
-            response = requests.get(
+            response = _session.get(
                 url,
                 params={"limit": _PAGE_LIMIT, "offset": offset},
                 headers={"User-Agent": _USER_AGENT},
@@ -41,6 +42,20 @@ class SmartRecruitersScraper(Scraper):
             if offset >= data.get("totalFound", 0):
                 break
         return postings
+
+    def fetch_description(self, posting: Posting) -> str:
+        posting_id = posting.link.rstrip("/").rsplit("/", 1)[-1]
+        response = _session.get(
+            f"https://api.smartrecruiters.com/v1/companies/{self.company_identifier}/postings/{posting_id}",
+            headers={"User-Agent": _USER_AGENT},
+            timeout=30,
+        )
+        response.raise_for_status()
+        sections = (response.json().get("jobAd") or {}).get("sections") or {}
+        return "\n".join(
+            (sections.get(key) or {}).get("text", "")
+            for key in ("jobDescription", "qualifications", "additionalInformation")
+        )
 
     def _to_posting(self, posting: dict) -> Posting:
         location = posting.get("location") or {}

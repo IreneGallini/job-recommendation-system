@@ -1,10 +1,13 @@
 import json
 import os
 import sys
+import time
+from concurrent.futures import ThreadPoolExecutor
 
 import yaml
 
 import config
+import enrich
 import filters
 from scrapers.simplify_github import SimplifyGitHubScraper
 from scrapers.greenhouse import GreenhouseScraper
@@ -15,11 +18,14 @@ from scrapers.smartrecruiters import SmartRecruitersScraper
 from scrapers.personio import PersonioScraper
 from scrapers.workable import WorkableScraper
 from scrapers.teamtailor import TeamtailorScraper
-from storage.csv_store import load_seen_links, load_all_postings, append_new_postings
+from scrapers.amazon import AmazonScraper
+from storage.csv_store import csv_needs_migration, load_all_postings, save_all_postings, today
 from storage.readme_table import write_postings_table
+from storage.site_data import write_site_data
 from notifications.discord import send_new_postings
 
 _LAST_COUNTS_PATH = "last_run_counts.json"
+_MAX_DESCRIPTION_FETCHES = 500
 
 _ATS_BUILDERS = {
     "greenhouse": lambda c: GreenhouseScraper(c["slug"], c["name"], c["category"], c["priority"]),
@@ -40,6 +46,9 @@ _ATS_BUILDERS = {
     ),
     "workable": lambda c: WorkableScraper(c["slug"], c["name"], c["category"], c["priority"]),
     "teamtailor": lambda c: TeamtailorScraper(c["slug"], c["name"], c["category"], c["priority"]),
+    "amazon": lambda c: AmazonScraper(
+        c["name"], c["category"], c["priority"], search_text=c.get("search_text", "intern")
+    ),
 }
 
 
@@ -57,9 +66,40 @@ def build_scrapers() -> list:
         if builder is None:
             print(f"WARNING: unknown ats '{ats}' for company '{company.get('name')}', skipping.")
             continue
-        scrapers.append(builder(company))
+        scraper = builder(company)
+        scraper.summer_program = bool(company.get("summer_program", False))
+        scrapers.append(scraper)
 
     return scrapers
+
+
+def _source_name(scraper) -> str:
+    return getattr(scraper, "company_name", None) or type(scraper).__name__
+
+
+def _scrape(scraper):
+    """Run one scraper; None on failure (one failing source doesn't kill the run)."""
+    started = time.monotonic()
+    try:
+        postings = scraper.get_postings()
+    except Exception as e:
+        print(f"ERROR: {_source_name(scraper)} failed after {time.monotonic() - started:.0f}s: {e}", file=sys.stderr)
+        return None
+    scraper.elapsed = time.monotonic() - started
+    return postings
+
+
+def _describe(p, scraper) -> None:
+    """Fill p.description via the source's detail endpoint if the list
+    response didn't include it. Sets p.described only on success."""
+    if p.description or scraper is None:
+        p.described = True
+        return
+    try:
+        p.description = scraper.fetch_description(p)
+        p.described = True
+    except Exception as e:
+        print(f"WARNING: description fetch failed for {p.link}: {e}", file=sys.stderr)
 
 
 def load_last_counts() -> dict:
@@ -79,16 +119,21 @@ def main() -> None:
     last_counts = load_last_counts()
 
     all_postings = []
+    scraper_for_link = {}
     current_counts = {}
-    for scraper in scrapers:
-        source_name = getattr(scraper, "company_name", None) or type(scraper).__name__
-        try:
-            postings = scraper.get_postings()
-        except Exception as e:
-            print(f"ERROR: {source_name} failed: {e}", file=sys.stderr)
+    # Sources are independent network calls; fetch them concurrently, then
+    # process results in watchlist order so the log stays readable.
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        results = list(pool.map(_scrape, scrapers))
+    for scraper, postings in zip(scrapers, results):
+        source_name = _source_name(scraper)
+        if postings is None:
             continue
 
-        print(f"{source_name}: {len(postings)} posting(s).")
+        for p in postings:
+            p.summer_program = getattr(scraper, "summer_program", False)
+            scraper_for_link[p.link] = scraper
+        print(f"{source_name}: {len(postings)} posting(s) ({scraper.elapsed:.0f}s).")
         current_counts[source_name] = len(postings)
         if len(postings) == 0 and last_counts.get(source_name, 0) > 0:
             print(
@@ -107,22 +152,63 @@ def main() -> None:
 
     print(f"Found {len(all_postings)} total postings across all sources.")
 
-    european_postings = filters.filter_and_tag(all_postings)
-    print(f"{len(european_postings)} posting(s) after role/location filtering.")
+    eligible = list({p.link: p for p in filters.filter_and_tag(all_postings)}.values())
+    print(
+        f"{len(eligible)} internship(s) in eligible locations "
+        f"({sum(p.role_match for p in eligible)} in target roles)."
+    )
 
-    seen = load_seen_links(config.CSV_PATH)
-    new_postings = [p for p in european_postings if p.link not in seen]
+    migrating = csv_needs_migration(config.CSV_PATH)
+    stored = {p.link: p for p in load_all_postings(config.CSV_PATH)}
+    run_date = today()
+    new_postings = []
+    to_enrich = []
+    for p in eligible:
+        existing = stored.get(p.link)
+        if existing is None:
+            p.first_seen = run_date
+            p.last_seen = run_date
+            stored[p.link] = p
+            new_postings.append(p)
+            to_enrich.append(p)
+            continue
+        # Refresh what the source may have changed (or what an older parser
+        # got wrong), keep first_seen and the parsed enrichment fields.
+        existing.role = p.role
+        existing.location, existing.city, existing.country = p.location, p.city, p.country
+        existing.role_match = p.role_match
+        existing.summer_program = p.summer_program
+        existing.posted_date = p.posted_date or existing.posted_date
+        existing.last_seen = run_date
+        if migrating or not existing.described:
+            # Rows written before enrichment existed, or whose description
+            # fetch failed last time, get (re)parsed.
+            existing.description = p.description
+            to_enrich.append(existing)
 
     print(f"{len(new_postings)} new posting(s) since last run.")
 
-    if new_postings:
-        append_new_postings(config.CSV_PATH, new_postings)
-        print(f"Saved to {config.CSV_PATH}.")
-        write_postings_table(config.README_PATH, load_all_postings(config.CSV_PATH))
-        print(f"Updated postings table in {config.README_PATH}.")
-        send_new_postings(config.DISCORD_WEBHOOK_URL, new_postings)
-    else:
-        print("No new postings.")
+    # New postings first, then retries, capped so a flaky source can't make
+    # every run re-fetch hundreds of descriptions.
+    to_enrich = to_enrich[:_MAX_DESCRIPTION_FETCHES]
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(lambda p: _describe(p, scraper_for_link.get(p.link)), to_enrich))
+    for p in to_enrich:
+        enrich.enrich(p)
+    failed = sum(not p.described for p in to_enrich)
+    print(f"Enriched {len(to_enrich)} posting(s) ({failed} description fetch(es) failed, will retry).")
+
+    all_stored = list(stored.values())
+    save_all_postings(config.CSV_PATH, all_stored)
+    write_postings_table(config.README_PATH, all_stored)
+    write_site_data(config.DOCS_DIR, all_stored, config.OUTREACH_YAML_PATH)
+    print(
+        f"Saved {len(all_stored)} posting(s) to {config.CSV_PATH}; "
+        f"updated {config.README_PATH} and {config.DOCS_DIR}/."
+    )
+
+    to_notify = [p for p in new_postings if p.role_match and p.summer_fit != "no"]
+    send_new_postings(config.DISCORD_WEBHOOK_URL, to_notify)
 
 
 if __name__ == "__main__":

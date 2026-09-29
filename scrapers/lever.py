@@ -38,6 +38,11 @@ class LeverScraper(Scraper):
 
     def _to_posting(self, posting: dict) -> Posting:
         categories = posting.get("categories") or {}
+        description = "\n".join(
+            [posting.get("descriptionPlain", "")]
+            + [f"{item.get('text', '')}\n{item.get('content', '')}" for item in posting.get("lists") or []]
+            + [posting.get("additionalPlain", "")]
+        )
         return Posting(
             company=self.company_name,
             role=posting.get("text", ""),
@@ -48,4 +53,5 @@ class LeverScraper(Scraper):
             category=self.category,
             priority=self.priority,
             ats="lever",
+            description=description,
         )
