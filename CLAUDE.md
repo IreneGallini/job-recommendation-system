@@ -69,6 +69,17 @@ python -m http.server -d docs   # then open http://localhost:8000
 5. Add an entry to `companies.yaml` with `name`, `ats`, the slug/tenant fields, `category`, and `priority`.
 6. Run `python main.py` and confirm the new company's count appears in the per-source log line.
 
+## Discovering new companies
+
+`tools/discover_ats.py` proposes watchlist entries; it never edits `companies.yaml`. Run `python tools/discover_ats.py` (options: `--limit N`, `--countries it,ch,...`, `--no-wikidata`, `--names FILE` with one "name[, website]" per line, `--refresh`).
+
+- Seeds: employers in `internships.csv` not on the watchlist (Adzuna/SimplifyJobs rows), Wikidata companies in the chosen countries with a website and ≥200 employees, a stock listing or reported revenue (three separate SPARQL queries — one combined query times out), and `--names`.
+- Detection: (1) a stored posting's link already points at an ATS; (2) website scan — homepage, followed careers links and common careers paths, regex for ATS URLs (the only way to find Workday tenants); (3) slug probe — guessed slugs against each ATS's public API. Personio is never slug-probed: unknown subdomains redirect to personio.com, which rate-limits.
+- Every candidate is verified by running the real scraper (`main._ATS_BUILDERS`) and must return postings; slug-probe hits with no jobs in an eligible country are discarded (almost always a same-named different company). Confidence: `high` (posting link / website), `medium` (slug probe + Greenhouse board name matches), `low` (other slug probes).
+- Website fetches have a 15 s wall-clock deadline and 2 MB cap (`fetch_page`) — requests' timeout is per read, and some bot protections trickle bytes.
+- Output: `candidates.yaml` (ranked by target-role / Europe internship count, with evidence comments, plus a list of companies whose careers pages use ATSs we can't scrape yet, e.g. SuccessFactors, inRecruiting). Cache: `.cache/discover_ats.json`, so reruns only check new companies. Both are gitignored.
+- Review each candidate against the real careers page, set `category`/`priority`, and paste it into `companies.yaml` (the "Adding a company" rules still apply).
+
 ## Updating the target internship year
 
 `SIMPLIFY_README_URL` currently defaults (in `config.py`) to the `Summer2027-Internships` repo. When SimplifyJobs creates the `Summer2028-Internships` repo, update the default in `config.py` and/or `SIMPLIFY_README_URL` in `.env` (local) and the commented example in `scrape.yml`. The URL pattern is:

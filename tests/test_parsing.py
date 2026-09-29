@@ -219,3 +219,26 @@ def test_adzuna_inherits_watchlist_metadata():
         {"name": "Databricks", "category": "big-tech", "priority": "high", "summer_program": True},
     ])
     assert (p.category, p.priority, p.summer_program) == ("big-tech", "high", True)
+
+
+@pytest.mark.parametrize("text, expected", [
+    ("https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/123", ("greenhouse", {"slug": "scalapaysrl"})),
+    ("https://boards.greenhouse.io/embed/job_board?for=databricks", ("greenhouse", {"slug": "databricks"})),
+    ("https://jobs.eu.lever.co/prima/abc", ("lever", {"slug": "prima", "host": "api.eu.lever.co"})),
+    ("https://jobs.ashbyhq.com/satispay", ("ashby", {"slug": "satispay"})),
+    ("https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/x",
+     ("workday", {"tenant": "nvidia", "wd_host": "wd5", "site": "NVIDIAExternalCareerSite"})),
+    ("https://jobs.smartrecruiters.com/BoschGroup/7", ("smartrecruiters", {"company_identifier": "BoschGroup"})),
+    ("https://buddyfit.jobs.personio.com/job/1", ("personio", {"slug": "buddyfit", "host_suffix": "jobs.personio.com"})),
+    ("https://apply.workable.com/moneyfarm/j/ABC", ("workable", {"slug": "moneyfarm"})),
+    ("https://softswiss.teamtailor.com/jobs", ("teamtailor", {"slug": "softswiss"})),
+])
+def test_discover_ats_url_patterns(text, expected):
+    from tools.discover_ats import ats_hits
+    assert ats_hits(text)[0] == expected
+
+
+def test_discover_unsupported_and_slugs():
+    from tools.discover_ats import slug_variants, unsupported_hits
+    assert unsupported_hits('<a href="https://career5.successfactors.eu/career?company=pirelli">') == ["SAP SuccessFactors"]
+    assert slug_variants("Bending Spoons S.p.A.") == ["bendingspoons", "bending-spoons"]
