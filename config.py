@@ -18,6 +18,16 @@ DOCS_DIR = os.getenv("DOCS_DIR", "docs")
 # the README.
 SITE_URL = os.getenv("SITE_URL", "https://irenegallini.github.io/job-recommendation-system/")
 
+# Adzuna job-aggregator API (free key from developer.adzuna.com). Skipped if
+# unset. The free tier allows 2,500 requests/month, so it runs once a day
+# (the UTC 00:00 cron run, or any run with ADZUNA_FORCE=1) and each run is
+# capped at ADZUNA_MAX_REQUESTS.
+ADZUNA_APP_ID = os.getenv("ADZUNA_APP_ID", "")
+ADZUNA_APP_KEY = os.getenv("ADZUNA_APP_KEY", "")
+ADZUNA_FORCE = os.getenv("ADZUNA_FORCE", "") == "1"
+ADZUNA_MAX_PAGES_PER_QUERY = int(os.getenv("ADZUNA_MAX_PAGES_PER_QUERY", "3"))
+ADZUNA_MAX_REQUESTS = int(os.getenv("ADZUNA_MAX_REQUESTS", "75"))
+
 # Preferred commuting areas (lowercase). Postings in these towns are bucketed
 # with Milan / Turin in the README and get the Milan / Turin ranking boost.
 MILAN_AREA_CITIES = (
@@ -72,7 +82,7 @@ CHEM_BIO_KEYWORDS = (
 )
 
 # Recommendation score weights (see ranking.py). Tune these to change how
-# the site's Inbox, and the README are ordered.
+# the site's Inbox and the README are ordered.
 SCORE_WEIGHTS = {
     "milan": 40,
     "turin": 35,

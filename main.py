@@ -3,6 +3,7 @@ import os
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
 
 import yaml
 
@@ -19,6 +20,7 @@ from scrapers.personio import PersonioScraper
 from scrapers.workable import WorkableScraper
 from scrapers.teamtailor import TeamtailorScraper
 from scrapers.amazon import AmazonScraper
+from scrapers.adzuna import AdzunaScraper
 from storage.csv_store import csv_needs_migration, load_all_postings, save_all_postings, today
 from storage.readme_table import write_postings_table
 from storage.site_data import write_site_data
@@ -51,13 +53,29 @@ _ATS_BUILDERS = {
 }
 
 
-def build_scrapers() -> list:
-    scrapers = [SimplifyGitHubScraper(config.SIMPLIFY_README_URL)]
+def load_companies() -> list[dict]:
+    if not os.path.exists(config.COMPANIES_YAML_PATH):
+        return []
+    with open(config.COMPANIES_YAML_PATH, encoding="utf-8") as f:
+        return yaml.safe_load(f) or []
 
-    companies = []
-    if os.path.exists(config.COMPANIES_YAML_PATH):
-        with open(config.COMPANIES_YAML_PATH, encoding="utf-8") as f:
-            companies = yaml.safe_load(f) or []
+
+def adzuna_due() -> bool:
+    """Adzuna's free tier (2,500 requests/month) only stretches to one run a
+    day: the 00:00 UTC cron run (hour < 6 tolerates a late-starting job), or
+    any run with ADZUNA_FORCE=1."""
+    if not (config.ADZUNA_APP_ID and config.ADZUNA_APP_KEY):
+        return False
+    return config.ADZUNA_FORCE or datetime.now(timezone.utc).hour < 6
+
+
+def build_scrapers(companies: list[dict]) -> list:
+    scrapers = [SimplifyGitHubScraper(config.SIMPLIFY_README_URL)]
+    if adzuna_due():
+        scrapers.append(AdzunaScraper(
+            config.ADZUNA_APP_ID, config.ADZUNA_APP_KEY,
+            config.ADZUNA_MAX_PAGES_PER_QUERY, config.ADZUNA_MAX_REQUESTS,
+        ))
 
     for company in companies:
         ats = company.get("ats")
@@ -101,6 +119,35 @@ def _describe(p, scraper) -> None:
         print(f"WARNING: description fetch failed for {p.link}: {e}", file=sys.stderr)
 
 
+def drop_cross_source_duplicates(eligible: list, stored: dict) -> list:
+    """Drop Adzuna postings for jobs already listed by another source (this
+    run or stored): the ATS copy has the direct link and full description."""
+    seen = {
+        filters.dedup_key(p)
+        for p in list(eligible) + list(stored.values())
+        if p.source != "Adzuna"
+    }
+    kept = [p for p in eligible if p.source != "Adzuna" or filters.dedup_key(p) not in seen]
+    dropped = len(eligible) - len(kept)
+    if dropped:
+        print(f"Dropped {dropped} Adzuna posting(s) already listed by another source.")
+    return kept
+
+
+def apply_watchlist_metadata(postings: list, companies: list[dict]) -> None:
+    """Aggregator postings from a watchlist company get its category,
+    priority and summer_program, same as the company's own ATS postings."""
+    by_name = {filters.normalize_company(c.get("name", "")): c for c in companies}
+    for p in postings:
+        if p.source != "Adzuna":
+            continue
+        company = by_name.get(filters.normalize_company(p.company))
+        if company:
+            p.category = company.get("category", p.category)
+            p.priority = company.get("priority", p.priority)
+            p.summer_program = bool(company.get("summer_program", False))
+
+
 def load_last_counts() -> dict:
     if not os.path.exists(_LAST_COUNTS_PATH):
         return {}
@@ -114,7 +161,8 @@ def save_last_counts(counts: dict) -> None:
 
 
 def main() -> None:
-    scrapers = build_scrapers()
+    companies = load_companies()
+    scrapers = build_scrapers(companies)
     last_counts = load_last_counts()
 
     all_postings = []
@@ -143,6 +191,13 @@ def main() -> None:
             )
         all_postings.extend(postings)
 
+    # Adzuna only runs once a day; carry its count forward on other runs so
+    # the breakage warning compares like with like.
+    if "Adzuna" in last_counts and not any(isinstance(s, AdzunaScraper) for s in scrapers):
+        current_counts["Adzuna"] = last_counts["Adzuna"]
+    for scraper in scrapers:
+        if isinstance(scraper, AdzunaScraper):
+            print(f"Adzuna: {scraper.requests_made} API request(s) used.")
     save_last_counts(current_counts)
 
     if not all_postings:
@@ -152,6 +207,7 @@ def main() -> None:
     print(f"Found {len(all_postings)} total postings across all sources.")
 
     eligible = list({p.link: p for p in filters.filter_and_tag(all_postings)}.values())
+    apply_watchlist_metadata(eligible, companies)
     print(
         f"{len(eligible)} internship(s) in eligible locations "
         f"({sum(p.role_match for p in eligible)} in target roles)."
@@ -159,6 +215,7 @@ def main() -> None:
 
     migrating = csv_needs_migration(config.CSV_PATH)
     stored = {p.link: p for p in load_all_postings(config.CSV_PATH)}
+    eligible = drop_cross_source_duplicates(eligible, stored)
     run_date = today()
     new_postings = []
     to_enrich = []

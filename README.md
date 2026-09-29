@@ -14,6 +14,7 @@ Classification:
 Sources:
 - SimplifyJobs internship repo (non-US rows only)
 - Company watchlist (`companies.yaml`) via Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Personio, Workable, and Teamtailor public APIs
+- Adzuna job aggregator (once a day; Italy, Switzerland, France, Germany, Spain, Netherlands, Belgium, Austria)
 
 Position key words:
 - software engineer

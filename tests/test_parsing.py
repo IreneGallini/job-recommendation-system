@@ -154,3 +154,68 @@ def test_ranking_breaks_ties_by_newest():
     older = _posting(link="old", posted_date="2026-06-01")
     newer = _posting(link="new", posted_date="2026-06-02")
     assert [p.link for p in ranking.rank([older, newer], today=TODAY)] == ["new", "old"]
+
+
+ADZUNA_JOB = {
+    "id": "4812345678",
+    "title": "Stage Data Analyst",
+    "company": {"display_name": "Databricks Inc."},
+    "location": {"display_name": "Segrate, Milano", "area": ["Italia", "Lombardia", "Milano", "Segrate"]},
+    "redirect_url": "https://www.adzuna.it/land/ad/4812345678?se=abc&utm_medium=api&v=XYZ",
+    "created": "2026-09-20T08:15:00Z",
+    "description": "Stage di 6 mesi nel team dati...",
+}
+
+
+def test_adzuna_to_posting():
+    from scrapers.adzuna import to_posting
+    p = to_posting(ADZUNA_JOB, "Italy")
+    assert p.company == "Databricks Inc."
+    assert p.location == "Segrate, Italy"
+    assert p.link == "https://www.adzuna.it/land/ad/4812345678"
+    assert p.date_added == "2026-09-20"
+    assert p.source == "Adzuna"
+    [tagged] = filters.filter_and_tag([p])
+    assert (tagged.city, tagged.country) == ("Segrate", "Italy")
+    assert tagged.role_match
+
+
+def test_adzuna_region_only_location():
+    from scrapers.adzuna import to_posting
+    job = dict(ADZUNA_JOB, location={"area": ["Italia", "Lombardia"]})
+    assert to_posting(job, "Italy").location == "Italy"
+
+
+@pytest.mark.parametrize("raw, expected", [
+    ("Databricks Inc.", "databricks"),
+    ("Intesa Sanpaolo S.p.A.", "intesa sanpaolo"),
+    ("Accenture Italia", "accenture"),
+    ("Bosch GmbH", "bosch"),
+    ("Mistral AI", "mistral ai"),
+    ("S.p.A.", "spa"),  # never reduced to nothing
+])
+def test_normalize_company(raw, expected):
+    assert filters.normalize_company(raw) == expected
+
+
+def test_adzuna_duplicate_of_ats_posting_dropped():
+    import main
+    from scrapers.adzuna import to_posting
+    ats = Posting("Databricks", "Stage - Data Analyst", "Segrate, Italy",
+                  "https://boards.greenhouse.io/databricks/jobs/1", "", "Databricks", ats="greenhouse")
+    other = dict(ADZUNA_JOB, id="2", title="Stage Software Engineer",
+                 redirect_url="https://www.adzuna.it/land/ad/2")
+    eligible = filters.filter_and_tag([ats, to_posting(ADZUNA_JOB, "Italy"), to_posting(other, "Italy")])
+    kept = main.drop_cross_source_duplicates(eligible, stored={})
+    assert [p.source for p in kept] == ["Databricks", "Adzuna"]
+    assert kept[1].role == "Stage Software Engineer"
+
+
+def test_adzuna_inherits_watchlist_metadata():
+    import main
+    from scrapers.adzuna import to_posting
+    p = to_posting(ADZUNA_JOB, "Italy")
+    main.apply_watchlist_metadata([p], [
+        {"name": "Databricks", "category": "big-tech", "priority": "high", "summer_program": True},
+    ])
+    assert (p.category, p.priority, p.summer_program) == ("big-tech", "high", True)

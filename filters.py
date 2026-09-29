@@ -357,6 +357,30 @@ def filter_and_tag(postings: list[Posting]) -> list[Posting]:
     return kept
 
 
+# Legal-form suffixes stripped when comparing company names across sources
+# ("Databricks Inc." on Adzuna vs "Databricks" on the watchlist).
+_LEGAL_SUFFIXES = {
+    "spa", "srl", "srls", "sas", "snc", "inc", "llc", "ltd", "limited", "plc",
+    "gmbh", "ag", "se", "sa", "sarl", "sl", "bv", "nv", "co", "corp",
+    "corporation", "company", "group", "italia", "italy",
+}
+
+
+def normalize_company(name: str) -> str:
+    """Lowercased company name without punctuation or legal-form suffixes."""
+    words = re.sub(r"[^\w\s]", "", (name or "").lower().replace("&", " and ")).split()
+    while len(words) > 1 and words[-1] in _LEGAL_SUFFIXES:
+        words.pop()
+    return " ".join(words)
+
+
+def dedup_key(p: Posting) -> tuple[str, str, str]:
+    """Identifies the same job listed by two sources (an ATS and Adzuna),
+    whose links differ. Call after filter_and_tag (needs p.city)."""
+    title = " ".join(re.sub(r"[^\w\s]", " ", p.role.lower()).split())
+    return (normalize_company(p.company), title, p.city.lower())
+
+
 def _format_location(city: str, country: str, region: str) -> str:
     if region == REMOTE_EUROPE and not country:
         return "Remote (Europe)"
