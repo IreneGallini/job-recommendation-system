@@ -252,9 +252,13 @@ def main() -> None:
 
     print(f"{len(new_postings)} new posting(s) since last run.")
 
-    # New postings first, then retries, capped so a flaky source can't make
-    # every run re-fetch hundreds of descriptions.
-    to_enrich = to_enrich[:_MAX_DESCRIPTION_FETCHES]
+    # New postings first, then retries. Only postings that need a detail
+    # fetch are capped (so a flaky source can't make every run re-fetch
+    # hundreds of descriptions); ones whose source already gave the text,
+    # like Adzuna's snippets, are just parsed.
+    have_text = [p for p in to_enrich if p.description]
+    need_fetch = [p for p in to_enrich if not p.description]
+    to_enrich = have_text + need_fetch[:_MAX_DESCRIPTION_FETCHES]
     with ThreadPoolExecutor(max_workers=8) as pool:
         list(pool.map(lambda p: _describe(p, scraper_for_link.get(p.link)), to_enrich))
     for p in to_enrich:

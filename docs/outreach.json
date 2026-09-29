@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T17:14+00:00",
+ "generated_at": "2026-09-29T21:04+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -254,8 +254,24 @@
    "careers_url": "https://www.google.com/about/careers/applications/jobs/results/?location=Italy&target_level=INTERN_AND_APPRENTICE",
    "notes": "EMEA STEP / SWE intern applications usually open in autumn.",
    "priority": "high",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5872391764",
+     "role_match": true
+    },
+    {
+     "role": "Data Science PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5849979493",
+     "role_match": true
+    },
+    {
+     "role": "Data Science PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5848973616",
+     "role_match": true
+    }
+   ],
+   "open_postings_total": 3
   },
   {
    "id": "microsoft-university-recruiter-italy",
@@ -332,8 +348,24 @@
    "careers_url": "https://www.stellantis.com/en/careers",
    "notes": "",
    "priority": "normal",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "Stage : Application de l'IA (machine learning) à l'automatisation des tests XIL",
+     "link": "https://www.adzuna.fr/details/5902920836",
+     "role_match": true
+    },
+    {
+     "role": "Stage : Ingénieur Data Analytics - Performance Économique et Base Coûts Composants Mécatroniques",
+     "link": "https://www.adzuna.fr/details/5902921097",
+     "role_match": true
+    },
+    {
+     "role": "Stage : AI for System Architecture Engineer H/F - Knowledge & Decision Assistant",
+     "link": "https://www.adzuna.fr/details/5902917024",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 3
   }
  ]
 }

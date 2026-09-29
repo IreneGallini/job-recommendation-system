@@ -117,18 +117,34 @@ def _session() -> requests.Session:
 
 # --- seeds -------------------------------------------------------------------
 
+# Staffing agencies post on behalf of other companies (mostly on Adzuna);
+# watching their own boards would add every client's jobs, so skip them.
+_STAFFING_AGENCIES = re.compile(
+    r"\b(randstad|adecco|manpower|gi group|umana|openjobmetis|hays|michael page|page personnel|"
+    r"robert walters|robert half|kelly services|synergie|etjca|orienta|lavoro pi[uù]|temporary|"
+    r"start people|men at work|in job|job italia|trenkwalder|tempo team|akkodis|experis|"
+    r"proposte di lavoro|hunters? group|talent garden|jobbydoo)\b",
+    re.I,
+)
+
+
 def seeds_from_csv(watchlist: set[str]) -> list[dict]:
+    """Employers in the CSV that aren't watched yet, those with the most
+    target-role postings first (so --limit checks the most useful ones)."""
     if not os.path.exists(config.CSV_PATH):
         return []
     seeds = {}
     with open(config.CSV_PATH, encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f):
             key = filters.normalize_company(row.get("company", ""))
-            if not key or key in watchlist or key == "unknown":
+            if not key or key in watchlist or key == "unknown" or _STAFFING_AGENCIES.search(row.get("company", "")):
                 continue
-            seed = seeds.setdefault(key, {"name": row["company"], "website": "", "links": [], "seed": row.get("source", "")})
+            seed = seeds.setdefault(key, {
+                "name": row["company"], "website": "", "links": [], "seed": row.get("source", ""), "target_rows": 0,
+            })
             seed["links"].append(row.get("link", ""))
-    return list(seeds.values())
+            seed["target_rows"] += row.get("role_match") == "true"
+    return sorted(seeds.values(), key=lambda s: -s["target_rows"])
 
 
 def seeds_from_wikidata(countries: list[str]) -> list[dict]:
@@ -253,7 +269,13 @@ def slug_variants(name: str) -> list[str]:
     words = re.sub(r"[^a-z0-9\s-]", "", filters.normalize_company(name)).split()
     if not words:
         return []
-    return list(dict.fromkeys(["".join(words), "-".join(words)]))
+    variants = ["".join(words), "-".join(words)]
+    # Aggregator names carry extra words ("Nokia Global", "Thales Italia
+    # Spa"); the bare first word is often the ATS slug. Only for distinctive
+    # words: short ones ("ai", "the") hit unrelated boards.
+    if len(words) > 1 and len(words[0]) >= 4:
+        variants.append(words[0])
+    return list(dict.fromkeys(variants))
 
 
 def probe_candidates(name: str) -> list[tuple[str, dict]]:

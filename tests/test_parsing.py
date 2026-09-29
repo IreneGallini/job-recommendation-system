@@ -243,7 +243,9 @@ def test_discover_ats_url_patterns(text, expected):
 def test_discover_unsupported_and_slugs():
     from tools.discover_ats import slug_variants, unsupported_hits
     assert unsupported_hits('<a href="https://career5.successfactors.eu/career?company=pirelli">') == ["SAP SuccessFactors"]
-    assert slug_variants("Bending Spoons S.p.A.") == ["bendingspoons", "bending-spoons"]
+    assert slug_variants("Bending Spoons S.p.A.") == ["bendingspoons", "bending-spoons", "bending"]
+    assert slug_variants("Mistral AI") == ["mistralai", "mistral-ai", "mistral"]
+    assert slug_variants("The AI Co") == ["theai", "the-ai"]
 
 
 def test_adzuna_city_from_title_when_region_only():
