@@ -389,6 +389,15 @@ def normalize_company(name: str) -> str:
     return " ".join(words)
 
 
+def same_company(a: str, b: str) -> bool:
+    """Normalized names of the same employer: equal, or one is the other
+    plus extra words ("palantir technologies" / "palantir", "sia" / "sia
+    partners"). Whole words only, so "alan" never matches "alantra"."""
+    if not a or not b:
+        return False
+    return a == b or a.startswith(b + " ") or b.startswith(a + " ")
+
+
 def dedup_key(p: Posting) -> tuple[str, str, str]:
     """Identifies the same job listed by two sources (an ATS and Adzuna),
     whose links differ. Call after filter_and_tag (needs p.city)."""

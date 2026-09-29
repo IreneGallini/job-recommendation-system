@@ -122,18 +122,19 @@ def _describe(p, scraper) -> None:
 def drop_cross_source_duplicates(eligible: list, stored: dict) -> list:
     """Drop Adzuna postings for jobs already listed by another source (this
     run or stored): the ATS copy has the direct link and full description."""
-    seen = {
-        filters.dedup_key(p)
-        for p in list(eligible) + list(stored.values())
-        if p.source != "Adzuna"
-    }
-    # Adzuna often only knows the region, so a city-less Adzuna posting
-    # matches the same company + title in any city.
-    seen_anywhere = {key[:2] for key in seen}
+    # (title, city) -> companies listing it. Adzuna's employer names differ
+    # from ours ("Palantir Technologies"), hence same_company, and Adzuna
+    # often only knows the region, so a city-less posting matches any city.
+    seen: dict[tuple[str, str], set[str]] = {}
+    for p in list(eligible) + list(stored.values()):
+        if p.source != "Adzuna":
+            company, title, city = filters.dedup_key(p)
+            seen.setdefault((title, city), set()).add(company)
+            seen.setdefault((title, ""), set()).add(company)
 
     def duplicate(p) -> bool:
-        key = filters.dedup_key(p)
-        return key in seen or (not key[2] and key[:2] in seen_anywhere)
+        company, title, city = filters.dedup_key(p)
+        return any(filters.same_company(company, c) for c in seen.get((title, city), ()))
 
     kept = [p for p in eligible if p.source != "Adzuna" or not duplicate(p)]
     dropped = len(eligible) - len(kept)
@@ -149,7 +150,10 @@ def apply_watchlist_metadata(postings: list, companies: list[dict]) -> None:
     for p in postings:
         if p.source != "Adzuna":
             continue
-        company = by_name.get(filters.normalize_company(p.company))
+        name = filters.normalize_company(p.company)
+        company = by_name.get(name) or next(
+            (c for key, c in by_name.items() if filters.same_company(name, key)), None
+        )
         if company:
             p.category = company.get("category", p.category)
             p.priority = company.get("priority", p.priority)

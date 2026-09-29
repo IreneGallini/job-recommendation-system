@@ -1,7 +1,9 @@
-import requests
-from .base import Posting, Scraper
+from .base import Posting, Scraper, retrying_session
 
 _USER_AGENT = "internship-scraper/1.0 (+https://github.com/)"
+# Workable rate-limits (429) when several accounts are fetched at once; the
+# shared session retries those with backoff instead of dropping the company.
+_session = retrying_session()
 
 
 class WorkableScraper(Scraper):
@@ -16,7 +18,7 @@ class WorkableScraper(Scraper):
     def get_postings(self) -> list[Posting]:
         # details=true adds each job's HTML `description` to the list response.
         url = f"https://apply.workable.com/api/v1/widget/accounts/{self.slug}?details=true"
-        response = requests.get(url, headers={"User-Agent": _USER_AGENT}, timeout=30)
+        response = _session.get(url, headers={"User-Agent": _USER_AGENT}, timeout=30)
         response.raise_for_status()
         jobs = response.json().get("jobs", [])
         return [self._to_posting(job) for job in jobs]

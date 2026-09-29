@@ -4,7 +4,8 @@
 - Recommendation score (Milan/Turin area, summer fit, MS/PhD penalty, recency) — weights in `config.SCORE_WEIGHTS`
 - Posted date, duration / start / summer_fit parsing, degree requirement parsing
 - Links open in a new tab (site)
-- Watchlist grown to 31 companies (Italy + big tech); Google / Microsoft / Apple / Meta tracked manually in `outreach.yaml`
+- Watchlist grown to 52 companies (21 found by `tools/discover_ats.py`); Google / Microsoft / Apple / Meta tracked manually in `outreach.yaml`
+- Adzuna aggregator source (daily; 8 countries)
 - Outreach tab + `outreach.yaml`
 
 ## Still to do
@@ -12,4 +13,3 @@
 - Add named contacts to `outreach.yaml` as you find them
 - More companies: Bending Spoons, Reply, Stellantis, Intesa Sanpaolo, Pirelli, Leonardo aren't on a supported ATS (or weren't found) — custom scrapers or manual checks
 
-- inbox should have all postings that haven't been placed in a cateogory yet (applied, not interested, ineligible, etc), can choose to rank them by recommended score or by last date posted. In all postings tab can filter postings by category too

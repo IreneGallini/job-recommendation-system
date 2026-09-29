@@ -265,3 +265,25 @@ def test_adzuna_cityless_duplicate_dropped():
                company={"display_name": "Amazon"}, location={"area": ["Italia"]})
     eligible = filters.filter_and_tag([ats, to_posting(job, "Italy")])
     assert [p.source for p in main.drop_cross_source_duplicates(eligible, stored={})] == ["Amazon"]
+
+
+@pytest.mark.parametrize("a, b, same", [
+    ("palantir technologies", "palantir", True),
+    ("sia", "sia partners", True),
+    ("doctolib", "doctolib", True),
+    ("alan", "alantra", False),
+    ("", "x", False),
+])
+def test_same_company(a, b, same):
+    assert filters.same_company(a, b) is same
+
+
+def test_adzuna_duplicate_with_longer_company_name_dropped():
+    import main
+    from scrapers.adzuna import to_posting
+    ats = Posting("Palantir", "Deployment Strategist, Internship", "Paris, France",
+                  "https://jobs.lever.co/palantir/1", "", "Palantir", ats="lever")
+    job = dict(ADZUNA_JOB, title="Deployment Strategist, Internship",
+               company={"display_name": "Palantir Technologies"}, location={"area": ["France", "Île-de-France", "Paris", "Paris"]})
+    eligible = filters.filter_and_tag([ats, to_posting(job, "France")])
+    assert [p.source for p in main.drop_cross_source_duplicates(eligible, stored={})] == ["Palantir"]

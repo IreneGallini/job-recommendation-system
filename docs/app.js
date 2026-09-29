@@ -5,9 +5,11 @@
 const STORAGE_KEY = "internship-inbox-v1";
 const PAGE_SIZE = 150;
 
+// Triage categories. A posting with none of these is uncategorized and sits in the Inbox.
 const STATUS_LABELS = {
-  read: "Read",
+  to_apply: "To apply",
   applied: "Applied",
+  read: "Read",
   ineligible: "Ineligible",
   not_interested: "Not interested",
 };
@@ -27,6 +29,9 @@ let contacts = [];
 let state = loadState();
 let previousVisit = state.lastVisit || "";
 let allShown = PAGE_SIZE;
+let inboxShown = PAGE_SIZE;
+let nofitShown = PAGE_SIZE;
+let statusFilter = "";
 let lastAction = null;
 let toastTimer = null;
 
@@ -36,9 +41,9 @@ function loadState() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     const parsed = raw ? JSON.parse(raw) : {};
-    return { postings: {}, outreach: {}, lastVisit: "", ...parsed };
+    return { postings: {}, outreach: {}, lastVisit: "", prefs: {}, ...parsed };
   } catch {
-    return { postings: {}, outreach: {}, lastVisit: "" };
+    return { postings: {}, outreach: {}, lastVisit: "", prefs: {} };
   }
 }
 
@@ -100,6 +105,8 @@ async function load() {
   saveState();
 
   fillCountryFilter();
+  document.getElementById("i-sort").value = state.prefs.inboxSort || "score";
+  document.getElementById("i-role").value = state.prefs.inboxRole || "";
   render();
 }
 
@@ -111,50 +118,97 @@ function isNew(p) {
 
 function render() {
   renderInbox();
+  renderTodo();
   renderAll();
   renderOutreach();
 }
 
 function renderInbox() {
-  const unread = postings.filter((p) => p.active && p.role_match && !statusOf(p));
-  const fits = unread.filter((p) => p.summer_fit !== "no");
-  const noFit = unread.filter((p) => p.summer_fit === "no");
+  const targetOnly = val("i-role") === "match";
+  const uncategorized = sortRows(
+    postings.filter((p) => p.active && !statusOf(p) && (!targetOnly || p.role_match)),
+    val("i-sort"));
+  const fits = uncategorized.filter((p) => p.summer_fit !== "no");
+  const noFit = uncategorized.filter((p) => p.summer_fit === "no");
 
-  fillList("inbox-list", fits, "inbox",
-    "Inbox zero 🎉 — nothing unread in your target roles. Browse everything under All.");
-  fillList("inbox-nofit-list", noFit, "inbox", "Nothing here.");
+  fillList("inbox-list", fits.slice(0, inboxShown), "inbox",
+    "Inbox zero 🎉 — every open posting has a category. Browse everything under All.");
+  document.getElementById("inbox-more").hidden = fits.length <= inboxShown;
+  fillList("inbox-nofit-list", noFit.slice(0, nofitShown), "inbox", "Nothing here.");
+  document.getElementById("inbox-nofit-more").hidden = noFit.length <= nofitShown;
   document.getElementById("inbox-nofit").hidden = noFit.length === 0;
   setCount("count-inbox", fits.length);
   setCount("count-nofit", noFit.length);
 }
 
+function renderTodo() {
+  // Still-open postings first; closed ones stay listed (dimmed) so they don't vanish silently.
+  const rows = postings.filter((p) => statusOf(p) === "to_apply");
+  rows.sort((a, b) => Number(b.active) - Number(a.active));
+  fillList("todo-list", rows, "todo",
+    "Nothing to apply to yet — mark postings To apply from the Inbox.");
+  setCount("count-todo", rows.filter((p) => p.active).length);
+}
+
 function renderAll() {
   const q = val("f-search").toLowerCase();
   const country = val("f-country");
-  const status = val("f-status");
   const summer = val("f-summer");
   const role = val("f-role");
   const showClosed = document.getElementById("f-closed").checked;
 
-  let rows = postings.filter((p) => {
+  const base = postings.filter((p) => {
     if (!showClosed && !p.active) return false;
     if (country && p.country !== country) return false;
     if (summer && p.summer_fit !== summer) return false;
     if (role === "match" && !p.role_match) return false;
-    const s = statusOf(p);
-    if (status === "unread" ? s : status && s !== status) return false;
     if (q && !`${p.company} ${p.role} ${p.location}`.toLowerCase().includes(q)) return false;
     return true;
   });
-  if (val("f-sort") === "date") {
-    rows = [...rows].sort((a, b) => effectiveDate(b).localeCompare(effectiveDate(a)));
-  }
+  renderStatusChips(base);
+  const rows = sortRows(
+    base.filter((p) => !statusFilter || (statusOf(p) || "none") === statusFilter),
+    val("f-sort"));
 
   document.getElementById("all-summary").textContent =
     `${rows.length} of ${postings.length} postings`;
   fillList("all-list", rows.slice(0, allShown), "all", "No postings match these filters.");
   document.getElementById("all-more").hidden = rows.length <= allShown;
   setCount("count-all", postings.filter((p) => p.active).length);
+}
+
+// Category chips for the All tab; counts reflect the other active filters.
+function renderStatusChips(rows) {
+  const counts = { "": rows.length, none: 0 };
+  for (const p of rows) {
+    const s = statusOf(p) || "none";
+    counts[s] = (counts[s] || 0) + 1;
+  }
+  const options = [["", "All"], ["none", "Uncategorized"], ...Object.entries(STATUS_LABELS)];
+  const group = document.getElementById("f-status");
+  group.replaceChildren();
+  for (const [value, label] of options) {
+    const b = document.createElement("button");
+    b.type = "button";
+    b.setAttribute("aria-pressed", String(statusFilter === value));
+    b.append(label);
+    const count = document.createElement("span");
+    count.className = "count";
+    count.textContent = String(counts[value] || 0);
+    b.append(count);
+    b.addEventListener("click", () => {
+      statusFilter = value;
+      allShown = PAGE_SIZE;
+      renderAll();
+    });
+    group.append(b);
+  }
+}
+
+function sortRows(rows, by) {
+  // postings.json is already in recommendation order; "date" re-sorts newest first.
+  if (by !== "date") return rows;
+  return [...rows].sort((a, b) => effectiveDate(b).localeCompare(effectiveDate(a)) || b.score - a.score);
 }
 
 function fillList(id, rows, mode, emptyText) {
@@ -215,10 +269,18 @@ function postingCard(p, mode) {
   const actions = node.querySelector(".actions");
   if (mode === "inbox") {
     actions.append(
-      actionButton("Applied", () => setStatus(p, "applied"), "primary"),
+      actionButton("To apply", () => setStatus(p, "to_apply"), "primary"),
+      actionButton("Applied", () => setStatus(p, "applied")),
       actionButton("Ineligible", () => setStatus(p, "ineligible")),
       actionButton("Not interested", () => setStatus(p, "not_interested")),
       actionButton("Read", () => setStatus(p, "read")),
+    );
+  } else if (mode === "todo") {
+    actions.append(
+      actionButton("Applied", () => setStatus(p, "applied"), "primary"),
+      actionButton("Ineligible", () => setStatus(p, "ineligible")),
+      actionButton("Not interested", () => setStatus(p, "not_interested")),
+      actionButton("Back to inbox", () => setStatus(p, "")),
     );
   } else {
     actions.append(statusSelect(p));
@@ -239,7 +301,7 @@ function summerBadge(p) {
 function statusSelect(p) {
   const select = document.createElement("select");
   select.setAttribute("aria-label", `Status for ${p.role}`);
-  select.append(new Option("Unread", ""));
+  select.append(new Option("Uncategorized", ""));
   for (const [value, label] of Object.entries(STATUS_LABELS)) select.append(new Option(label, value));
   select.value = statusOf(p);
   select.addEventListener("change", () => setStatus(p, select.value));
@@ -436,9 +498,19 @@ document.querySelectorAll(".tabs button").forEach((btn) => {
   });
 });
 
-["f-search", "f-country", "f-status", "f-summer", "f-role", "f-sort", "f-closed"].forEach((id) => {
+["f-search", "f-country", "f-summer", "f-role", "f-sort", "f-closed"].forEach((id) => {
   document.getElementById(id).addEventListener("input", () => { allShown = PAGE_SIZE; renderAll(); });
 });
+["i-sort", "i-role"].forEach((id) => {
+  document.getElementById(id).addEventListener("input", () => {
+    state.prefs = { ...state.prefs, inboxSort: val("i-sort"), inboxRole: val("i-role") };
+    saveState();
+    inboxShown = nofitShown = PAGE_SIZE;
+    renderInbox();
+  });
+});
+document.getElementById("inbox-more").addEventListener("click", () => { inboxShown += PAGE_SIZE; renderInbox(); });
+document.getElementById("inbox-nofit-more").addEventListener("click", () => { nofitShown += PAGE_SIZE; renderInbox(); });
 document.getElementById("o-status").addEventListener("input", renderOutreach);
 document.getElementById("all-more").addEventListener("click", () => { allShown += PAGE_SIZE; renderAll(); });
 

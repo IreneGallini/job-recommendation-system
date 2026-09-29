@@ -21,6 +21,7 @@
     <p class="subtitle" id="updated">Loading…</p>
     <nav class="tabs" role="tablist">
       <button type="button" role="tab" data-tab="inbox" aria-selected="true">Inbox <span class="count" id="count-inbox"></span></button>
+      <button type="button" role="tab" data-tab="todo" aria-selected="false">To apply <span class="count" id="count-todo"></span></button>
       <button type="button" role="tab" data-tab="all" aria-selected="false">All <span class="count" id="count-all"></span></button>
       <button type="button" role="tab" data-tab="outreach" aria-selected="false">Outreach <span class="count" id="count-outreach"></span></button>
     </nav>
@@ -28,26 +29,35 @@
 
   <main>
     <section id="tab-inbox" class="tab-panel">
-      <p class="hint">Unread target-role postings, best match first. Triage each one and it leaves the inbox; everything stays under <em>All</em>.</p>
+      <p class="hint">Open postings you haven't put in a category yet. Categorize one and it leaves the inbox; <em>To apply</em> keeps your shortlist, and everything stays under <em>All</em>.</p>
+      <div class="filters">
+        <select id="i-sort" aria-label="Sort inbox">
+          <option value="score">Best match</option>
+          <option value="date">Newest posted</option>
+        </select>
+        <select id="i-role" aria-label="Role">
+          <option value="">All roles</option>
+          <option value="match">Target roles only</option>
+        </select>
+      </div>
       <ol class="list" id="inbox-list"></ol>
+      <button type="button" class="ghost more" id="inbox-more" hidden>Show more</button>
       <details class="collapsed" id="inbox-nofit">
         <summary>Not a summer fit <span class="count" id="count-nofit"></span> <span class="muted">— 5+ months or starts Sept–March</span></summary>
         <ol class="list" id="inbox-nofit-list"></ol>
+        <button type="button" class="ghost more" id="inbox-nofit-more" hidden>Show more</button>
       </details>
+    </section>
+
+    <section id="tab-todo" class="tab-panel" hidden>
+      <p class="hint">Your shortlist — postings you marked <em>To apply</em>. Mark them Applied once you've sent the application.</p>
+      <ol class="list" id="todo-list"></ol>
     </section>
 
     <section id="tab-all" class="tab-panel" hidden>
       <div class="filters">
         <input type="search" id="f-search" placeholder="Search company, role, city…" aria-label="Search">
         <select id="f-country" aria-label="Country"><option value="">All countries</option></select>
-        <select id="f-status" aria-label="Status">
-          <option value="">Any status</option>
-          <option value="unread">Unread</option>
-          <option value="read">Read</option>
-          <option value="applied">Applied</option>
-          <option value="ineligible">Ineligible</option>
-          <option value="not_interested">Not interested</option>
-        </select>
         <select id="f-summer" aria-label="Summer fit">
           <option value="">Any summer fit</option>
           <option value="yes">Summer ✓</option>
@@ -64,6 +74,7 @@
         </select>
         <label class="check"><input type="checkbox" id="f-closed"> Show closed</label>
       </div>
+      <div class="chips" id="f-status" role="group" aria-label="Category"></div>
       <p class="hint" id="all-summary"></p>
       <ol class="list" id="all-list"></ol>
       <button type="button" class="ghost more" id="all-more" hidden>Show more</button>

@@ -267,3 +267,167 @@
   category: startup
   priority: normal
   # Milan office.
+
+# --- Added 2026-09-29 from tools/discover_ats.py (careers-page scan) ---
+
+- name: Euronext
+  ats: workday
+  tenant: hrhub
+  wd_host: wd3
+  site: Euronext_Career_Page
+  search_text: intern
+  category: finance
+  priority: high
+  # Owns Borsa Italiana; ~58 internships across Milan, Rome, Paris,
+  # Amsterdam, Brussels, Dublin, Porto at verification time.
+
+- name: Leonardo
+  ats: workday
+  tenant: leonardocompany
+  wd_host: wd3
+  site: LeonardoCareerSite
+  search_text: [intern, stage, tirocinio]
+  category: big-tech
+  priority: high
+  # Aerospace/defence, large Turin and Rome sites. No Italian internships
+  # listed at verification time; watched for new ones.
+
+- name: TeamSystem
+  ats: workday
+  tenant: teamsystem
+  wd_host: wd103
+  site: TeamSystem
+  search_text: [intern, stage, tirocinio]
+  category: big-tech
+  priority: high
+  # Italian business software, Milan HQ. No internships at verification
+  # time; watched for new ones.
+
+# --- Added 2026-09-29 from Adzuna employers (tools/discover_ats.py slug
+# probe; each board's postings checked to belong to the named company) ---
+
+- name: Doctolib
+  ats: greenhouse
+  slug: doctolib
+  category: startup
+  priority: high
+  # careers.doctolib.com embeds Greenhouse (an Ashby board also exists).
+  # Milan office; 34 European internships at verification time.
+
+- name: Gemmo
+  ats: workable
+  slug: gemmo
+  category: startup
+  priority: high
+  # Milan AI startup.
+
+- name: Artefact
+  ats: greenhouse
+  slug: artefact
+  category: consulting
+  priority: normal
+  # Data/AI consultancy; data-science internships (Paris, Milan).
+
+- name: Ekimetrics
+  ats: lever
+  slug: ekimetrics
+  category: consulting
+  priority: normal
+  # Data-science / marketing-analytics consultancy.
+
+- name: Assystem
+  ats: smartrecruiters
+  company_identifier: Assystem
+  category: consulting
+  priority: normal
+  # Engineering consultancy; ~55 European internships (mostly France).
+
+- name: Sia Partners
+  ats: smartrecruiters
+  company_identifier: Sia
+  category: consulting
+  priority: normal
+  # Management consultancy with a data-science practice; Milan office.
+
+- name: Devoteam
+  ats: smartrecruiters
+  company_identifier: Devoteam
+  category: consulting
+  priority: normal
+  # Tech consultancy; one SmartRecruiters account for all countries.
+
+- name: BearingPoint
+  ats: teamtailor
+  slug: bearingpointfrance
+  category: consulting
+  priority: normal
+  # French Teamtailor tenant (data & AI consulting internships).
+
+- name: Shift Technology
+  ats: greenhouse
+  slug: shifttechnology
+  category: startup
+  priority: normal
+  # Insurance AI; data-science internships.
+
+- name: Palantir
+  ats: lever
+  slug: palantir
+  category: big-tech
+  priority: normal
+
+- name: Perplexity
+  ats: ashby
+  slug: perplexity
+  category: startup
+  priority: normal
+
+- name: Alan
+  ats: ashby
+  slug: alan
+  category: startup
+  priority: normal
+  # French health insurer/tech.
+
+- name: Alpic
+  ats: ashby
+  slug: alpic
+  category: startup
+  priority: normal
+
+- name: Manex AI
+  ats: ashby
+  slug: manex
+  category: startup
+  priority: normal
+  # Munich.
+
+- name: RAI Institute
+  ats: lever
+  slug: rai
+  category: startup
+  priority: normal
+  # Robotics & AI research institute (Zurich office); not the Italian
+  # broadcaster.
+
+- name: ANYbotics
+  ats: lever
+  slug: anybotics
+  category: startup
+  priority: normal
+  # Zurich robotics.
+
+- name: BlockTech
+  ats: ashby
+  slug: blocktech
+  category: finance
+  priority: normal
+  # Amsterdam algorithmic trading.
+
+- name: Eurofins
+  ats: smartrecruiters
+  company_identifier: Eurofins
+  category: pharma-biotech
+  priority: normal
+  # Lab testing / biopharma services; ~70 European internships, many in
+  # Italy — relevant to the chem/bio interest.
