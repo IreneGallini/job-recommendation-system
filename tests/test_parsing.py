@@ -38,6 +38,8 @@ def test_normalize_posted_date(raw, expected):
     ("Segrate, Italy", ("Segrate", "Italy", filters.MILAN)),
     ("Wernau (Neckar), Germany", ("Wernau (Neckar)", "Germany", filters.EUROPE)),
     ("Paris, France; Milan, Italy", ("Milan", "Italy", filters.MILAN)),  # best of several
+    ("Weinheim, DEU", ("Weinheim", "Germany", filters.EUROPE)),  # Workday ISO3
+    ("Milano, ITA", ("Milan", "Italy", filters.MILAN)),
     ("Remote - Europe", ("", "", filters.REMOTE_EUROPE)),
 ])
 def test_location_resolves(raw, expected):
@@ -242,3 +244,22 @@ def test_discover_unsupported_and_slugs():
     from tools.discover_ats import slug_variants, unsupported_hits
     assert unsupported_hits('<a href="https://career5.successfactors.eu/career?company=pirelli">') == ["SAP SuccessFactors"]
     assert slug_variants("Bending Spoons S.p.A.") == ["bendingspoons", "bending-spoons"]
+
+
+def test_adzuna_city_from_title_when_region_only():
+    from scrapers.adzuna import to_posting
+    job = dict(ADZUNA_JOB, title="Software Engineer Intern - Milano", location={"area": ["Italia", "Lombardia"]})
+    assert to_posting(job, "Italy").location == "Milan, Italy"
+    job = dict(job, title="Software Engineer Intern - Paris")  # city in another country: ignored
+    assert to_posting(job, "Italy").location == "Italy"
+
+
+def test_adzuna_cityless_duplicate_dropped():
+    import main
+    from scrapers.adzuna import to_posting
+    ats = Posting("Amazon", "2027 Software Dev Engineer Intern - Italy", "Milan, Italy",
+                  "https://www.amazon.jobs/en/jobs/1", "", "Amazon", ats="amazon")
+    job = dict(ADZUNA_JOB, title="2027 Software Dev Engineer Intern - Italy",
+               company={"display_name": "Amazon"}, location={"area": ["Italia"]})
+    eligible = filters.filter_and_tag([ats, to_posting(job, "Italy")])
+    assert [p.source for p in main.drop_cross_source_duplicates(eligible, stored={})] == ["Amazon"]

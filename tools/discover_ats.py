@@ -320,9 +320,10 @@ def discover(seed: dict) -> dict:
         verified = verify(name, ats, fields)
         if verified is None:
             continue
-        if method == "slug probe" and not verified["europe_jobs"]:
-            # A guessed slug with no jobs in any eligible country is almost
-            # always a different company that happens to share the name.
+        if method == "slug probe" and not verified["europe_internships"]:
+            # Guessed slugs often hit a same-named different company (a
+            # Danish Iveco dealer, a Zurich "RAI" institute); only worth
+            # reviewing when there are internships to gain.
             continue
         if method != "slug probe":
             confidence = "high"
@@ -446,7 +447,8 @@ def main_cli() -> None:
     results = [
         {**r, "candidates": [
             c for c in r["candidates"]
-            if (c["entry"]["ats"], str(c["entry"].get("slug") or c["entry"].get("tenant")
+            if (c["method"] != "slug probe" or c["europe_internships"])
+            and (c["entry"]["ats"], str(c["entry"].get("slug") or c["entry"].get("tenant")
                                        or c["entry"].get("company_identifier") or "").lower()) not in watch_slugs
         ]}
         for key, r in cache.items() if key in merged

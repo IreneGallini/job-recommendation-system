@@ -54,6 +54,16 @@ _ISO2_TO_COUNTRY = {
     "at": "Austria", "ie": "Ireland",
 }
 
+# Workday tenants sometimes give "Weinheim, DEU". Matched only when a whole
+# comma-separated part is the uppercase code, so words like "fin" or "nor"
+# inside a location never match.
+_ISO3_TO_COUNTRY = {
+    "ITA": "Italy", "CHE": "Switzerland", "FRA": "France", "DEU": "Germany",
+    "DNK": "Denmark", "NOR": "Norway", "SWE": "Sweden", "FIN": "Finland",
+    "ESP": "Spain", "PRT": "Portugal", "NLD": "Netherlands", "BEL": "Belgium",
+    "AUT": "Austria", "IRL": "Ireland",
+}
+
 # Well-known cities in the eligible countries (lowercase alias -> (display
 # name, country)), so city-only location strings like "Milano" or "Zürich"
 # resolve. Milan/Turin-area suburbs are listed in config.MILAN_AREA_CITIES /
@@ -218,7 +228,7 @@ def _parse_single_location(location: str) -> tuple[str, str, str] | None:
     country = ""
     country_part = None
     for part in parts:
-        country = _match_country(part.lower())
+        country = _match_country(part.lower()) or _ISO3_TO_COUNTRY.get(part, "")
         if country:
             country_part = part
             break
@@ -251,6 +261,11 @@ def _parse_single_location(location: str) -> tuple[str, str, str] | None:
             city = others[0]
 
     return (city, country, region_for(city, country))
+
+
+def city_in_text(text: str) -> tuple[str, str] | None:
+    """(display city, country) of a known city named anywhere in `text`."""
+    return _match_city(text.lower())
 
 
 def _match_country(text: str) -> str:

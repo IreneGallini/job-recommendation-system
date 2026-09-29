@@ -2,6 +2,8 @@ import sys
 import time
 from urllib.parse import urlsplit, urlunsplit
 
+import filters
+
 from .base import Posting, Scraper, retrying_session
 
 _SEARCH_URL = "https://api.adzuna.com/v1/api/jobs/{country}/search/{page}"
@@ -10,8 +12,8 @@ _PAGE_SIZE = 50  # Adzuna's maximum
 _SECONDS_BETWEEN_REQUESTS = 2.6
 
 # Adzuna covers 8 of the 14 eligible countries (no DK, NO, SE, FI, PT, IE).
-# Each country gets one title-only search per term, in its own languages;
-# Italy first so it gets the request budget before anything else.
+# Internship terms per country, main one first; Italy first so it gets the
+# request budget before anything else.
 _SEARCHES = {
     "it": ("Italy", ("stage", "tirocinio", "internship", "intern", "stagista")),
     "ch": ("Switzerland", ("internship", "intern", "praktikum", "stage")),
@@ -22,6 +24,24 @@ _SEARCHES = {
     "be": ("Belgium", ("stage", "stagiair", "internship")),
     "at": ("Austria", ("praktikum", "praktikant", "internship")),
 }
+
+
+
+
+def queries(terms: tuple[str, ...]) -> list[dict]:
+    """A bare title search is far too broad (2,640 Italian "stage" ads, mostly
+    reception/accounting), so searches are narrowed to target-role slices
+    small enough to fetch completely:
+      - every term within Adzuna's IT category
+      - the main term within its science category (comp-chem/pharma interest)
+      - "<term> data" titles, for data roles filed under other categories
+    """
+    main_term = terms[0]
+    return (
+        [{"title_only": term, "category": "it-jobs"} for term in terms]
+        + [{"title_only": main_term, "category": "scientific-qa-jobs"}]
+        + [{"title_only": f"{term} data"} for term in terms[:2]]
+    )
 
 
 class AdzunaScraper(Scraper):
@@ -44,7 +64,7 @@ class AdzunaScraper(Scraper):
         session = retrying_session()
         postings = {}
         for code, (country, terms) in _SEARCHES.items():
-            for term in terms:
+            for query in queries(terms):
                 for page in range(1, self.max_pages_per_query + 1):
                     if self.requests_made >= self.max_requests:
                         print(f"Adzuna: request budget ({self.max_requests}) reached.", file=sys.stderr)
@@ -57,7 +77,7 @@ class AdzunaScraper(Scraper):
                         params={
                             "app_id": self.app_id,
                             "app_key": self.app_key,
-                            "title_only": term,
+                            **query,
                             "results_per_page": _PAGE_SIZE,
                             "sort_by": "date",
                             "content-type": "application/json",
@@ -79,9 +99,16 @@ def to_posting(job: dict, country: str) -> Posting:
     # "Milano", "Segrate"]; only a third level or deeper names a town.
     area = (job.get("location") or {}).get("area") or []
     city = area[-1] if len(area) >= 3 else ""
+    title = (job.get("title") or "").strip()
+    if not city:
+        # Region-only ad ("Lombardia"): titles often name the city
+        # ("... - Milano"), which matters for the Milan/Turin ranking.
+        match = filters.city_in_text(title)
+        if match and match[1] == country:
+            city = match[0]
     return Posting(
         company=((job.get("company") or {}).get("display_name") or "Unknown").strip(),
-        role=(job.get("title") or "").strip(),
+        role=title,
         location=f"{city}, {country}" if city else country,
         link=_stable_link(job),
         date_added=(job.get("created") or "")[:10],

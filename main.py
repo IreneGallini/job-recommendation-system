@@ -127,7 +127,15 @@ def drop_cross_source_duplicates(eligible: list, stored: dict) -> list:
         for p in list(eligible) + list(stored.values())
         if p.source != "Adzuna"
     }
-    kept = [p for p in eligible if p.source != "Adzuna" or filters.dedup_key(p) not in seen]
+    # Adzuna often only knows the region, so a city-less Adzuna posting
+    # matches the same company + title in any city.
+    seen_anywhere = {key[:2] for key in seen}
+
+    def duplicate(p) -> bool:
+        key = filters.dedup_key(p)
+        return key in seen or (not key[2] and key[:2] in seen_anywhere)
+
+    kept = [p for p in eligible if p.source != "Adzuna" or not duplicate(p)]
     dropped = len(eligible) - len(kept)
     if dropped:
         print(f"Dropped {dropped} Adzuna posting(s) already listed by another source.")
