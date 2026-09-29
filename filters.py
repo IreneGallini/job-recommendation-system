@@ -6,7 +6,7 @@ import config
 import dates
 from scrapers.base import Posting
 
-# region bucket labels, used to sort the README and Discord messages
+# region bucket labels, used to sort the README and site
 MILAN = "milan"
 TURIN = "turin"
 ITALY = "italy"
@@ -334,7 +334,7 @@ def filter_and_tag(postings: list[Posting]) -> list[Posting]:
     Drops non-internships and anything whose location doesn't resolve to an
     eligible country or remote-Europe. Postings outside the target roles are
     kept (for the site's "All" tab) but tagged `role_match=False`; the
-    README, Discord and the site's Inbox only show `role_match=True`.
+    README and the site's Inbox only show `role_match=True`.
     Also normalizes location to (city, country) and the ATS's raw date to
     `posted_date`.
     """

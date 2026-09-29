@@ -18,10 +18,6 @@ DOCS_DIR = os.getenv("DOCS_DIR", "docs")
 # the README.
 SITE_URL = os.getenv("SITE_URL", "https://irenegallini.github.io/job-recommendation-system/")
 
-# Optional: posts new postings to a Discord channel after each run. Skipped
-# silently if unset.
-DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL", "")
-
 # Preferred commuting areas (lowercase). Postings in these towns are bucketed
 # with Milan / Turin in the README and get the Milan / Turin ranking boost.
 MILAN_AREA_CITIES = (
@@ -76,7 +72,7 @@ CHEM_BIO_KEYWORDS = (
 )
 
 # Recommendation score weights (see ranking.py). Tune these to change how
-# the site's Inbox, the README and Discord are ordered.
+# the site's Inbox, and the README are ordered.
 SCORE_WEIGHTS = {
     "milan": 40,
     "turin": 35,

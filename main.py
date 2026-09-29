@@ -22,7 +22,6 @@ from scrapers.amazon import AmazonScraper
 from storage.csv_store import csv_needs_migration, load_all_postings, save_all_postings, today
 from storage.readme_table import write_postings_table
 from storage.site_data import write_site_data
-from notifications.discord import send_new_postings
 
 _LAST_COUNTS_PATH = "last_run_counts.json"
 _MAX_DESCRIPTION_FETCHES = 500
@@ -206,9 +205,6 @@ def main() -> None:
         f"Saved {len(all_stored)} posting(s) to {config.CSV_PATH}; "
         f"updated {config.README_PATH} and {config.DOCS_DIR}/."
     )
-
-    to_notify = [p for p in new_postings if p.role_match and p.summer_fit != "no"]
-    send_new_postings(config.DISCORD_WEBHOOK_URL, to_notify)
 
 
 if __name__ == "__main__":

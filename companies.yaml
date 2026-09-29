@@ -10,7 +10,7 @@
 #
 # category: big-tech | startup | pharma-biotech | finance | consulting
 # priority: high | normal  (high = Milan-based, Italian, or otherwise
-#   especially relevant — surfaces first in the README and Discord)
+#   especially relevant — surfaces first in the README and site)
 
 - name: Scalapay
   ats: greenhouse

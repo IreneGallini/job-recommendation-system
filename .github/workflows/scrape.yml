@@ -28,8 +28,6 @@ jobs:
       - name: Run scraper
         # To target a different repo/branch, add:
         #     SIMPLIFY_README_URL: https://raw.githubusercontent.com/SimplifyJobs/Summer2028-Internships/dev/README.md
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python main.py
 
       - name: Commit updated CSV and README

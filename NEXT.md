@@ -9,7 +9,6 @@
 
 ## Still to do
 - Outreach plan (written doc)
-- One-time: enable GitHub Pages (Settings → Pages → main, /docs) — repo must be public on a free plan
 - Add named contacts to `outreach.yaml` as you find them
 - More companies: Bending Spoons, Reply, Stellantis, Intesa Sanpaolo, Pirelli, Leonardo aren't on a supported ATS (or weren't found) — custom scrapers or manual checks
 
@@ -26,7 +25,6 @@ I'm only available mid-May to early September (about 14-16 weeks), so fixed
   months starting May-June; no if it's clearly >= 5 months or starts
   Sept-March; otherwise unknown.
 - Never drop "unknown" postings, but sort "yes" first, then "unknown", and
-  put "no" in a collapsed section of the README. Discord notifications should
-  only include "yes" and "unknown", and should label which one.
+  put "no" in a collapsed section of the README.
 - Add a config flag in `companies.yaml` for companies known to run structured
   summer programs so they're boosted in ranking.

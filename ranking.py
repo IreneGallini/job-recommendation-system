@@ -1,4 +1,4 @@
-"""Recommendation score: one ordering shared by the site, README and Discord.
+"""Recommendation score: one ordering shared by the site and README.
 
 Weights live in config.SCORE_WEIGHTS so they can be tuned without touching
 this file.

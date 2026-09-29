@@ -27,7 +27,6 @@ Position key words:
 Features:
 - Scraping every 6 hours via GitHub Actions
 - Store postings in `internships.csv`, display in the sectioned table below
-- New postings posted to Discord after each run
 
 
 ## Current Postings
