@@ -57,6 +57,16 @@ def _recency_points(iso_date: str, today: date | None) -> float:
     return config.SCORE_WEIGHTS["recency_max"] * remaining
 
 
+def in_cycle(p: Posting) -> bool:
+    """Posted (or, if the date is unknown, first seen) on or after
+    config.CYCLE_START — i.e. not a leftover from an earlier cycle."""
+    return effective_date(p)[:10] >= config.CYCLE_START
+
+
+def current_cycle(postings) -> list[Posting]:
+    return [p for p in postings if in_cycle(p)]
+
+
 def active(postings, grace_days: int = 3) -> list[Posting]:
     """Postings still listed by their source: last_seen within `grace_days`
     of the newest last_seen overall (a grace window, so one failed scraper

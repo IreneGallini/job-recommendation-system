@@ -44,7 +44,9 @@ def _render_sections(postings: list[Posting]) -> str:
     score within each region. Postings that clearly don't fit the summer go
     in one collapsed block at the end; the full collection (every eligible
     internship) lives on the site."""
-    visible = ranking.rank(ranking.active(p for p in postings if p.role_match))
+    visible = ranking.rank(ranking.active(
+        p for p in ranking.current_cycle(postings) if p.role_match
+    ))
     header = (
         f"Ranked by recommendation score. Triage (applied / ineligible) and the full "
         f"collection of every eligible internship are on the **[site]({config.SITE_URL})**."

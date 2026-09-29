@@ -287,3 +287,11 @@ def test_adzuna_duplicate_with_longer_company_name_dropped():
                company={"display_name": "Palantir Technologies"}, location={"area": ["France", "Île-de-France", "Paris", "Paris"]})
     eligible = filters.filter_and_tag([ats, to_posting(job, "France")])
     assert [p.source for p in main.drop_cross_source_duplicates(eligible, stored={})] == ["Palantir"]
+
+
+def test_current_cycle_excludes_earlier_postings(monkeypatch):
+    monkeypatch.setattr(ranking.config, "CYCLE_START", "2026-01-01")
+    old = Posting("A", "Intern", "Milan, Italy", "l1", "", "s", posted_date="2025-09-05", first_seen="2026-09-29")
+    new = Posting("A", "Intern", "Milan, Italy", "l2", "", "s", posted_date="2026-09-20")
+    undated = Posting("A", "Intern", "Milan, Italy", "l3", "", "s", first_seen="2026-09-29")
+    assert [p.link for p in ranking.current_cycle([old, new, undated])] == ["l2", "l3"]

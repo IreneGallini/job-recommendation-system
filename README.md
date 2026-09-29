@@ -44,7 +44,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 63 | Coop Lombardia | STAGE IN BUSINESS INTELLIGENCE & DATA ANALYSIS | Milan, Italy | ❔ | 2026-09-09 | [Apply](https://www.adzuna.it/details/5876788352) |
 | 63 | Sia | Stage Consultant AI & Data Science | Milan, Italy | ❔ | 2026-09-09 | [Apply](https://www.adzuna.it/details/5876536007) |
 | 60 | Gemmo | Forward-Deployed AI Engineer (Internship or Full-Time, Milan) | Milan, Italy | ❔ | 2026-04-24 | [Apply](https://www.adzuna.it/details/5709413638) |
-| 60 | PricewaterhouseCoopers | Software Engineer Developer Intern - Milano [DIG] | Milan, Italy | ❔ | 2025-07-18 | [Apply](https://www.adzuna.it/details/5309819727) |
 
 ### Turin area
 
@@ -107,8 +106,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | MAN Truck & Bus Group | Praktikant im Bereich AI Engineering: AI-ready Processes (w/m/d) | Munich, Germany | ❔ | 2026-09-28 | [Apply](https://www.adzuna.de/details/5901780553) |
 | 30 | MAN Truck & Bus Group | Praktikant im Bereich AI Engineering: AI-aided Way of Working (w/m/d) | Munich, Germany | ❔ | 2026-09-28 | [Apply](https://www.adzuna.de/details/5901780085) |
 | 30 | ⭐ Amazon | 2027 Software Dev Engineer Intern | Dublin, Ireland | ❔ (3 mo) | 2026-05-13 | [Apply](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) |
-| 30 | ⭐ Amazon | Software Dev Engineer internship - Embedded Development | Berlin, Germany | ❔ (3 mo) | 2025-12-01 | [Apply](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) |
-| 30 | ⭐ Amazon | 2026 Software Dev Engineer Intern - Germany | Berlin, Germany | ❔ | 2025-09-05 | [Apply](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) |
 | 29 | Lombard Odier | Internship – AI Engineer - AI-Powered Software Migration Factory | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900077417) |
 | 29 | Lombard Odier | Internship – AI Engineer - AI-Powered CRM – Data Extraction & KYC Support | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900076674) |
 | 29 | Lombard Odier | Internship – Machine Learning Engineer - Action Dashboard Ranking Engine | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900074793) |
@@ -360,31 +357,13 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | KBC Bank & Verzekering | Stage Data Engineer Data Modelling | Leuven, Belgium | ❔ | 2026-02-04 | [Apply](https://www.adzuna.be/details/5614685528) |
 | 20 | webit! Gesellschaft für neue Medien mbH von ITsax.de | Praktikum (m/w/d) für Frontend-Webentwicklung in Dresden | Dresden, Germany | ❔ | 2026-01-24 | [Apply](https://www.adzuna.de/details/5598103120) |
 | 20 | Dekra | Data Analyst CRM Stagiaire H/F | France | ❔ | 2026-01-09 | [Apply](https://www.adzuna.fr/details/5576597713) |
-| 20 | Alpic | Internship - Software Engineer - Final Year | Paris, France | ❔ | 2025-11-17 | [Apply](https://www.adzuna.fr/details/5500642610) |
-| 20 | Wibu-Systems Jobs | Werkstudent / Praktikant (m/w/d) im Bereich Softwareentwicklung | Innenstadt-West, Germany | ❔ | 2025-11-14 | [Apply](https://www.adzuna.de/details/5496032040) |
-| 20 | Deloitte | Stage : Stagiaire de césure - Data Scientist - Financial Services F/H | France | ❔ | 2025-11-11 | [Apply](https://www.adzuna.fr/details/5491048585) |
-| 20 | STAT-UP Statistical Consulting & Data Science | Praktikum Data Science and AI Consulting (m/w/d) | Altstadt-Lehel, Germany | ❔ | 2025-10-19 | [Apply](https://www.adzuna.de/details/5455296092) |
-| 20 | Findmee GmbH | Full-Stack Software Engineering Intern - Core Product Team | Landquart, Switzerland | ❔ | 2025-08-19 | [Apply](https://www.adzuna.ch/details/5358617279) |
-| 20 | KSB | Praktikum/Abschlussarbeit im Bereich Data Science | Frankenthal, Germany | ❔ | 2025-07-12 | [Apply](https://www.adzuna.de/details/5299866746) |
-| 20 | Basf France | Praktikum Data Science in der Digitalisierung (m/w/d) | Schwarzheide, Germany | ❔ | 2025-02-24 | [Apply](https://www.adzuna.de/details/5062249327) |
-| 20 | Basf France | Praktikum / Abschlussarbeit Data Science & Modellierung Industrie 4.0 (m/w/d) | Mitte, Germany | ❔ | 2025-02-24 | [Apply](https://www.adzuna.de/details/5062249299) |
-| 20 | Ernst & Young | Praktikant (w/m/d) Data Science im Bereich prüfungsnahe Beratung/Quants – Assurance (Financial Services) | Eschborn, Germany | ❔ | 2025-02-24 | [Apply](https://www.adzuna.de/details/5062250032) |
-| 20 | ABEL Mobilfunk & Co. KG | Werkstudent / Praktikant / Abschlussarbeit - Softwareentwicklung (m/w/d) | Engelsberg, Germany | ❔ | 2024-11-08 | [Apply](https://www.adzuna.de/details/4931301591) |
-| 20 | BearingPoint France | Stagiaire Data engineer - Products Data (H/F) | La Défense, France | ❔ | 2024-10-31 | [Apply](https://www.adzuna.fr/details/4920244741) |
-| 20 | ccc software gmbh von ITmitte.de | Praktikant (m/w/d) Softwareentwicklung in Leipzig | Leipzig, Germany | ❔ | 2024-10-08 | [Apply](https://www.adzuna.de/details/4892887592) |
-| 20 | BearingPoint France | Stagiaire Data Scientist - Products Data (H/F) | La Défense, France | ❔ | 2024-09-24 | [Apply](https://www.adzuna.fr/details/4875012674) |
-| 20 | Safran | Embedded Software Engineer (Internship) Granada, Spain | Maracena, Spain | ❔ | 2024-07-30 | [Apply](https://www.adzuna.es/details/4800603459) |
-| 20 | Basf France | Praktikum Management Consulting im Bereich Data Science / Data Analytics (m/w/d) | Mitte, Germany | ❔ | 2024-02-16 | [Apply](https://www.adzuna.de/details/4571173892) |
-| 20 | Highberg DACH | Praktikum: AI & Data Engineering | HafenCity, Germany | ❔ | 2023-10-05 | [Apply](https://www.adzuna.de/details/4352591932) |
-| 15 | ⭐ Amazon | 2026 Applied Scientist Intern, Amazon University Talent Acquisition | Barcelona, Spain | ❔ (3 mo) | 2025-11-03 | [Apply](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) |
-| 15 | ⭐ Amazon | 2026 Applied Scientist Intern, Amazon University Talent Acquisition | Berlin, Germany | ❔ (3 mo) | 2025-10-24 | [Apply](https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) |
 | 5 | P&G | Data Science Internship | Brussels, Belgium | ❔ (3 mo) | 2026-08-30 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Data-Science-Internship_R000145698) |
 | -5 | P&G | Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical | Brussels, Belgium | ❔ (3 mo) | 2026-08-30 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) |
 | -5 | Google | Data Science PhD Intern, 2027 | Zurich, Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5849979493) |
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (40) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (39) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -394,7 +373,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 0 | Bosch | Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code | Blaichach, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152410271) |
 | 0 | Bosch | Pflichtpraktikum im Bereich Softwareentwicklung (Full-Stack) | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152402639) |
 | 0 | Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Madrid, Spain | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) |
-| 0 | ⭐ Amazon | Software Dev Engineer Internship - Embedded Development (Linux) | Dresden, Germany | ❌ not summer (5 mo) | 2025-11-21 | [Apply](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) |
 | -2 | Samsung | Stage Data Analyst MX B2B (H/F) | France | ❌ not summer | 2026-09-24 | [Apply](https://www.adzuna.fr/details/5897062487) |
 | -2 | Bosch | Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-09-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151296789) |
 | -2 | Bosch | Extracurricular Internship: Production System & Data Analytics (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-09-22 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151010819) |

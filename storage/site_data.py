@@ -18,6 +18,9 @@ from scrapers.base import Posting
 
 def write_site_data(docs_dir: str, postings: list[Posting], outreach_yaml_path: str) -> None:
     os.makedirs(docs_dir, exist_ok=True)
+    # Earlier cycles' postings stay in the CSV (research record) but never
+    # reach the site: they'd only clutter the All tab and bloat the JSON.
+    postings = ranking.current_cycle(postings)
     active_links = {p.link for p in ranking.active(postings)}
     ranked = ranking.rank(postings)
     generated_at = datetime.now(timezone.utc).isoformat(timespec="minutes")

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T21:04+00:00",
+ "generated_at": "2026-09-29T21:22+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -24,14 +24,8 @@
    "careers_url": "https://jobs.eu.lever.co/prima",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Talent Acquisition Intern",
-     "link": "https://jobs.eu.lever.co/prima/dfa040e4-cad3-4f8a-a527-6ff38002467e",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "scalapay-talent-acquisition",
@@ -58,14 +52,9 @@
      "role": "Legal Counsel Intern - Regulatory and Complaints handling - (6 months)",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4961960101",
      "role_match": false
-    },
-    {
-     "role": "In-Store Operations intern - bilingual French/Italian (6-months)",
-     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4739799101",
-     "role_match": false
     }
    ],
-   "open_postings_total": 4
+   "open_postings_total": 3
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -151,7 +140,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 89
+   "open_postings_total": 84
   },
   {
    "id": "accenture-campus-recruiting-italy",

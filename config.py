@@ -18,6 +18,12 @@ DOCS_DIR = os.getenv("DOCS_DIR", "docs")
 # the README.
 SITE_URL = os.getenv("SITE_URL", "https://irenegallini.github.io/job-recommendation-system/")
 
+# Start of the recruiting cycle being tracked. Postings posted before this
+# date (still listed, but left over from earlier cycles) stay in the CSV for
+# later analysis but are left out of the site, Inbox and README. Bump it
+# each year when switching to the next summer's cycle.
+CYCLE_START = os.getenv("CYCLE_START", "2026-01-01")
+
 # Adzuna job-aggregator API (free key from developer.adzuna.com). Skipped if
 # unset. The free tier allows 2,500 requests/month, so it runs once a day
 # (the UTC 00:00 cron run, or any run with ADZUNA_FORCE=1) and each run is
