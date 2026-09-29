@@ -62,13 +62,15 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | P&G | Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical | Brussels, Belgium | ❔ (3 mo) | 2026-08-30 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) |
 
 <details>
-<summary>Not a summer fit (20) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (22) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 10 | ⭐ Philips | Internship: Generative AI Engineer | Eindhoven, Netherlands | ❌ not summer (3 mo) | 2026-09-28 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593) |
 | 6 | ⭐ Philips | Internship: Data Science for Multidimensional Market Modelling | Amsterdam, Netherlands | ❌ not summer (5 mo) | 2026-09-17 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Amsterdam/Internship--Data-Science-for-Multidimensional-Market-Modelling_590671) |
 | 5 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
+| 0 | Bosch | Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code | Blaichach, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152410271) |
+| 0 | Bosch | Pflichtpraktikum im Bereich Softwareentwicklung (Full-Stack) | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152402639) |
 | 0 | Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Madrid, Spain | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) |
 | 0 | ⭐ Amazon | Software Dev Engineer Internship - Embedded Development (Linux) | Dresden, Germany | ❌ not summer (5 mo) | 2025-11-21 | [Apply](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) |
 | -2 | Bosch | Internship Machine Learning for Predictive Reliability Analytics - Heat Pumps | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-09-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151296789) |
