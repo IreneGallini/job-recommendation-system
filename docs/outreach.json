@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T21:39+00:00",
+ "generated_at": "2026-09-30T02:57+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -250,6 +250,11 @@
      "role_match": true
     },
     {
+     "role": "Software Engineering PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5850176241",
+     "role_match": true
+    },
+    {
      "role": "Data Science PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5849979493",
      "role_match": true
@@ -260,7 +265,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 3
+   "open_postings_total": 4
   },
   {
    "id": "microsoft-university-recruiter-italy",
