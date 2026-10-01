@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T21:39+00:00",
+ "generated_at": "2026-10-01T03:06+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -344,6 +344,11 @@
    "priority": "normal",
    "open_postings": [
     {
+     "role": "Stage : Ingénieur Data Science",
+     "link": "https://www.adzuna.fr/details/5904039652",
+     "role_match": true
+    },
+    {
      "role": "Stage : Application de l'IA (machine learning) à l'automatisation des tests XIL",
      "link": "https://www.adzuna.fr/details/5902920836",
      "role_match": true
@@ -354,12 +359,17 @@
      "role_match": true
     },
     {
+     "role": "Stage : Assistant du Chief Engineer Module SoftWare Cockpit",
+     "link": "https://www.adzuna.fr/details/5904043060",
+     "role_match": false
+    },
+    {
      "role": "Stage : AI for System Architecture Engineer H/F - Knowledge & Decision Assistant",
      "link": "https://www.adzuna.fr/details/5902917024",
      "role_match": false
     }
    ],
-   "open_postings_total": 3
+   "open_postings_total": 5
   }
  ]
 }
