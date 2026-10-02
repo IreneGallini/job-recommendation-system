@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T03:07+00:00",
+ "generated_at": "2026-10-02T11:34+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,6 +120,11 @@
      "role_match": true
     },
     {
+     "role": "Data Center Technician - 2027 Internship ",
+     "link": "https://www.amazon.jobs/en/jobs/10567698/data-center-technician-2027-internship",
+     "role_match": false
+    },
+    {
      "role": "Process Improvement Specialist Intern - 2027  ",
      "link": "https://www.amazon.jobs/en/jobs/10558364/process-improvement-specialist-intern-2027",
      "role_match": false
@@ -133,14 +138,9 @@
      "role": "2027 Software Dev Engineer Intern - Spain",
      "link": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
      "role_match": true
-    },
-    {
-     "role": "2027 Software Dev Engineer Intern",
-     "link": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
-     "role_match": true
     }
    ],
-   "open_postings_total": 95
+   "open_postings_total": 101
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -206,32 +206,32 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
+     "role": "Werkstudent*in IT/Data Sciences - Wintersemesterferien 2026/2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-IT-Data-Sciences---Wintersemesterferien-2026-2027_R2868647",
+     "role_match": true
+    },
+    {
+     "role": "Werkstudent*in Produktion - Wintersemesterferien 2026/2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Produktion---Wintersemesterferien-2026-2027_R2868640",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich ICF Quality Pharma Fill and Inspection für November 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-ICF-Quality-Pharma-Fill-and-Inspection_R2828009",
+     "role": "Werkstudent*in Forschung und Entwicklung - Wintersemesterferien 2026/2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Forschung-und-Entwicklung---Wintersemesterferien-2026-2027_R2868643",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Cartridge Platform Development Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Cartridge-Platform-Development-Mai-2028_R2855486",
+     "role": "Werkstudent*in Administration - Wintersemesterferien 2026/2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Administration---Wintersemesterferien-2026-2027_R2868653",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikum im Bereich BioAnalytics Germany November 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikum-im-Bereich-BioAnalytics-Germany-November-2027_R2872380",
-     "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs der Franchise Rare Diseases Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs-der-Franchise-Rare-Diseases_R2845345",
+     "role": "Werkstudent*in Engineering Wintersemesterferien 2026/2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Engineering-Wintersemesterferien-2026-2027_R2868645",
      "role_match": false
     }
    ],
-   "open_postings_total": 15
+   "open_postings_total": 22
   },
   {
    "id": "google-university-recruiter-emea",
