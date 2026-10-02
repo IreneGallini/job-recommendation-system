@@ -476,6 +476,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | KBC Bank & Verzekering | Stage Data Engineer Data Modelling | Leuven, Belgium | ❔ | 2026-02-04 | [Apply](https://www.adzuna.be/details/5614685528) |
 | 20 | webit! Gesellschaft für neue Medien mbH von ITsax.de | Praktikum (m/w/d) für Frontend-Webentwicklung in Dresden | Dresden, Germany | ❔ | 2026-01-24 | [Apply](https://www.adzuna.de/details/5598103120) |
 | 20 | Dekra | Data Analyst CRM Stagiaire H/F | France | ❔ | 2026-01-09 | [Apply](https://www.adzuna.fr/details/5576597713) |
+| 15 | ⭐ Amazon | 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition | Madrid, Spain | ❔ (3 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) |
 | 15 | ⭐ Euronext | AI Engineering Intern | Paris, France | ❔ | 2026-09-02 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/AI-Engineering-Intern_R28219) |
 | 5 | P&G | Data Science Internship | Brussels, Belgium | ❔ (3 mo) | 2026-09-02 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Data-Science-Internship_R000145698) |
 | -5 | P&G | Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical | Brussels, Belgium | ❔ (3 mo) | 2026-09-02 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) |
