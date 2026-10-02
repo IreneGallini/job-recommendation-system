@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T22:07+00:00",
+ "generated_at": "2026-10-02T03:07+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -344,6 +344,16 @@
    "priority": "normal",
    "open_postings": [
     {
+     "role": "Stage : Data Analysis / Reporting Audit QMS",
+     "link": "https://www.adzuna.fr/details/5905927300",
+     "role_match": true
+    },
+    {
+     "role": "Stage : Analyste Business Intelligence & Data Insights – Expérience Client",
+     "link": "https://www.adzuna.fr/details/5905894267",
+     "role_match": true
+    },
+    {
      "role": "Stage : Ingénieur Data Science",
      "link": "https://www.adzuna.fr/details/5904039652",
      "role_match": true
@@ -357,19 +367,9 @@
      "role": "Stage : Ingénieur Data Analytics - Performance Économique et Base Coûts Composants Mécatroniques",
      "link": "https://www.adzuna.fr/details/5902921097",
      "role_match": true
-    },
-    {
-     "role": "Stage : Assistant du Chief Engineer Module SoftWare Cockpit",
-     "link": "https://www.adzuna.fr/details/5904043060",
-     "role_match": false
-    },
-    {
-     "role": "Stage : AI for System Architecture Engineer H/F - Knowledge & Decision Assistant",
-     "link": "https://www.adzuna.fr/details/5902917024",
-     "role_match": false
     }
    ],
-   "open_postings_total": 5
+   "open_postings_total": 11
   }
  ]
 }
