@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T21:34+00:00",
+ "generated_at": "2026-10-03T02:52+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -115,11 +115,6 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "2027 Software Dev Engineer Intern - Italy",
-     "link": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
-     "role_match": true
-    },
-    {
      "role": "Data Center Technician - 2027 Internship ",
      "link": "https://www.amazon.jobs/en/jobs/10567698/data-center-technician-2027-internship",
      "role_match": false
@@ -138,9 +133,14 @@
      "role": "2027 Software Dev Engineer Intern - Spain",
      "link": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
      "role_match": true
+    },
+    {
+     "role": "Business Analyst Intern (6 months) - 2027",
+     "link": "https://www.amazon.jobs/en/jobs/10567734/business-analyst-intern-6-months-2027",
+     "role_match": false
     }
    ],
-   "open_postings_total": 107
+   "open_postings_total": 106
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -153,11 +153,6 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
-    {
-     "role": "Cloud Transformation Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
-     "role_match": false
-    },
     {
      "role": "Capital Projects Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
@@ -177,9 +172,14 @@
      "role": "Junior SAP Analyst - Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
      "role_match": false
+    },
+    {
+     "role": "Stage in Ingegneria, AI e Automazione Industriale",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Industry-X---Stage-in-Ingegneria--AI-e-Automazione-Industriale_R00279633",
+     "role_match": false
     }
    ],
-   "open_postings_total": 48
+   "open_postings_total": 46
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -231,7 +231,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 22
+   "open_postings_total": 24
   },
   {
    "id": "google-university-recruiter-emea",
@@ -250,6 +250,11 @@
      "role_match": true
     },
     {
+     "role": "Data Scientist Product MS Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5909109659",
+     "role_match": true
+    },
+    {
      "role": "Software Engineering PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5850176241",
      "role_match": true
@@ -265,7 +270,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 4
+   "open_postings_total": 5
   },
   {
    "id": "microsoft-university-recruiter-italy",
@@ -344,32 +349,32 @@
    "priority": "normal",
    "open_postings": [
     {
-     "role": "Stage : Data Analysis / Reporting Audit QMS",
-     "link": "https://www.adzuna.fr/details/5905927300",
+     "role": "STAGE : Purchasing Data Scientist – AI",
+     "link": "https://www.adzuna.fr/details/5908409614",
      "role_match": true
     },
     {
-     "role": "Stage : Analyste Business Intelligence & Data Insights – Expérience Client",
-     "link": "https://www.adzuna.fr/details/5905894267",
+     "role": "STAGE : Purchasing Data Scientist – AI",
+     "link": "https://www.adzuna.fr/details/5908311172",
      "role_match": true
     },
     {
-     "role": "Stage : Ingénieur Data Science",
-     "link": "https://www.adzuna.fr/details/5904039652",
+     "role": "STAGE : Purchasing Data Analyst",
+     "link": "https://www.adzuna.fr/details/5908411256",
      "role_match": true
     },
     {
-     "role": "Stage : Application de l'IA (machine learning) à l'automatisation des tests XIL",
-     "link": "https://www.adzuna.fr/details/5902920836",
+     "role": "STAGE : Purchasing Data Analyst",
+     "link": "https://www.adzuna.fr/details/5908400685",
      "role_match": true
     },
     {
-     "role": "Stage : Ingénieur Data Analytics - Performance Économique et Base Coûts Composants Mécatroniques",
-     "link": "https://www.adzuna.fr/details/5902921097",
+     "role": "Stage : Data Analytics Engineer",
+     "link": "https://www.adzuna.fr/details/5908398503",
      "role_match": true
     }
    ],
-   "open_postings_total": 11
+   "open_postings_total": 24
   }
  ]
 }
