@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T20:20+00:00",
+ "generated_at": "2026-10-04T03:22+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -135,9 +135,9 @@
      "role_match": true
     },
     {
-     "role": "Business Analyst Intern (6 months) - 2027",
-     "link": "https://www.amazon.jobs/en/jobs/10567734/business-analyst-intern-6-months-2027",
-     "role_match": false
+     "role": "2027 Software Dev Engineer Intern",
+     "link": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
+     "role_match": true
     }
    ],
    "open_postings_total": 106
@@ -179,7 +179,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 46
+   "open_postings_total": 45
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -231,7 +231,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 24
+   "open_postings_total": 19
   },
   {
    "id": "google-university-recruiter-emea",
@@ -263,14 +263,9 @@
      "role": "Data Science PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5849979493",
      "role_match": true
-    },
-    {
-     "role": "Data Science PhD Intern, 2027",
-     "link": "https://www.adzuna.ch/details/5848973616",
-     "role_match": true
     }
    ],
-   "open_postings_total": 5
+   "open_postings_total": 4
   },
   {
    "id": "microsoft-university-recruiter-italy",
@@ -349,6 +344,16 @@
    "priority": "normal",
    "open_postings": [
     {
+     "role": "Stage : AI development to support the data analysis of the “Purchasing Overseas rates” & identify",
+     "link": "https://www.adzuna.fr/details/5910244523",
+     "role_match": true
+    },
+    {
+     "role": "Stage : Data Analytics & Reporting",
+     "link": "https://www.adzuna.fr/details/5910255560",
+     "role_match": true
+    },
+    {
      "role": "STAGE : Purchasing Data Scientist – AI",
      "link": "https://www.adzuna.fr/details/5908409614",
      "role_match": true
@@ -362,19 +367,9 @@
      "role": "STAGE : Purchasing Data Analyst",
      "link": "https://www.adzuna.fr/details/5908411256",
      "role_match": true
-    },
-    {
-     "role": "STAGE : Purchasing Data Analyst",
-     "link": "https://www.adzuna.fr/details/5908400685",
-     "role_match": true
-    },
-    {
-     "role": "Stage : Data Analytics Engineer",
-     "link": "https://www.adzuna.fr/details/5908398503",
-     "role_match": true
     }
    ],
-   "open_postings_total": 24
+   "open_postings_total": 30
   }
  ]
 }
