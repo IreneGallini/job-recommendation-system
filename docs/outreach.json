@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T12:59+00:00",
+ "generated_at": "2026-10-05T23:28+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -140,7 +140,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 103
+   "open_postings_total": 104
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -153,6 +153,11 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
+    {
+     "role": "Stage in area Industry&Process",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00361999",
+     "role_match": false
+    },
     {
      "role": "Capital Projects Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
@@ -172,14 +177,9 @@
      "role": "Junior SAP Analyst - Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
      "role_match": false
-    },
-    {
-     "role": "Stage in Ingegneria, AI e Automazione Industriale",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Industry-X---Stage-in-Ingegneria--AI-e-Automazione-Industriale_R00279633",
-     "role_match": false
     }
    ],
-   "open_postings_total": 45
+   "open_postings_total": 48
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -231,7 +231,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 21
+   "open_postings_total": 22
   },
   {
    "id": "google-university-recruiter-emea",
