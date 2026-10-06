@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T12:24+00:00",
+ "generated_at": "2026-10-06T22:00+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -125,6 +125,11 @@
      "role_match": false
     },
     {
+     "role": "Network Development Engineer Intern",
+     "link": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern",
+     "role_match": false
+    },
+    {
      "role": "Process Improvement Specialist Intern - 2027 ",
      "link": "https://www.amazon.jobs/en/jobs/10559027/process-improvement-specialist-intern-2027",
      "role_match": false
@@ -133,14 +138,9 @@
      "role": "2027 Software Dev Engineer Intern - Spain",
      "link": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
      "role_match": true
-    },
-    {
-     "role": "2027 Software Dev Engineer Intern - Germany",
-     "link": "https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany",
-     "role_match": true
     }
    ],
-   "open_postings_total": 106
+   "open_postings_total": 108
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -153,6 +153,11 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
+    {
+     "role": "Stage in area Industry&Process",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
+     "role_match": false
+    },
     {
      "role": "Stage in area Industry&Process",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00361999",
@@ -172,14 +177,9 @@
      "role": "Tech Intern - Accenture Customer Innovation Network",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
      "role_match": false
-    },
-    {
-     "role": "Junior SAP Analyst - Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
-     "role_match": false
     }
    ],
-   "open_postings_total": 46
+   "open_postings_total": 48
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -231,7 +231,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 20
+   "open_postings_total": 21
   },
   {
    "id": "google-university-recruiter-emea",
