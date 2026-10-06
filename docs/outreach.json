@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T03:49+00:00",
+ "generated_at": "2026-10-06T12:24+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -135,12 +135,12 @@
      "role_match": true
     },
     {
-     "role": "2027 Software Dev Engineer Intern",
-     "link": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern",
+     "role": "2027 Software Dev Engineer Intern - Germany",
+     "link": "https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany",
      "role_match": true
     }
    ],
-   "open_postings_total": 104
+   "open_postings_total": 106
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -211,6 +211,11 @@
      "role_match": true
     },
     {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
+     "role_match": false
+    },
+    {
      "role": "Werkstudent*in Produktion - Wintersemesterferien 2026/2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Produktion---Wintersemesterferien-2026-2027_R2868640",
      "role_match": false
@@ -224,14 +229,9 @@
      "role": "Werkstudent*in Administration - Wintersemesterferien 2026/2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Administration---Wintersemesterferien-2026-2027_R2868653",
      "role_match": false
-    },
-    {
-     "role": "Werkstudent*in Engineering Wintersemesterferien 2026/2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Engineering-Wintersemesterferien-2026-2027_R2868645",
-     "role_match": false
     }
    ],
-   "open_postings_total": 18
+   "open_postings_total": 20
   },
   {
    "id": "google-university-recruiter-emea",
