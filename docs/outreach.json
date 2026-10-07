@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T12:17+00:00",
+ "generated_at": "2026-10-07T22:25+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -130,17 +130,17 @@
      "role_match": false
     },
     {
+     "role": "2027 Software Dev Engineer Intern - Netherlands",
+     "link": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands",
+     "role_match": true
+    },
+    {
      "role": "Process Improvement Specialist Intern - 2027 ",
      "link": "https://www.amazon.jobs/en/jobs/10559027/process-improvement-specialist-intern-2027",
      "role_match": false
-    },
-    {
-     "role": "2027 Software Dev Engineer Intern - Spain",
-     "link": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain",
-     "role_match": true
     }
    ],
-   "open_postings_total": 109
+   "open_postings_total": 117
   },
   {
    "id": "accenture-campus-recruiting-italy",
