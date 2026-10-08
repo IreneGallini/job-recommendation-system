@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T22:25+00:00",
+ "generated_at": "2026-10-08T03:32+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -179,7 +179,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 48
+   "open_postings_total": 44
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -270,7 +270,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 5
+   "open_postings_total": 6
   },
   {
    "id": "microsoft-university-recruiter-italy",
@@ -349,6 +349,21 @@
    "priority": "normal",
    "open_postings": [
     {
+     "role": "Stage : Data Scientist en Logistique Opérationnelle et Approvisionnements",
+     "link": "https://www.adzuna.fr/details/5917378598",
+     "role_match": true
+    },
+    {
+     "role": "Stage : Data scientist IA H/F appliqué à la détection des défauts roulements EDM",
+     "link": "https://www.adzuna.fr/details/5917346402",
+     "role_match": true
+    },
+    {
+     "role": "Stage : Finance Transformation, IA & Data Analytics",
+     "link": "https://www.adzuna.fr/details/5917322571",
+     "role_match": true
+    },
+    {
      "role": "Stage : AI development to support the data analysis of the “Purchasing Overseas rates” & identify",
      "link": "https://www.adzuna.fr/details/5910244523",
      "role_match": true
@@ -357,24 +372,9 @@
      "role": "Stage : Data Analytics & Reporting",
      "link": "https://www.adzuna.fr/details/5910255560",
      "role_match": true
-    },
-    {
-     "role": "STAGE : Purchasing Data Scientist – AI",
-     "link": "https://www.adzuna.fr/details/5908409614",
-     "role_match": true
-    },
-    {
-     "role": "STAGE : Purchasing Data Scientist – AI",
-     "link": "https://www.adzuna.fr/details/5908311172",
-     "role_match": true
-    },
-    {
-     "role": "STAGE : Purchasing Data Analyst",
-     "link": "https://www.adzuna.fr/details/5908411256",
-     "role_match": true
     }
    ],
-   "open_postings_total": 42
+   "open_postings_total": 46
   }
  ]
 }
