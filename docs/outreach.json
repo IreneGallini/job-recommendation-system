@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T03:32+00:00",
+ "generated_at": "2026-10-08T12:27+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -115,6 +115,16 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "(Physical) Security Specialist Intern -  2027 Internship",
+     "link": "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship",
+     "role_match": false
+    },
+    {
+     "role": "Data Center Engineering Operations - 2027 Internship ",
+     "link": "https://www.amazon.jobs/en/jobs/10573017/data-center-engineering-operations-2027-internship",
+     "role_match": false
+    },
+    {
      "role": "Data Center Technician - 2027 Internship ",
      "link": "https://www.amazon.jobs/en/jobs/10567698/data-center-technician-2027-internship",
      "role_match": false
@@ -128,19 +138,9 @@
      "role": "Network Development Engineer Intern",
      "link": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern",
      "role_match": false
-    },
-    {
-     "role": "2027 Software Dev Engineer Intern - Netherlands",
-     "link": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands",
-     "role_match": true
-    },
-    {
-     "role": "Process Improvement Specialist Intern - 2027 ",
-     "link": "https://www.amazon.jobs/en/jobs/10559027/process-improvement-specialist-intern-2027",
-     "role_match": false
     }
    ],
-   "open_postings_total": 117
+   "open_postings_total": 120
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,13 +164,13 @@
      "role_match": false
     },
     {
-     "role": "Capital Projects Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
+     "role": "Tech Intern - Accenture Customer Innovation Network",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
      "role_match": false
     },
     {
-     "role": "Tech Intern - Accenture Customer Innovation Network",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
+     "role": "Capital Projects Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
      "role_match": false
     },
     {
