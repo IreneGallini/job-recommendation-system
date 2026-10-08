@@ -369,7 +369,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | Marquardt GmbH | Praktikant (m/w/d) im Bereich Innovations - KI & Machine Learning auf Embedded Systems | Rietheim-Weilheim, Germany | ❔ | 2026-09-02 | [Apply](https://www.adzuna.de/details/5867247764) |
 | 20 | Perplexity | Internship - Machine Learning Research Engineer | Berlin, Germany | ❔ (2.8 mo) | 2026-09-02 | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) |
 | 20 | Deloitte | Praktikant AI & Data Engineering (m/w/d) | Munich, Germany | ❔ | 2026-09-01 | [Apply](https://www.adzuna.de/details/5864338041) |
-| 20 | Ekimetrics | Stage Data Engineer (H/F/N) | Paris, France | ❔ | 2026-09-01 | [Apply](https://jobs.lever.co/ekimetrics/78db6965-671f-419f-be41-0fa3302187cd) |
+| 20 | Ekimetrics | Stage Data Engineer (H/F/N) - 2027 | Paris, France | ❔ | 2026-09-01 | [Apply](https://jobs.lever.co/ekimetrics/78db6965-671f-419f-be41-0fa3302187cd) |
 | 20 | Devoteam | Software Engineer Internship (AI-Powered Software Factory) | Machelen, Belgium | ❔ | 2026-09-01 | [Apply](https://jobs.smartrecruiters.com/Devoteam/744000146762399) |
 | 20 | Bosch | Pflichtpraktikum Data Engineering – CAD-Visualisierung  | Renningen, Germany | ❔ (4 mo) | 2026-08-27 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145898759) |
 | 20 | PricewaterhouseCoopers GmbH WPG | Praktikum Finance Transformation: Performance Management/Data Analytics (w/m/d) | Cologne, Germany | ❔ | 2026-08-26 | [Apply](https://www.adzuna.de/details/5856677911) |
@@ -457,13 +457,14 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (86) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (87) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 50 | ⭐ Gemmo | Forward-Deployed AI Engineer - Internship | Milan, Italy | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://apply.workable.com/j/AFC35133EE/apply) |
 | 49 | ⭐ Gemmo | Forward-Deployed AI Engineer (Internship or Full-Time, Milan) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-05 | [Apply](https://apply.workable.com/j/28A3FA796E/apply) |
 | 19 | Bosch | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Turin, Italy | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153799209) |
+| 10 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-10-08 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 9 | ⭐ Sanofi | stage 6 mois software engineer | Lyon, France | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://www.adzuna.fr/details/5913951500) |
 | 8 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
 | 8 | ⭐ Sanofi | stage 6 mois – data analyst audit interne | Gentilly, France | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.adzuna.fr/details/5908410004) |
