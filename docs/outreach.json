@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T22:39+00:00",
+ "generated_at": "2026-10-09T03:37+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -44,17 +44,12 @@
      "role_match": false
     },
     {
-     "role": "Receptionist Intern (6months)",
-     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4960781101",
-     "role_match": false
-    },
-    {
      "role": "Legal Counsel Intern - Regulatory and Complaints handling - (6 months)",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4961960101",
      "role_match": false
     }
    ],
-   "open_postings_total": 3
+   "open_postings_total": 2
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -89,19 +84,9 @@
      "role": "Product Management Intern, Summer 2027 - Rome, Italy",
      "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
      "role_match": false
-    },
-    {
-     "role": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
-     "role_match": false
-    },
-    {
-     "role": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
-     "role_match": false
     }
    ],
-   "open_postings_total": 4
+   "open_postings_total": 2
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -140,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 126
+   "open_postings_total": 123
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -179,7 +164,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 44
+   "open_postings_total": 42
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -231,7 +216,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 25
+   "open_postings_total": 23
   },
   {
    "id": "google-university-recruiter-emea",
