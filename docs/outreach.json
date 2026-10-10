@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:00+00:00",
+ "generated_at": "2026-10-10T03:18+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -125,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 124
+   "open_postings_total": 122
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -144,11 +144,6 @@
      "role_match": false
     },
     {
-     "role": "Stage in area Industry&Process",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00361999",
-     "role_match": false
-    },
-    {
      "role": "Tech Intern - Accenture Customer Innovation Network",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
      "role_match": false
@@ -162,9 +157,14 @@
      "role": "Junior SAP Analyst - Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
      "role_match": false
+    },
+    {
+     "role": "Stage Sales and Business Development per il mercato Financial Services",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-Sales-and-Business-Development_R00074273",
+     "role_match": false
     }
    ],
-   "open_postings_total": 43
+   "open_postings_total": 41
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -216,7 +216,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 25
+   "open_postings_total": 27
   },
   {
    "id": "google-university-recruiter-emea",
