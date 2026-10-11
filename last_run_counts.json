@@ -1,7 +1,7 @@
 {
   "ANYbotics": 22,
   "Accenture": 477,
-  "Adzuna": 1258,
+  "Adzuna": 1242,
   "Airbnb": 160,
   "Alan": 118,
   "Amazon": 153,
@@ -23,13 +23,13 @@
   "Elastic": 409,
   "ElevenLabs": 124,
   "Eurofins": 2578,
-  "Euronext": 131,
+  "Euronext": 130,
   "GSK": 202,
   "Gemmo": 2,
   "ION Group": 88,
   "Leonardo": 270,
   "Manex AI": 8,
-  "Mastercard": 202,
+  "Mastercard": 203,
   "Mistral AI": 213,
   "Moneyfarm": 20,
   "MongoDB": 392,
@@ -50,6 +50,6 @@
   "Shift Technology": 31,
   "Sia Partners": 585,
   "SimplifyGitHubScraper": 1281,
-  "Stripe": 728,
+  "Stripe": 729,
   "TeamSystem": 30
 }

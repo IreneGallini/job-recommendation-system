@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T20:52+00:00",
+ "generated_at": "2026-10-11T02:51+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -125,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 122
+   "open_postings_total": 120
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -216,7 +216,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 27
+   "open_postings_total": 26
   },
   {
    "id": "google-university-recruiter-emea",
@@ -359,7 +359,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 46
+   "open_postings_total": 48
   }
  ]
 }
