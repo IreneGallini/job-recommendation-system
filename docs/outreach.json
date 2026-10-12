@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T21:13+00:00",
+ "generated_at": "2026-10-12T03:14+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -125,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 120
+   "open_postings_total": 118
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,7 +164,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 41
+   "open_postings_total": 40
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -191,11 +191,6 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Werkstudent*in IT/Data Sciences - Wintersemesterferien 2026/2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-IT-Data-Sciences---Wintersemesterferien-2026-2027_R2868647",
-     "role_match": true
-    },
-    {
      "role": "Pharmaziepraktikant*in im Bereich Medical Affairs der Franchise Rare Diseases Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs-der-Franchise-Rare-Diseases_R2845345",
      "role_match": false
@@ -214,9 +209,14 @@
      "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
      "role_match": false
+    },
+    {
+     "role": "Medical Affairs Internship",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
+     "role_match": false
     }
    ],
-   "open_postings_total": 28
+   "open_postings_total": 21
   },
   {
    "id": "google-university-recruiter-emea",
@@ -359,7 +359,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 48
+   "open_postings_total": 41
   }
  ]
 }
