@@ -94,6 +94,8 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 33 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Germany | Berlin, Germany | ❔ | 2026-09-21 | [Apply](https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany) |
 | 33 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Germany | Berlin, Germany | ❔ | 2026-09-21 | [Apply](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) |
 | 30 | AXA Group | Stage - Data Engineering & Analytics | Paris, France | ❔ | 2026-10-12 | [Apply](https://www.adzuna.fr/details/5923791296) |
+| 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155063759) |
+| 30 | Sia Partners | Final year internship - Data Scientist & AI Consultant | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155061916) |
 | 30 | EDF | STAGE - Bac4/5 - Data Analyst F/H | Lyon, France | ❔ | 2026-10-11 | [Apply](https://www.adzuna.fr/details/5922764945) |
 | 30 | Bank Lombard Odier & Co | Internship - Data Engineer - Optimization of Data Delivery | Switzerland | ❔ | 2026-10-11 | [Apply](https://www.adzuna.ch/details/5922665245) |
 | 30 | Airbus | Stage 2027 - Stagiaire en Data analyst - Centre de réparation des systèmes électriques avion (F/H) | France | ❔ | 2026-10-11 | [Apply](https://www.adzuna.fr/details/5923517067) |
