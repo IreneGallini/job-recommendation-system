@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T03:14+00:00",
+ "generated_at": "2026-10-12T13:51+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -139,6 +139,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Cloud Transformation Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
+     "role_match": false
+    },
+    {
      "role": "Stage in area Industry&Process",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
      "role_match": false
@@ -157,14 +162,9 @@
      "role": "Junior SAP Analyst - Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
      "role_match": false
-    },
-    {
-     "role": "Stage Sales and Business Development per il mercato Financial Services",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-Sales-and-Business-Development_R00074273",
-     "role_match": false
     }
    ],
-   "open_postings_total": 40
+   "open_postings_total": 41
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -196,6 +196,11 @@
      "role_match": false
     },
     {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikum im Bereich FBC Quality API Biosynthese November 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikum-im-Bereich-FBC-Quality-API-Biosynthese-November-2026_R2870902",
      "role_match": false
@@ -206,14 +211,9 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
-     "role_match": false
-    },
-    {
-     "role": "Medical Affairs Internship",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
-     "role_match": false
+     "role": "stage 6 mois software engineer",
+     "link": "https://www.adzuna.fr/details/5913951500",
+     "role_match": true
     }
    ],
    "open_postings_total": 21
