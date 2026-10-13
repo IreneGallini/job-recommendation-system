@@ -97,6 +97,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | EDF | Stage – Bac 5 – Ingénieure/Ingénieur Data Analytics F/H | Braud-et-Saint-Louis, France | ❔ | 2026-10-13 | [Apply](https://www.adzuna.fr/details/5925324523) |
 | 30 | EDF | STAGE - Data Analyst & Développeur applications Power Platform F/H | France | ❔ | 2026-10-13 | [Apply](https://www.adzuna.fr/details/5925243630) |
 | 30 | Carrefour | Stagiaire Data Analyst (F/H) | Massy, France | ❔ | 2026-10-13 | [Apply](https://www.adzuna.fr/details/5925240701) |
+| 30 | Sia Partners | Final Year Internship Consultant - Data Analyst | Paris, France | ❔ | 2026-10-13 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155313424) |
 | 30 | AXA Group | Stage - Data Engineering & Analytics | Paris, France | ❔ | 2026-10-12 | [Apply](https://www.adzuna.fr/details/5923791296) |
 | 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155063759) |
 | 30 | Sia Partners | Final year internship - Data Scientist & AI Consultant | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155061916) |
@@ -454,7 +455,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (84) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (85) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -471,6 +472,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 6 | ⭐ Sanofi | stage 6 mois – data analyst audit interne | Gentilly, France | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.adzuna.fr/details/5908410004) |
 | 5 | ⭐ Philips | Internship: Generative AI Engineer | Eindhoven, Netherlands | ❌ not summer (3 mo) | 2026-09-28 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Generative-AI-Engineer_591593) |
 | 4 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-24 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
+| 0 | Bosch | Pflichtpraktikum im Bereich Softwareentwicklung (Full-Stack) | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-10-13 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155181159) |
 | 0 | Bosch | Internship in GenAI Knowledge Assistant for Engineering | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020599) |
 | 0 | Bosch | Internship Data Analytics | Mechelen, Belgium | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155002879) |
 | 0 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
