@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T04:44+00:00",
+ "generated_at": "2026-10-13T13:09+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,12 +120,12 @@
      "role_match": false
     },
     {
-     "role": "Network Development Engineer Intern",
-     "link": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern",
+     "role": "(Physical) Security Specialist Intern - 2027 Internship, DUB West",
+     "link": "https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west",
      "role_match": false
     }
    ],
-   "open_postings_total": 118
+   "open_postings_total": 124
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,7 +164,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 41
+   "open_postings_total": 43
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -196,6 +196,11 @@
      "role_match": false
     },
     {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikum im Bereich FBC Quality API Biosynthese November 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikum-im-Bereich-FBC-Quality-API-Biosynthese-November-2026_R2870902",
      "role_match": false
@@ -206,17 +211,12 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
-     "role_match": false
-    },
-    {
      "role": "stage 6 mois software engineer",
      "link": "https://www.adzuna.fr/details/5913951500",
      "role_match": true
     }
    ],
-   "open_postings_total": 20
+   "open_postings_total": 21
   },
   {
    "id": "google-university-recruiter-emea",
