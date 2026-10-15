@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T02:21+00:00",
+ "generated_at": "2026-10-15T10:33+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -84,9 +84,14 @@
      "role": "Product Management Intern, Summer 2027 - Rome, Italy",
      "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
      "role_match": false
+    },
+    {
+     "role": "Program Management Intern, Summer 2027 – Dublin, Ireland",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Program-Management-Intern--Summer-2027---Dublin--Ireland_R-291326-1",
+     "role_match": false
     }
    ],
-   "open_postings_total": 2
+   "open_postings_total": 3
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -125,7 +130,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 124
+   "open_postings_total": 125
   },
   {
    "id": "accenture-campus-recruiting-italy",
