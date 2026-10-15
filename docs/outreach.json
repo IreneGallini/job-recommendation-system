@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T21:06+00:00",
+ "generated_at": "2026-10-15T02:21+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -216,7 +216,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 21
+   "open_postings_total": 19
   },
   {
    "id": "google-university-recruiter-emea",
@@ -359,7 +359,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 40
+   "open_postings_total": 36
   }
  ]
 }
