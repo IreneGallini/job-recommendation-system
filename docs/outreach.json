@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T10:33+00:00",
+ "generated_at": "2026-10-15T15:57+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -11,8 +11,14 @@
    "careers_url": "https://jobs.ashbyhq.com/satispay",
    "notes": "",
    "priority": "high",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "FP&A Intern",
+     "link": "https://jobs.ashbyhq.com/satispay/c1b98e6a-9460-4ddb-915b-af9349523339",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 1
   },
   {
    "id": "prima-assicurazioni-engineering-manager-tech-recruiter",
@@ -125,12 +131,12 @@
      "role_match": false
     },
     {
-     "role": "(Physical) Security Specialist Intern - 2027 Internship, DUB West",
-     "link": "https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west",
-     "role_match": false
+     "role": "Business Intelligence Intern Italy",
+     "link": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy",
+     "role_match": true
     }
    ],
-   "open_postings_total": 125
+   "open_postings_total": 127
   },
   {
    "id": "accenture-campus-recruiting-italy",
