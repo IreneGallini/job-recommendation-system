@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T02:15+00:00",
+ "generated_at": "2026-10-16T10:20+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -202,6 +202,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikant*in im Bereich Medical Affairs der Franchise Rare Diseases Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs-der-Franchise-Rare-Diseases_R2845345",
      "role_match": false
@@ -220,14 +225,9 @@
      "role": "stage 6 mois software engineer",
      "link": "https://www.adzuna.fr/details/5913951500",
      "role_match": true
-    },
-    {
-     "role": "Medical Affairs Internship",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
-     "role_match": false
     }
    ],
-   "open_postings_total": 18
+   "open_postings_total": 20
   },
   {
    "id": "google-university-recruiter-emea",
