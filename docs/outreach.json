@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T20:14+00:00",
+ "generated_at": "2026-10-17T02:06+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -136,7 +136,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 129
+   "open_postings_total": 127
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -175,7 +175,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 48
+   "open_postings_total": 47
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -212,22 +212,22 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs der Franchise Rare Diseases Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs-der-Franchise-Rare-Diseases_R2845345",
+     "role": "Medical Affairs Internship",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikum im Bereich FBC Quality API Biosynthese November 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikum-im-Bereich-FBC-Quality-API-Biosynthese-November-2026_R2870902",
-     "role_match": false
+     "role": "stage 6 mois software engineer",
+     "link": "https://www.adzuna.fr/details/5913951500",
+     "role_match": true
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
+     "role": "Medical Affairs Trainee",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Medical-Affairs-Trainee_R2874263",
      "role_match": false
     }
    ],
-   "open_postings_total": 21
+   "open_postings_total": 17
   },
   {
    "id": "google-university-recruiter-emea",
@@ -370,7 +370,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 36
+   "open_postings_total": 35
   }
  ]
 }
