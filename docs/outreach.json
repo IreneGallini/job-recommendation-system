@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T19:50+00:00",
+ "generated_at": "2026-10-18T02:06+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -150,11 +150,6 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Cloud Transformation Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
-     "role_match": false
-    },
-    {
      "role": "Stage in area Industry&Process",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
      "role_match": false
@@ -172,6 +167,11 @@
     {
      "role": "Junior SAP Analyst - Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
+     "role_match": false
+    },
+    {
+     "role": "Stage Sales and Business Development per il mercato Financial Services",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-Sales-and-Business-Development_R00074273",
      "role_match": false
     }
    ],
@@ -212,11 +212,6 @@
      "role_match": false
     },
     {
-     "role": "Medical Affairs Internship",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
-     "role_match": false
-    },
-    {
      "role": "stage 6 mois software engineer",
      "link": "https://www.adzuna.fr/details/5913951500",
      "role_match": true
@@ -225,9 +220,14 @@
      "role": "Medical Affairs Trainee",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Medical-Affairs-Trainee_R2874263",
      "role_match": false
+    },
+    {
+     "role": "internship 6 months scientific communication",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
+     "role_match": false
     }
    ],
-   "open_postings_total": 17
+   "open_postings_total": 15
   },
   {
    "id": "google-university-recruiter-emea",
@@ -370,7 +370,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 35
+   "open_postings_total": 30
   }
  ]
 }
