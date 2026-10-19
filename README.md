@@ -90,7 +90,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 45 | BlockTech | Software Engineer \| Internship \| Summer '27 | Amsterdam, Netherlands | ✅ summer (1.8 mo) | 2026-08-28 | [Apply](https://jobs.ashbyhq.com/blocktech/a12b3714-d243-41ee-a6b6-e39776630888) |
-| 39 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-15 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
+| 38 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
 | 35 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Netherlands | Amsterdam, Netherlands | ❔ | 2026-10-05 | [Apply](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) |
 | 31 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Spain | Madrid, Spain | ❔ | 2026-09-22 | [Apply](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) |
 | 31 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Germany | Berlin, Germany | ❔ | 2026-09-21 | [Apply](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) |
@@ -525,7 +525,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Zurich, Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5849979493) |
 
 <details>
-<summary>Not a summer fit (93) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (96) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -533,22 +533,24 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 48 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milan, Italy | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) |
 | 46 | ⭐ Gemmo | Forward-Deployed AI Engineer - Internship | Milan, Italy | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://apply.workable.com/j/AFC35133EE/apply) |
 | 37 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.it/details/5920948578) |
+| 10 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
 | 9 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
 | 8 | ⭐ Doctolib | Software Engineering intern - Fullstack (x/f/m) - Nantes | Nantes, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) |
 | 8 | ⭐ Doctolib | Software Engineering Intern - Fullstack (x/f/m) - Paris | Paris, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7998193003) |
 | 8 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, Netherlands | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) |
 | 8 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | Berlin, Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) |
-| 7 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
+| 6 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-10-08 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 4 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
-| 2 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-25 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
+| 2 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-24 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
+| 0 | Bosch | Praktikum Software Development (w/m/div.) | Vienna, Austria | ❌ not summer (12 mo) | 2026-10-19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156274429) |
 | 0 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
-| -1 | P&G | Data Engineer Internship (m/f/x) | Lisbon, Portugal | ❌ not summer (12 mo) | 2026-10-17 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) |
 | -1 | Chanel | Stage - Data Science Et Ia Appliquées À La R&D H/F | France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5932393937) |
 | -1 | Forums Talents Handicap | STAGE - Bac4/5 - Data Analyst F/H | Rhône, France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931363236) |
 | -1 | Forums Talents Handicap | STAGE - Data Analyst & Développeur applications Power Platform F/H | Manche, France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931363144) |
 | -1 | Orange | Stage : Stage Data scientist - Prédiction de séries temporelles (H/F) | Saint-Aubin-du-Cormier, France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931776634) |
 | -1 | Bosch | Stagiaire Développeur Full Stack F/H | Vénissieux, France | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155947364) |
 | -1 | Bosch | Praktikum Software Development (w/m/div.) | Vienna, Austria | ❌ not summer (12 mo) | 2026-10-16 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155912199) |
+| -1 | P&G | Data Engineer Internship (m/f/x) | Lisbon, Portugal | ❌ not summer (12 mo) | 2026-10-16 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) |
 | -1 | Decathlon Digital | Stage AI Engineer - IA Alternatives | Paris, France | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://www.adzuna.fr/details/5930869395) |
 | -1 | CAFPI | Stage - Data Analyst - Performance & Croissance H/F | Paris, France | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://www.adzuna.fr/details/5929831576) |
 | -1 | Crédit Mutuel ARKEA | Stage - Data Analyste Pilotage Financier H/F | Le-Relecq-Kerhuon, France | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://www.adzuna.fr/details/5929830133) |
@@ -583,6 +585,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -4 | Aumovio | Praktikum - Softwareentwicklung mit .NET (Web, Mobile, Client) | Regensburg, Germany | ❌ not summer (5 mo) | 2026-10-07 | [Apply](https://www.adzuna.de/details/5914295600) |
 | -4 | Bosch | Pflichtpraktikum in der Full-Stack-Entwicklung zur Release-Automatisierung von Embedded-Middleware-Software im Automobilbereich (w/m/div.) | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153771709) |
 | -4 | Bosch | Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153769414) |
+| -5 | ⭐ Euronext | Equity & ETF Sales Data Analyst Intern | Paris, France | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity---ETF-Sales-Data-Analyst-Intern_R29199) |
 | -5 | Roche | Data Science Intern / Master Thesis Student (Basel, 6 Monate) | Basel, Switzerland | ❌ not summer (6 mo) | 2026-10-04 | [Apply](https://www.adzuna.ch/details/5910735879) |
 | -5 | Job-Room | Data Science Intern / Master Thesis Student (Basel, 6 Monate) | Basel, Switzerland | ❌ not summer (6 mo) | 2026-10-04 | [Apply](https://www.adzuna.ch/details/5911523030) |
 | -5 | Bank Julius Bär & Co. AG | Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme] | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909034035) |
@@ -613,7 +616,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -17 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020669) |
 | -19 | Shift Technology | Data & AI Engineer Intern (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003) |
 | -22 | Shift Technology | Data Scientist Internship (November, 6 months) | Paris, France | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) |
-| -24 | P&G | Analysis & Insights Internship (Stagiaire Data Analyst) | Paris, France | ❌ not summer | 2026-09-23 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
+| -24 | P&G | Analysis & Insights Internship (Stagiaire Data Analyst) | Paris, France | ❌ not summer | 2026-09-22 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
 | -25 | P&G | Data Engineering Intern | Paris, France | ❌ not summer (6 mo) | 2026-09-19 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) |
 | -25 | Bosch | Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-09-11 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738) |
 | -25 | Robotics and AI Institute | Internship - Software Engineering | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-08-28 | [Apply](https://www.adzuna.ch/details/5858931930) |
