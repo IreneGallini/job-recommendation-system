@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T19:51+00:00",
+ "generated_at": "2026-10-19T02:21+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -90,14 +90,9 @@
      "role": "Product Management Intern, Summer 2027 - Rome, Italy",
      "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
      "role_match": false
-    },
-    {
-     "role": "Program Management Intern, Summer 2027 – Dublin, Ireland",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dublin-Ireland/Program-Management-Intern--Summer-2027---Dublin--Ireland_R-291326-1",
-     "role_match": false
     }
    ],
-   "open_postings_total": 3
+   "open_postings_total": 2
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -136,7 +131,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 127
+   "open_postings_total": 126
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -212,11 +207,6 @@
      "role_match": false
     },
     {
-     "role": "stage 6 mois software engineer",
-     "link": "https://www.adzuna.fr/details/5913951500",
-     "role_match": true
-    },
-    {
      "role": "Medical Affairs Trainee",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Medical-Affairs-Trainee_R2874263",
      "role_match": false
@@ -225,9 +215,14 @@
      "role": "internship 6 months scientific communication",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
      "role_match": false
+    },
+    {
+     "role": "stage 4 à 6 mois support laboratoire physico chimie",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
+     "role_match": false
     }
    ],
-   "open_postings_total": 15
+   "open_postings_total": 11
   },
   {
    "id": "google-university-recruiter-emea",
@@ -266,7 +261,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 6
+   "open_postings_total": 5
   },
   {
    "id": "microsoft-university-recruiter-italy",
@@ -360,17 +355,17 @@
      "role_match": true
     },
     {
-     "role": "Stage : AI development to support the data analysis of the “Purchasing Overseas rates” & identify",
-     "link": "https://www.adzuna.fr/details/5910244523",
-     "role_match": true
+     "role": "Stage : Gestion des Opérations Digitales & Support IT",
+     "link": "https://www.adzuna.fr/details/5917313857",
+     "role_match": false
     },
     {
-     "role": "Stage : Data Analytics & Reporting",
-     "link": "https://www.adzuna.fr/details/5910255560",
-     "role_match": true
+     "role": "Stage : Marketing, CRM et Data",
+     "link": "https://www.adzuna.fr/details/5917385522",
+     "role_match": false
     }
    ],
-   "open_postings_total": 30
+   "open_postings_total": 5
   }
  ]
 }
