@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T02:35+00:00",
+ "generated_at": "2026-10-20T10:37+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -16,9 +16,14 @@
      "role": "FP&A Intern",
      "link": "https://jobs.ashbyhq.com/satispay/c1b98e6a-9460-4ddb-915b-af9349523339",
      "role_match": false
+    },
+    {
+     "role": "KYC Analyst Intern",
+     "link": "https://jobs.ashbyhq.com/satispay/c7286e6d-0a10-424a-a524-5277c5fac580",
+     "role_match": false
     }
    ],
-   "open_postings_total": 1
+   "open_postings_total": 2
   },
   {
    "id": "prima-assicurazioni-engineering-manager-tech-recruiter",
@@ -80,8 +85,14 @@
    "careers_url": "https://careers.mastercard.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 1
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -186,13 +197,13 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
+     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
+     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
      "role_match": false
     },
     {
