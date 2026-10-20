@@ -496,7 +496,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 |---|---|---|---|---|---|---|
 | 48 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 47 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milan, Italy | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) |
-| 46 | ⭐ Gemmo | Forward-Deployed AI Engineer - Internship | Milan, Italy | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://apply.workable.com/j/AFC35133EE/apply) |
+| 46 | ⭐ Gemmo | Forward-Deployed AI Engineer - Internship (Milan) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://apply.workable.com/j/AFC35133EE/apply) |
 | 40 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | 36 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.it/details/5920948578) |
 | 10 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
