@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T21:52+00:00",
+ "generated_at": "2026-10-20T02:35+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -80,19 +80,8 @@
    "careers_url": "https://careers.mastercard.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Associate Consultant Intern, Summer 2027 – Milan, Italy",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Milan-Italy/Associate-Consultant-Intern--Summer-2027---Milan--Italy_R-287715-1",
-     "role_match": false
-    },
-    {
-     "role": "Product Management Intern, Summer 2027 - Rome, Italy",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Rome-Italy/Product-Management-Intern--Summer-2027---Rome--Italy_R-287722-1",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 2
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -170,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 47
+   "open_postings_total": 45
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -197,13 +186,13 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
+     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
+     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
      "role_match": false
     },
     {
@@ -217,12 +206,12 @@
      "role_match": false
     },
     {
-     "role": "stage 4 à 6 mois support laboratoire physico chimie",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
+     "role": "internship 6 months  global market access and pricing",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/internship-6-months--global-market-access-and-pricing_R2874165",
      "role_match": false
     }
    ],
-   "open_postings_total": 11
+   "open_postings_total": 6
   },
   {
    "id": "google-university-recruiter-emea",
@@ -338,34 +327,8 @@
    "careers_url": "https://www.stellantis.com/en/careers",
    "notes": "",
    "priority": "normal",
-   "open_postings": [
-    {
-     "role": "Stage : Data Scientist en Logistique Opérationnelle et Approvisionnements",
-     "link": "https://www.adzuna.fr/details/5917378598",
-     "role_match": true
-    },
-    {
-     "role": "Stage : Data scientist IA H/F appliqué à la détection des défauts roulements EDM",
-     "link": "https://www.adzuna.fr/details/5917346402",
-     "role_match": true
-    },
-    {
-     "role": "Stage : Finance Transformation, IA & Data Analytics",
-     "link": "https://www.adzuna.fr/details/5917322571",
-     "role_match": true
-    },
-    {
-     "role": "Stage : Gestion des Opérations Digitales & Support IT",
-     "link": "https://www.adzuna.fr/details/5917313857",
-     "role_match": false
-    },
-    {
-     "role": "Stage : Marketing, CRM et Data",
-     "link": "https://www.adzuna.fr/details/5917385522",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 5
+   "open_postings": [],
+   "open_postings_total": 0
   }
  ]
 }
