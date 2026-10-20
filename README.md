@@ -93,6 +93,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 38 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
 | 35 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Netherlands | Amsterdam, Netherlands | ❔ | 2026-10-05 | [Apply](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) |
 | 31 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Spain | Madrid, Spain | ❔ | 2026-09-22 | [Apply](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) |
+| 30 | Ekimetrics | Stage IA/ML Engineer 100% R&D - agentic AI | Paris, France | ❔ | 2026-10-20 | [Apply](https://jobs.lever.co/ekimetrics/d20f4331-64c2-433a-a254-efefe35efa52) |
 | 30 | Forums Talents Handicap | Stage Ingénieur(e) logiciel DATA / Data Engineering – Services Publics – Bordeaux | Gironde, France | ❔ | 2026-10-19 | [Apply](https://www.adzuna.fr/details/5933723855) |
 | 30 | Forums Talents Handicap | Stage - Développeur(se) portail Web full stack Java / Angular - Energie & Telecom – Toulouse | Haute-Garonne, France | ❔ | 2026-10-19 | [Apply](https://www.adzuna.fr/details/5933723854) |
 | 30 | BNP PARIBAS | Stage - Data Analyst en Cybersécurité H/F | Rueil-Malmaison, France | ❔ | 2026-10-19 | [Apply](https://www.adzuna.fr/land/ad/5934546981) |
@@ -489,7 +490,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Zurich, Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5849979493) |
 
 <details>
-<summary>Not a summer fit (94) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (96) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -558,6 +559,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -6 | SFR com | Stagiaire (h/f) - CHEF DE PROJET DATA SCIENTIST | Paris, France | ❌ not summer (6 mo) | 2026-10-01 | [Apply](https://www.adzuna.fr/details/5904500214) |
 | -7 | ANYbotics | Software Engineer Intern - Industrialization | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-09-30 | [Apply](https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169) |
 | -7 | Bosch | Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code | Blaichach, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152410271) |
+| -7 | Celonis | Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team) | Madrid, Spain | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003) |
 | -8 | Veolia Eau | Stagiaire - Data Analyst H/F | Strasbourg, France | ❌ not summer (6 mo) | 2026-09-26 | [Apply](https://www.adzuna.fr/details/5898986352) |
 | -9 | Assystem | Ingénieur Data Science - Stage - H/F | Nantes, France | ❌ not summer (6 mo) | 2026-09-24 | [Apply](https://jobs.smartrecruiters.com/Assystem/744000151616149) |
 | -9 | Bosch | Extracurricular Internship: Production System & Data Analytics (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-09-22 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000151010819) |
@@ -575,6 +577,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -10 | Stryker | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) – 6 Monate \| Start Frühjahr 2027 | Freiburg im Breisgau, Germany | ❌ not summer (6 mo) | 2026-09-01 | [Apply](https://www.adzuna.de/details/5865014201) |
 | -10 | Excelia, SL | Prácticas Data Analyst | Boadilla del Monte, Spain | ❌ not summer (6 mo) | 2026-08-07 | [Apply](https://www.adzuna.es/details/5831947933) |
 | -10 | Bosch | Internship AI Lighthouse & Data engineering | Tienen, Belgium | ❌ not summer (6 mo) | 2026-07-03 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000135674088) |
+| -15 | Shift Technology | Data scientist Internship (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) |
 | -18 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020669) |
 | -19 | Shift Technology | Data & AI Engineer Intern (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003) |
 | -22 | Shift Technology | Data Scientist Internship (November, 6 months) | Paris, France | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) |
