@@ -93,6 +93,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 45 | BlockTech | Software Engineer \| Internship \| Summer '27 | Amsterdam, Netherlands | ✅ summer (1.8 mo) | 2026-08-28 | [Apply](https://jobs.ashbyhq.com/blocktech/a12b3714-d243-41ee-a6b6-e39776630888) |
 | 38 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
 | 35 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Netherlands | Amsterdam, Netherlands | ❔ | 2026-10-05 | [Apply](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) |
+| 30 | Ekimetrics | Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models | Paris, France | ❔ | 2026-10-21 | [Apply](https://jobs.lever.co/ekimetrics/8cb04b24-6ed0-4dc7-9b5e-e29c9cf5dd2c) |
 | 30 | Ekimetrics | Stage IA/ML Engineer 100% R&D - agentic AI | Paris, France | ❔ | 2026-10-20 | [Apply](https://jobs.lever.co/ekimetrics/d20f4331-64c2-433a-a254-efefe35efa52) |
 | 30 | Thales | Stage – Informatique / Data Scientist– F/H | France | ❔ | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935590607) |
 | 30 | ArianeGroup | STAGE – Ingénieure / Ingénieur en Informatique et Data Science | France | ❔ | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935571295) |
