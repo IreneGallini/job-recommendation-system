@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:00+00:00",
+ "generated_at": "2026-10-21T02:30+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -197,13 +197,18 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
+     "role": "Stage Qc Data Management (All Genders)",
+     "link": "https://www.adzuna.it/details/5935617162",
      "role_match": false
     },
     {
      "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
      "role_match": false
     },
     {
@@ -215,14 +220,9 @@
      "role": "Medical Affairs Trainee",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Medical-Affairs-Trainee_R2874263",
      "role_match": false
-    },
-    {
-     "role": "internship 6 months scientific communication",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-6-mois-communication-scientifique_R2874270",
-     "role_match": false
     }
    ],
-   "open_postings_total": 7
+   "open_postings_total": 8
   },
   {
    "id": "google-university-recruiter-emea",
@@ -261,7 +261,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 5
+   "open_postings_total": 6
   },
   {
    "id": "microsoft-university-recruiter-italy",
