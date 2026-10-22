@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:16+00:00",
+ "generated_at": "2026-10-22T21:00+00:00",
  "postings": [
   {
    "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Milan-Italy/Associate-Consultant-Intern--Summer-2027---Milan--Italy_R-287715-1",
@@ -5206,6 +5206,30 @@
    "summer_fit": "unknown",
    "duration_months": "",
    "start_hint": "",
+   "degree_req": "unknown",
+   "score": 30
+  },
+  {
+   "link": "https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Elite---Sales--intern_R29365",
+   "company": "Euronext",
+   "role": "Elite - Sales, intern",
+   "location": "Milan, Italy",
+   "city": "Milan",
+   "country": "Italy",
+   "region": "milan",
+   "category": "finance",
+   "priority": "high",
+   "source": "Workday",
+   "posted_date": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "active": true,
+   "role_match": false,
+   "chem_bio": false,
+   "summer_program": false,
+   "summer_fit": "no",
+   "duration_months": "6",
+   "start_hint": "nov",
    "degree_req": "unknown",
    "score": 30
   },
@@ -113904,6 +113928,30 @@
    "start_hint": "",
    "degree_req": "masters",
    "score": -24
+  },
+  {
+   "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Amsterdam/Regulatory-Affairs-Intern--Rare-Diseases_R2875738",
+   "company": "Sanofi",
+   "role": "Regulatory Affairs Intern– Rare Diseases",
+   "location": "Amsterdam, Netherlands",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "region": "europe",
+   "category": "pharma-biotech",
+   "priority": "high",
+   "source": "Workday",
+   "posted_date": "2026-10-22",
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-22",
+   "active": true,
+   "role_match": false,
+   "chem_bio": false,
+   "summer_program": false,
+   "summer_fit": "no",
+   "duration_months": "6",
+   "start_hint": "feb",
+   "degree_req": "masters",
+   "score": -25
   },
   {
    "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Paris/internship-6-months--product-strategy-and-operations_R2873413",
