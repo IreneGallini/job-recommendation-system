@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T21:00+00:00",
+ "generated_at": "2026-10-23T02:32+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -131,7 +131,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 131
+   "open_postings_total": 127
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -145,32 +145,32 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Stage in area Industry&Process",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
+     "role": "Consultant stagiaire Data Science/AI Engineer (F/H)",
+     "link": "https://www.adzuna.fr/details/5938153609",
+     "role_match": true
+    },
+    {
+     "role": "Consultant Transformation Digitale SAP Data & Architecture en stage - F/H Paris",
+     "link": "https://www.adzuna.fr/details/5938158093",
      "role_match": false
     },
     {
-     "role": "Tech Intern - Accenture Customer Innovation Network",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
+     "role": "Consultant Software & Platform Engineering en stage - F/H Paris",
+     "link": "https://www.adzuna.fr/details/5936826738",
      "role_match": false
     },
     {
-     "role": "Capital Projects Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
+     "role": "Consultant DATA/IA en stage - F/H Paris",
+     "link": "https://www.adzuna.fr/details/5936850336",
      "role_match": false
     },
     {
-     "role": "Junior SAP Analyst - Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
-     "role_match": false
-    },
-    {
-     "role": "Stage Sales and Business Development per il mercato Financial Services",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Stage-Sales-and-Business-Development_R00074273",
+     "role": "Praktikum AI & Data (all genders)",
+     "link": "https://www.adzuna.at/details/5932319542",
      "role_match": false
     }
    ],
-   "open_postings_total": 46
+   "open_postings_total": 6
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -207,11 +207,6 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich FBC API (Insulin Wirkstoffproduktion) für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-API--Insulin-Wirkstoffproduktion-_R2847509",
-     "role_match": false
-    },
-    {
      "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
      "role_match": false
@@ -220,9 +215,14 @@
      "role": "Pharmacovigilance Trainee (PV Trainee)",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Pharmacovigilance-Trainee--PV-Trainee-_R2875318",
      "role_match": false
+    },
+    {
+     "role": "stage 6 mois  coordination innovation",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-6-mois--coordination-innovation_R2871944",
+     "role_match": false
     }
    ],
-   "open_postings_total": 15
+   "open_postings_total": 13
   },
   {
    "id": "google-university-recruiter-emea",
