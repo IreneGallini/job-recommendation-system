@@ -47,6 +47,12 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 60 | Coop Lombardia | STAGE IN BUSINESS INTELLIGENCE & DATA ANALYSIS | Milan, Italy | ❔ | 2026-09-09 | [Apply](https://www.adzuna.it/details/5876788352) |
 | 45 | Sia Partners | Stage Consultant AI & Data Science | Milan, Italy | ❔ | 2026-09-08 | [Apply](https://jobs.smartrecruiters.com/Sia/744000148196089) |
 
+### Turin area
+
+| Score | Company | Role | Location | Summer | Posted | Apply |
+|---|---|---|---|---|---|---|
+| 50 | ⭐ Amazon | 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition | Turin, Italy | ❔ (3 mo) | 2026-10-23 | [Apply](https://www.amazon.jobs/en/jobs/10587678/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) |
+
 ### Rest of Italy
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
