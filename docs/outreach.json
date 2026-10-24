@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T20:50+00:00",
+ "generated_at": "2026-10-24T02:29+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -131,7 +131,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 142
+   "open_postings_total": 141
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -145,32 +145,32 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Consultant stagiaire Data Science/AI Engineer (F/H)",
-     "link": "https://www.adzuna.fr/details/5938153609",
-     "role_match": true
-    },
-    {
-     "role": "Consultant Transformation Digitale SAP Data & Architecture en stage - F/H Paris",
-     "link": "https://www.adzuna.fr/details/5938158093",
+     "role": "Stage in area Industry&Process",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
      "role_match": false
     },
     {
-     "role": "Consultant Software & Platform Engineering en stage - F/H Paris",
-     "link": "https://www.adzuna.fr/details/5936826738",
+     "role": "Tech Intern - Accenture Customer Innovation Network",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
      "role_match": false
     },
     {
-     "role": "Consultant DATA/IA en stage - F/H Paris",
-     "link": "https://www.adzuna.fr/details/5936850336",
+     "role": "Capital Projects Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
      "role_match": false
     },
     {
-     "role": "Praktikum AI & Data (all genders)",
-     "link": "https://www.adzuna.at/details/5932319542",
+     "role": "Junior SAP Analyst - Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
+     "role_match": false
+    },
+    {
+     "role": "Stage in Ingegneria, AI e Automazione Industriale",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Industry-X---Stage-in-Ingegneria--AI-e-Automazione-Industriale_R00279633",
      "role_match": false
     }
    ],
-   "open_postings_total": 6
+   "open_postings_total": 61
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -222,7 +222,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 14
+   "open_postings_total": 13
   },
   {
    "id": "google-university-recruiter-emea",
