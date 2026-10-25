@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T15:14+00:00",
+ "generated_at": "2026-10-25T20:08+00:00",
  "postings": [
   {
    "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Milan-Italy/Associate-Consultant-Intern--Summer-2027---Milan--Italy_R-287715-1",
@@ -26085,6 +26085,30 @@
    "summer_program": false,
    "summer_fit": "no",
    "duration_months": "6",
+   "start_hint": "",
+   "degree_req": "unknown",
+   "score": 20
+  },
+  {
+   "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Intern-CEO-Advisory_R00366294",
+   "company": "Accenture",
+   "role": "Intern CEO Advisory",
+   "location": "Paris, France",
+   "city": "Paris",
+   "country": "France",
+   "region": "europe",
+   "category": "consulting",
+   "priority": "high",
+   "source": "Workday",
+   "posted_date": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "active": true,
+   "role_match": false,
+   "chem_bio": false,
+   "summer_program": false,
+   "summer_fit": "unknown",
+   "duration_months": "",
    "start_hint": "",
    "degree_req": "unknown",
    "score": 20
@@ -110064,6 +110088,30 @@
    "start_hint": "",
    "degree_req": "unknown",
    "score": -9
+  },
+  {
+   "link": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Madrid/Supply-Chain-Demand-Support-Intern_593489-1",
+   "company": "Philips",
+   "role": "Supply Chain Demand Support Intern",
+   "location": "Madrid, Spain",
+   "city": "Madrid",
+   "country": "Spain",
+   "region": "europe",
+   "category": "pharma-biotech",
+   "priority": "high",
+   "source": "Workday",
+   "posted_date": "2026-10-25",
+   "first_seen": "2026-10-25",
+   "last_seen": "2026-10-25",
+   "active": true,
+   "role_match": false,
+   "chem_bio": false,
+   "summer_program": false,
+   "summer_fit": "no",
+   "duration_months": "6",
+   "start_hint": "oct",
+   "degree_req": "any",
+   "score": -10
   },
   {
    "link": "https://www.adzuna.de/details/5899065464",
