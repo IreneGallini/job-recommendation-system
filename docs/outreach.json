@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:50+00:00",
+ "generated_at": "2026-10-26T17:52+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -18,7 +18,7 @@
      "role_match": false
     },
     {
-     "role": "KYC Analyst Intern",
+     "role": "KYC & KYB Analyst Intern",
      "link": "https://jobs.ashbyhq.com/satispay/c7286e6d-0a10-424a-a524-5277c5fac580",
      "role_match": false
     }
@@ -170,7 +170,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 70
+   "open_postings_total": 72
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -197,6 +197,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
      "role_match": false
@@ -215,14 +220,9 @@
      "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs Artwork Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-Artwork-Mai-2028_R2869547",
      "role_match": false
-    },
-    {
-     "role": "internship 6 months data and ia engineer",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
-     "role_match": false
     }
    ],
-   "open_postings_total": 11
+   "open_postings_total": 13
   },
   {
    "id": "google-university-recruiter-emea",

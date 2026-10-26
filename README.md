@@ -475,7 +475,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (91) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (92) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -526,6 +526,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -4 | Bosch | Werkstudent*in in der Softwareentwicklung – Python (w/m/div.) | Kusterdingen, Germany | ❌ not summer (12 mo) | 2026-10-14 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155479269) |
 | -4 | Bosch | Working Student in Software Development – Python (f/m/div.) | Kusterdingen, Germany | ❌ not summer (12 mo) | 2026-10-14 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155476967) |
 | -4 | Job-Room | R&D Data Science Intern | Orbe, Switzerland | ❌ not summer (6 mo) | 2026-10-13 | [Apply](https://www.adzuna.ch/details/5925751069) |
+| -5 | ⭐ Doctolib | Machine Learning Engineer Intern (x/f/m) | Paris, France | ❌ not summer (6 mo) | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8042970003) |
 | -5 | Bosch | Internship in GenAI Knowledge Assistant for Engineering | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020599) |
 | -5 | Bosch | Internship Data Analytics | Mechelen, Belgium | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155002879) |
 | -5 | Huntsman Corporation | Intern - Data Science | Basel, Switzerland | ❌ not summer (6 mo) | 2026-10-11 | [Apply](https://www.adzuna.ch/details/5922665205) |
