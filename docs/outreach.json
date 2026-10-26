@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T02:16+00:00",
+ "generated_at": "2026-10-26T11:50+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -106,6 +106,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "2027 Software Dev Engineer Intern - Italy",
+     "link": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy",
+     "role_match": true
+    },
+    {
      "role": "(Physical) Security Specialist Intern -  2027 Internship",
      "link": "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship",
      "role_match": false
@@ -124,14 +129,9 @@
      "role": "Process Improvement Specialist Intern - 2027  ",
      "link": "https://www.amazon.jobs/en/jobs/10558364/process-improvement-specialist-intern-2027",
      "role_match": false
-    },
-    {
-     "role": "2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition",
-     "link": "https://www.amazon.jobs/en/jobs/10587678/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition",
-     "role_match": true
     }
    ],
-   "open_postings_total": 138
+   "open_postings_total": 141
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -144,6 +144,16 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
+    {
+     "role": "Payroll Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Payroll-Internship_14811480",
+     "role_match": false
+    },
+    {
+     "role": "Campaign Management Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Campaign-Management-Internship_14818045",
+     "role_match": false
+    },
     {
      "role": "Stage in area Industry&Process",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
@@ -158,19 +168,9 @@
      "role": "Capital Projects Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
      "role_match": false
-    },
-    {
-     "role": "Junior SAP Analyst - Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
-     "role_match": false
-    },
-    {
-     "role": "Stage in Ingegneria, AI e Automazione Industriale",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Industry-X---Stage-in-Ingegneria--AI-e-Automazione-Industriale_R00279633",
-     "role_match": false
     }
    ],
-   "open_postings_total": 67
+   "open_postings_total": 70
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -197,6 +197,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
+     "role_match": false
+    },
+    {
      "role": "stage 1 mois douane monde",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-1-mois-douane-monde_R2875415",
      "role_match": false
@@ -215,14 +220,9 @@
      "role": "internship 6 months data and ia engineer",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938",
      "role_match": false
-    },
-    {
-     "role": "Pharmacovigilance Trainee (PV Trainee)",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Porto-Salvo/Pharmacovigilance-Trainee--PV-Trainee-_R2875318",
-     "role_match": false
     }
    ],
-   "open_postings_total": 10
+   "open_postings_total": 11
   },
   {
    "id": "google-university-recruiter-emea",
