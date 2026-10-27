@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:53+00:00",
+ "generated_at": "2026-10-27T11:15+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -126,7 +126,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 140
+   "open_postings_total": 154
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -165,7 +165,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 70
+   "open_postings_total": 71
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -192,13 +192,18 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
+     "role": "Pharmaziepraktikant*in im Bereich Cartridge Platform Development Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Cartridge-Platform-Development-Mai-2028_R2855486",
      "role_match": false
     },
     {
      "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
      "role_match": false
     },
     {
@@ -210,14 +215,9 @@
      "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für Mai 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-Mai-2027_R2875868",
      "role_match": false
-    },
-    {
-     "role": "stage 6 mois support qualité laboratoire physico chimie",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
-     "role_match": false
     }
    ],
-   "open_postings_total": 13
+   "open_postings_total": 14
   },
   {
    "id": "google-university-recruiter-emea",
