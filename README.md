@@ -96,6 +96,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | Carrefour | Stagiaire Data Analyst (H/F) | Massy, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942974914) |
 | 30 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-27 | [Apply](https://www.adzuna.de/details/5942947714) |
 | 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Sia/744000158085109) |
+| 30 | NVIDIA | Software Engineering Intern, AI Agents & Backend Infrastructure – 2027 | Germany | ❔ | 2026-10-27 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942) |
 | 30 | NVIDIA | Software Engineering Intern, Developer Tools - 2027 | Courbevoie, France | ❔ | 2026-10-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209) |
 | 30 | AirFrance | STAGE DATA ENGINEER – EXPLORATION DES DONNÉES DE PERFOPS PAR UN AGENT CONVERSATIONNEL F/H | Haute-Garonne, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/details/5942753019) |
 | 30 | THALES | STAGE – Ingénieur Data Scientist – Maintenance prédictive par IA – F/H | Toulouse, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/land/ad/5942740485) |
