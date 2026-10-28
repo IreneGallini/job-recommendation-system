@@ -87,6 +87,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 38 | ⭐ Amazon | Applied Scientist Intern, RIVR | Zurich, Switzerland | ❔ | 2026-10-23 | [Apply](https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr) |
 | 35 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
 | 32 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Netherlands | Amsterdam, Netherlands | ❔ | 2026-10-05 | [Apply](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) |
+| 30 | Bosch | AI Engineering Automation Intern (f/m/div.)  | São João, Portugal | ❔ | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158348849) |
 | 30 | Collective.work | Stage Data Scientist/IA Développement d'Agents IA appliqués à l'ingénierie (H/F - Freelance | France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942985290) |
 | 30 | Carrefour | Stagiaire Data Analyst (H/F) | Massy, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942974914) |
 | 30 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-27 | [Apply](https://www.adzuna.de/details/5942947714) |
@@ -439,7 +440,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (91) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (92) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -449,6 +450,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 37 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | 34 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.it/details/5920948578) |
 | 18 | GSK | Internship: MSAT Digital & Data Science, Italy, 2026 | Italy | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) |
+| 10 | ⭐ Accenture | Consultant stagiaire Data Science/AI Engineer (F/H) | Paris, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843) |
 | 7 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
 | 6 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
 | 5 | ⭐ Doctolib | Software Engineering intern - Fullstack (x/f/m) - Nantes | Nantes, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) |

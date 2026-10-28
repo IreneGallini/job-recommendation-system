@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:49+00:00",
+ "generated_at": "2026-10-28T17:37+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -126,7 +126,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 155
+   "open_postings_total": 156
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -139,6 +139,11 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
+    {
+     "role": "ACIN - Booking&Events - Intern",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/ACIN---Booking-Events---Intern_R00367758",
+     "role_match": false
+    },
     {
      "role": "Payroll Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Payroll-Internship_14811480",
@@ -158,14 +163,9 @@
      "role": "Tech Intern - Accenture Customer Innovation Network",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Accenture-Customer-Innovation-Network---Innovation-Intern_R00279814",
      "role_match": false
-    },
-    {
-     "role": "Capital Projects Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
-     "role_match": false
     }
    ],
-   "open_postings_total": 73
+   "open_postings_total": 77
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
