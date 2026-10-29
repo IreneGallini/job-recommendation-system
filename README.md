@@ -44,6 +44,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 66 | Randstad Italia S.p.A. | STAGE Junior Data Engineer ? Sviluppo Pipeline & Generative AI (CUSAGO) | Milan, Italy | ❔ | 2026-10-16 | [Apply](https://www.adzuna.it/details/5929696471) |
 | 62 | PricewaterhouseCoopers | Software Engineer Intern - Milano [DIG] | Milan, Italy | ❔ | 2026-10-04 | [Apply](https://www.adzuna.it/details/5911707362) |
 | 60 | Randstad Italia spa | STAGE Data Engineer - Laurea | Milan, Italy | ❔ | 2026-09-12 | [Apply](https://www.adzuna.it/details/5880435579) |
+| 55 | Sia Partners | Stage Consultant AI & Data Science | Milan, Italy | ❔ | 2026-10-29 | [Apply](https://jobs.smartrecruiters.com/Sia/744000158524709) |
 | 45 | Sia Partners | Stage Consultant AI & Data Science | Milan, Italy | ❔ | 2026-09-08 | [Apply](https://jobs.smartrecruiters.com/Sia/744000148196089) |
 
 ### Turin area
@@ -459,7 +460,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (89) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (90) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -478,6 +479,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 4 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | Berlin, Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) |
 | 1 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
 | 0 | Roche | Internship - Software and Data Engineer (for 12 months in Rotkreuz) | Switzerland | ❌ not summer (12 mo) | 2026-10-29 | [Apply](https://www.adzuna.ch/details/5945035285) |
+| 0 | Bosch | Mandatory Internship in Agentic AI Harness, Generative AI & Agentic Workflows | Schwieberdingen, Germany | ❌ not summer (6 mo) | 2026-10-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158528363) |
 | 0 | Groupe Savencia | Savencia food service premium - Stage data analyst marketing - H/F | Bourg-lès-Valence, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944700049) |
 | 0 | RTE - Réseau de transport d'électricité | STAGE PFE – Développeur et Data Analyst F/H | La Chapelle-sur-Erdre, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944307214) |
 | 0 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-29 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
