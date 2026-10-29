@@ -60,11 +60,11 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 48 | Abbott | Stage in Tender Excellence, Data Analytics & Digital Transformation | Rome, Italy | ❔ | 2026-10-23 | [Apply](https://www.adzuna.it/details/5939434386) |
 | 48 | CONTRADER ENGINEERING SRL | Stage AI Engineer – Napoli | Naples, Italy | ❔ | 2026-10-22 | [Apply](https://www.adzuna.it/details/5937065544) |
 | 47 | Autotorino | Stage - HR Data Analyst | Busto Arsizio, Italy | ❔ | 2026-10-20 | [Apply](https://www.adzuna.it/details/5935556112) |
-| 46 | Baker Hughes | Intern - Generative AI - 2027 (M/F/D) | Italy | ❔ | 2026-10-15 | [Apply](https://www.adzuna.it/details/5929239617) |
+| 45 | Baker Hughes | Intern - Generative AI - 2027 (M/F/D) | Italy | ❔ | 2026-10-15 | [Apply](https://www.adzuna.it/details/5929239617) |
 | 45 | Würth Italien | Stage Data Analyst (m/f/d) | Egna, Italy | ❔ | 2026-10-13 | [Apply](https://www.adzuna.it/details/5925112010) |
 | 44 | Würth Italia | Stage Data Analyst | Egna, Italy | ❔ | 2026-10-10 | [Apply](https://www.adzuna.it/details/5921833285) |
-| 44 | ABB | Internship - Full Stack Software Developer | Genoa, Italy | ❔ | 2026-10-09 | [Apply](https://www.adzuna.it/details/5921029631) |
-| 44 | Prysmian Group | AI Software Developer Intern | Italy | ❔ | 2026-10-09 | [Apply](https://www.adzuna.it/details/5921027832) |
+| 43 | ABB | Internship - Full Stack Software Developer | Genoa, Italy | ❔ | 2026-10-09 | [Apply](https://www.adzuna.it/details/5921029631) |
+| 43 | Prysmian Group | AI Software Developer Intern | Italy | ❔ | 2026-10-09 | [Apply](https://www.adzuna.it/details/5921027832) |
 | 43 | FERCAM AG | Tirocinio I.T. Application Analyst - Artificial Intelligence | Bolzano, Italy | ❔ | 2026-10-08 | [Apply](https://www.adzuna.it/details/5917819472) |
 | 40 | Akkodis | Tirocinio extracurriculare - Software engineer - Automotive | Italy | ❔ | 2026-09-24 | [Apply](https://www.adzuna.it/details/5897113071) |
 | 40 | Musixmatcha | Software Engineer Intern | Bologna, Italy | ❔ | 2026-09-17 | [Apply](https://www.adzuna.it/details/5887954961) |
@@ -80,31 +80,64 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
+| 55 | Bitmovin | AI & Beyond Incubator - Software Engineering - Summer Internship | Germany | ✅ summer (2.3 mo) | 2026-10-28 | [Apply](https://www.adzuna.de/details/5944743581) |
 | 54 | Cloudflight | Internship Software Engineering (m/f/x) | Innsbruck, Austria | ✅ summer (0.9 mo) | 2026-10-25 | [Apply](https://www.adzuna.at/details/5941541802) |
 | 53 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin, Ireland | ✅ summer (2.3 mo) | 2026-10-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | 45 | BlockTech | Software Engineer \| Internship \| Summer '27 | Amsterdam, Netherlands | ✅ summer (1.8 mo) | 2026-08-28 | [Apply](https://jobs.ashbyhq.com/blocktech/a12b3714-d243-41ee-a6b6-e39776630888) |
 | 38 | ⭐ Amazon | Applied Scientist Intern | Zurich, Switzerland | ❔ | 2026-10-23 | [Apply](https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern) |
 | 38 | ⭐ Amazon | Applied Scientist Intern, RIVR | Zurich, Switzerland | ❔ | 2026-10-23 | [Apply](https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr) |
-| 35 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
+| 35 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-15 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
 | 32 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Netherlands | Amsterdam, Netherlands | ❔ | 2026-10-05 | [Apply](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) |
+| 30 | Sopra Steria | Stage - Data Engineer - Aeroline - Toulouse | Toulouse, France | ❔ | 2026-10-29 | [Apply](https://www.adzuna.fr/details/5945047044) |
+| 30 | Chantiers de l'Atlantique | Stage Ingénieur(e) Data / Business Intelligence H/F | Saint-Nazaire, France | ❔ | 2026-10-29 | [Apply](https://www.adzuna.fr/details/5944958378) |
 | 30 | Bosch | AI Engineering Automation Intern (f/m/div.)  | São João, Portugal | ❔ | 2026-10-28 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158348849) |
-| 30 | Collective.work | Stage Data Scientist/IA Développement d'Agents IA appliqués à l'ingénierie (H/F - Freelance | France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942985290) |
-| 30 | Carrefour | Stagiaire Data Analyst (H/F) | Massy, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942974914) |
-| 30 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-27 | [Apply](https://www.adzuna.de/details/5942947714) |
-| 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Sia/744000158085109) |
-| 30 | NVIDIA | Software Engineering Intern, AI Agents & Backend Infrastructure – 2027 | Germany | ❔ | 2026-10-27 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942) |
-| 30 | ⭐ Euronext | Business Intelligence /Data Analytics Engineer Trainee (IEFP) | Porto, Portugal | ❔ | 2026-09-28 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Porto/Business-Intelligence--Data-Analytics-Engineer-Trainee--IEFP-_R27998-1) |
+| 30 | CEA | Stage BAC5 machine learning H/F | Grenoble, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944723229) |
+| 30 | DASSAULT SYSTEMES | STAGE - Data Analyst - Digitalisation License Compliance (F/H) | Vélizy-Villacoublay, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943891617) |
+| 30 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst H/F | Massy, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944729443) |
+| 30 | Air France | Stage Data Engineer – Exploration Des Données De Perfops Par Un Agent Conversationnel F/H | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944728339) |
+| 30 | Pierre Fabre | Bio-informaticien(ne) / Data Scientist - Stage - H/F | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944714457) |
+| 30 | Thales | STAGE – Ingénieur Data Scientist – Maintenance prédictive par IA – F/H | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944711404) |
+| 30 | Pierre Fabre | Data scientist / Chémoinformaticien(ne) – Stage - H/F | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944709631) |
+| 30 | Groupe Meeschaert | Stage - Data Analyst H/F | Saint-Cloud, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944683508) |
+| 30 | Thales | STAGE - Développeur data engineer - F/H | Vélizy-Villacoublay, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944678698) |
+| 30 | BNP PARIBAS | Stage - Data Scientist ALMT Digital Innovations & AI - H/F | Paris, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944306172) |
+| 30 | Thales | Stage – Informatique / Data Scientist– F/H | Toulouse, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944280492) |
+| 30 | Monoprix | Stage Data analyst Opérations F/H | Clichy, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944279969) |
+| 30 | Thales | STAGE - Data Analyst Opérations - F/H | Massy, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944272614) |
+| 30 | Groupe BPCE | Stage : Stage - Data Analyst Risques (H/F) | Paris, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944173427) |
+| 30 | Stage | Stage : Stage - Data Engineer - Services Financiers - Nantes H/F | Loire-Atlantique, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944146463) |
+| 30 | Amundi | Stage - ESG Data analyst intern H/F | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943900563) |
+| 30 | Forums Talents Handicap | STAGE - Data Analyst - Digitalisation License Compliance (F/H) | Vélizy-Villacoublay, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943892805) |
+| 30 | SOCOTEC | [STAGE] - DATA Engineer F/H | Villebon-sur-Yvette, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943879202) |
+| 30 | SOCOTEC | [STAGE] Data Scientist H/F | Villebon-sur-Yvette, France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943879238) |
+| 30 | Capijobnew | DATA ANALYST - Alternance/Stage | France | ❔ | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5943827099) |
+| 30 | Mercedes-Benz AG | Praktikant*in Softwareentwicklung für elektrische Antriebe | Sindelfingen, Germany | ❔ | 2026-10-28 | [Apply](https://www.adzuna.de/details/5944584787) |
+| 30 | FERRERO MSC GmbH & Co. KG | Praktikant Marktforschung - Business Intelligence & Analytics (w/m/d) | Germany | ❔ | 2026-10-28 | [Apply](https://www.adzuna.de/land/ad/5944051794) |
+| 30 | ⭐ Euronext | Business Intelligence /Data Analytics Engineer Trainee (IEFP) | Porto, Portugal | ❔ | 2026-09-29 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Porto/Business-Intelligence--Data-Analytics-Engineer-Trainee--IEFP-_R27998-1) |
 | 30 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Spain | Madrid, Spain | ❔ | 2026-09-22 | [Apply](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) |
 | 30 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Germany | Berlin, Germany | ❔ | 2026-09-21 | [Apply](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) |
 | 30 | ⭐ Amazon | 2027 Software Dev Engineer Intern | Dublin, Ireland | ❔ (3 mo) | 2026-05-13 | [Apply](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) |
+| 29 | Collective.work | Stage Data Scientist/IA Développement d'Agents IA appliqués à l'ingénierie (H/F - Freelance | France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942985290) |
+| 29 | Carrefour | Stagiaire Data Analyst (H/F) | Massy, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942974914) |
+| 29 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-27 | [Apply](https://www.adzuna.de/details/5942947714) |
+| 29 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-27 | [Apply](https://jobs.smartrecruiters.com/Sia/744000158085109) |
+| 29 | NVIDIA | Software Engineering Intern, AI Agents & Backend Infrastructure – 2027 | Germany | ❔ | 2026-10-27 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942) |
+| 29 | AirFrance | Stage – Methods & Data Analyst F/H | Val-de-Marne, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943753623) |
+| 29 | Dassault Systèmes | STAGE - Data Analyst - Digitalisation License Compliance (F/H) | Yvelines, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943432650) |
+| 29 | SAFRAN | Stage : STAGE - Data Science et UI/UX pour le diagnostic augmenté des moteurs d'hélicoptères F/H | Saint-Martin-de-Seignanx, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943179744) |
+| 29 | Groupe BPCE | Stage : STAGE - Data Scientist F/H - AIX-EN-PROVENCE | Aix en Provence Sud-Ouest, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943179458) |
+| 29 | Eiffage | Stage : Stage PFE Data Scientist F/H | Hauts-de-Seine, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943179404) |
+| 29 | Socotec | [STAGE] - DATA Engineer F/H Palaiseau | Palaiseau, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5942978781) |
+| 29 | Carrefour France | Stagiaire Data Analyst (F/H) | Massy, France | ❔ | 2026-10-27 | [Apply](https://www.adzuna.fr/details/5943358044) |
+| 29 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-27 | [Apply](https://www.adzuna.de/details/5943325763) |
 | 29 | NVIDIA | Software Engineering Intern, Developer Tools - 2027 | Courbevoie, France | ❔ | 2026-10-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209) |
 | 29 | AirFrance | STAGE DATA ENGINEER – EXPLORATION DES DONNÉES DE PERFOPS PAR UN AGENT CONVERSATIONNEL F/H | Haute-Garonne, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/details/5942753019) |
 | 29 | THALES | STAGE – Ingénieur Data Scientist – Maintenance prédictive par IA – F/H | Toulouse, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/land/ad/5942740485) |
 | 29 | THALES | STAGE - Développeur data engineer - F/H | Vélizy-Villacoublay, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/land/ad/5942353536) |
 | 29 | SYSAAF - NOUZILLY | STAGE MASTER 2 INGÉNIEUR EN DATA SCIENCE, BIOSTATISTIQUES, AQUACULTURE F/H | Betton, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/details/5941762529) |
 | 29 | Lidl Stiftung & Co KG | Praktikum Data Science | Germany | ❔ | 2026-10-26 | [Apply](https://www.adzuna.de/land/ad/5942314389) |
+| 29 | AirFrance | STAGE DATA ENGINEER – REFONTE D’UNE APPLICATION DATA SUR LE DOMAINE PRODUIT VOL F/H | Haute-Garonne, France | ❔ | 2026-10-26 | [Apply](https://www.adzuna.fr/details/5942753018) |
 | 29 | ParetoLabs | Frontend Developer Intern | Zurich, Switzerland | ❔ | 2026-10-25 | [Apply](https://www.adzuna.ch/details/5940855118) |
-| 29 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-25 | [Apply](https://www.adzuna.de/details/5940990043) |
 | 29 | Parrot Drones | Stage - Machine Learning - Foundation Model (H/F) | France | ❔ | 2026-10-25 | [Apply](https://www.adzuna.fr/details/5941569950) |
 | 29 | SYSAAF - NOUZILLY | STAGE MASTER 2 INGÉNIEUR EN DATA SCIENCE, BIOSTATISTIQUES, AQUACULTURE F/H | Ille-et-Vilaine, France | ❔ | 2026-10-25 | [Apply](https://www.adzuna.fr/details/5941721195) |
 | 29 | ELIS | Stage – Data Science, IA & Machine Learning H/F | France | ❔ | 2026-10-25 | [Apply](https://www.adzuna.fr/details/5941591387) |
@@ -123,30 +156,31 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 29 | PricewaterhouseCoopers GmbH WPG | Praktikum Forensic - Data Analytics (w/m/d) | Germany | ❔ | 2026-10-25 | [Apply](https://www.adzuna.de/details/5941331330) |
 | 29 | Hilton | Strategic Data Analysis Internship | Amsterdam, Netherlands | ❔ | 2026-10-25 | [Apply](https://www.adzuna.nl/details/5941185866) |
 | 29 | TechTalk GmbH | Praktikant:in Softwareentwicklung & Agentic Engineering (m/w/d) | Innere Stadt, Austria | ❔ | 2026-10-25 | [Apply](https://www.adzuna.at/land/ad/5941523152) |
-| 29 | Sika | Software Engineering Intern for CAD/CAE/Tooling | Zurich, Switzerland | ❔ | 2026-10-24 | [Apply](https://www.adzuna.ch/details/5940077148) |
-| 29 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst Ressources Humaines H/F | Roubaix, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940660009) |
-| 29 | Naval Group | STAGE -Data Scientist - H/F | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940651463) |
-| 29 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst H/F | Roubaix, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940649104) |
-| 29 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Scientist H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940648847) |
-| 29 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst – Audit interne H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940647614) |
-| 29 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940641614) |
-| 29 | ELIS | Stage Data Science, IA & Machine Learning H/F (Stage) | Hauts-de-Seine, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/land/ad/5940640727) |
-| 29 | Thales | Stage - Data Engineering pour le pilotage de la performance en ingénierie F/H | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940639323) |
-| 29 | Ideel Garden | Stage Demand Planning & Data Analyst | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940635643) |
-| 29 | Michelin | Stage - Data Science appliquée au Jumeau numérique du pneu (F/H) | Puy-de-Dôme, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940395859) |
-| 29 | EDF | Stage - Ingénieur/Ingénieure Data Analyst F/H | Montévrain, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939983102) |
-| 29 | Altice France | Stagiaire (h/f) - Data Analyst | Bron, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939912991) |
-| 29 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Neustadt, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918853) |
-| 29 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Mitte, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918851) |
-| 29 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Altstadt-Lehel, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918854) |
-| 29 | Bassetti | Stage - Ingénieur Data Science - IA Générative (H/F) | Isère, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940067034) |
-| 29 | Bassetti | Stage - Ingénieur Data Science ML (H/F) | Isère, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940066930) |
-| 29 | Safran | Stage : STAGE - Data Analyst du contrôle de gestion commercial Business Helicoptéristes F/H | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141437) |
-| 29 | Safran | Stage : STAGE - Data Scientist R&D F/H | Vaux-le-Pénil, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141408) |
-| 29 | Safran | Stage : STAGE - Data Scientist R&D F/H | Vaux-le-Pénil, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141243) |
-| 29 | DANONE | Stage : Stage – Assistant RGM Data Analyst Santé Nutrition – Janvier 2027 (H/F) | Rueil-Malmaison, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940140499) |
-| 29 | ASML | Computer Science \| Artificial Intelligence internship: ai-assisted scheduler development | Netherlands | ❔ | 2026-10-24 | [Apply](https://www.adzuna.nl/details/5940723149) |
-| 29 | ELIS | Stage Data Science, IA & Machine Learning H/F (Stage) | Hauts-de-Seine, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940640727) |
+| 29 | TechTalk GmbH | Praktikant:in Softwareentwicklung & Agentic Engineering (m/w/d) | Innere Stadt, Austria | ❔ | 2026-10-25 | [Apply](https://www.adzuna.at/details/5941523152) |
+| 28 | Sika | Software Engineering Intern for CAD/CAE/Tooling | Zurich, Switzerland | ❔ | 2026-10-24 | [Apply](https://www.adzuna.ch/details/5940077148) |
+| 28 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst Ressources Humaines H/F | Roubaix, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940660009) |
+| 28 | Naval Group | STAGE -Data Scientist - H/F | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940651463) |
+| 28 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst H/F | Roubaix, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940649104) |
+| 28 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Scientist H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940648847) |
+| 28 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst – Audit interne H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940647614) |
+| 28 | Crédit Agricole Personal Finance & Mobility | Stage 2027 Data Analyst H/F | Massy, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940641614) |
+| 28 | ELIS | Stage Data Science, IA & Machine Learning H/F (Stage) | Hauts-de-Seine, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/land/ad/5940640727) |
+| 28 | Thales | Stage - Data Engineering pour le pilotage de la performance en ingénierie F/H | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940639323) |
+| 28 | Ideel Garden | Stage Demand Planning & Data Analyst | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940635643) |
+| 28 | Michelin | Stage - Data Science appliquée au Jumeau numérique du pneu (F/H) | Puy-de-Dôme, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940395859) |
+| 28 | EDF | Stage - Ingénieur/Ingénieure Data Analyst F/H | Montévrain, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939983102) |
+| 28 | Altice France | Stagiaire (h/f) - Data Analyst | Bron, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939912991) |
+| 28 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Neustadt, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918853) |
+| 28 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Mitte, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918851) |
+| 28 | BRL Risk Consulting GmbH & Co. KG | Praktikant Data Science / Data Engineering im Bereich Risk Advisory Services | Altstadt-Lehel, Germany | ❔ | 2026-10-24 | [Apply](https://www.adzuna.de/details/5939918854) |
+| 28 | Bassetti | Stage - Ingénieur Data Science - IA Générative (H/F) | Isère, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940067034) |
+| 28 | Bassetti | Stage - Ingénieur Data Science ML (H/F) | Isère, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940066930) |
+| 28 | Safran | Stage : STAGE - Data Analyst du contrôle de gestion commercial Business Helicoptéristes F/H | France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141437) |
+| 28 | Safran | Stage : STAGE - Data Scientist R&D F/H | Vaux-le-Pénil, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141408) |
+| 28 | Safran | Stage : STAGE - Data Scientist R&D F/H | Vaux-le-Pénil, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940141243) |
+| 28 | DANONE | Stage : Stage – Assistant RGM Data Analyst Santé Nutrition – Janvier 2027 (H/F) | Rueil-Malmaison, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940140499) |
+| 28 | ASML | Computer Science \| Artificial Intelligence internship: ai-assisted scheduler development | Netherlands | ❔ | 2026-10-24 | [Apply](https://www.adzuna.nl/details/5940723149) |
+| 28 | ELIS | Stage Data Science, IA & Machine Learning H/F (Stage) | Hauts-de-Seine, France | ❔ | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5940640727) |
 | 28 | Carrefour | Global Data Analyst (F/H) - en Stage | Massy, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938630363) |
 | 28 | Crédit Agricole SA | Stage - Data Scientist H/F | Montrouge, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938543404) |
 | 28 | ISoft | Stage de fin d’études – Data Science & Lutte contre la Fraude (F/H) | Gif-sur-Yvette, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5939475761) |
@@ -160,7 +194,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 28 | Groupe Savencia | Savencia food service premium - Stage data analyst commerce - H/F | Bourg-lès-Valence, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5939469976) |
 | 28 | Crédit Agricole | Stage - Data Scientist H/F | France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5939460651) |
 | 28 | Airbus | STAGE 2027 - Ingénieur Industriel - Data Analytics / BI (h/f) | France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5939436063) |
-| 28 | AXÉRÉAL | ALTERNANT/STAGIAIRE SUPPLY CHAIN DATA ANALYST F/H | Olivet, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938989930) |
 | 28 | KnowWay GmbH | Software Engineering Praktikum (m/w/d) | Hamburg, Germany | ❔ | 2026-10-23 | [Apply](https://www.adzuna.de/details/5939671514) |
 | 28 | Grenzebach Group | Praktikum im Bereich Data Science (m/w/d) | Donauwörth, Germany | ❔ | 2026-10-23 | [Apply](https://www.adzuna.de/details/5939537105) |
 | 28 | Luft- und Raumfahrt Karriere | Praktikum im Bereich Data Analytics für Predictive Maintenance | Germany | ❔ | 2026-10-23 | [Apply](https://www.adzuna.de/land/ad/5939429476) |
@@ -172,7 +205,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 28 | Airbus | Stage : STAGE 2027 - Stagiaire PMO - Spécialisation Digital & Data Science (h/f) | Haute-Garonne, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938929162) |
 | 28 | Airbus | Stage : STAGE 2027 - Ingénieur Industriel - Data Analytics / BI (h/f) | Haute-Garonne, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938929124) |
 | 28 | Airbus | Stage : STAGE 2027 - Data Analyste en qualité logistique (h/f) | France, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938929087) |
-| 28 | Solvay | Stage Data Science (F/H/X) | Collonges, France | ❔ | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938921296) |
 | 28 | J&J Family of Companies | Internship - Integrated Data Analytics and Reporting | Beerse, Belgium | ❔ | 2026-10-23 | [Apply](https://www.adzuna.be/details/5938918809) |
 | 28 | Deutsche Bundesbank | Praktikum im Bereich Data Engineering/Data Science des Generaldirektorats Finanzstabilität | Bockenheim, Germany | ❔ | 2026-10-22 | [Apply](https://www.adzuna.de/details/5937063737) |
 | 28 | Sika | ESG Digitalization Intern – Software & Data Engineering | Zurich, Switzerland | ❔ | 2026-10-22 | [Apply](https://www.adzuna.ch/details/5938242051) |
@@ -194,27 +226,27 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 28 | Safran | STAGE - Data Scientist R&D F/H | France | ❔ | 2026-10-22 | [Apply](https://www.adzuna.fr/details/5937504865) |
 | 28 | THALES SA | Stage - Informatique / Data Scientist- F/H (Stage) | Haute-Garonne, France | ❔ | 2026-10-22 | [Apply](https://www.adzuna.fr/land/ad/5937116741) |
 | 28 | Johnson & Johnson | Internship - Integrated Data Analytics and Reporting | Belgium | ❔ | 2026-10-22 | [Apply](https://www.adzuna.be/details/5938058571) |
-| 28 | Ekimetrics | Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models | Paris, France | ❔ | 2026-10-21 | [Apply](https://jobs.lever.co/ekimetrics/8cb04b24-6ed0-4dc7-9b5e-e29c9cf5dd2c) |
-| 28 | Manty | Stage - Software Engineer | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936840558) |
-| 28 | Pellenc St | Stage en Deep Learning - Machine Learning H/F | Cadenet, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936831287) |
-| 28 | Stellantis | Stage : homologation véhicule, Data Analyst et digitalisation | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936849883) |
-| 28 | THALES SA | Stage - Informatique / Data Scientist- F/H (Stage) | Haute-Garonne, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936826540) |
-| 28 | THALES | Stage – Informatique / Data Scientist– F/H | Toulouse, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936468137) |
-| 28 | Monoprix | Stage Data analyst Opérations F/H | Clichy, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936467775) |
-| 28 | Monoprix | Stage Data analyst Opérations F/H | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936467537) |
-| 28 | THALES | STAGE - Data Analytics and Visualization Engineer Python | Élancourt, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936439091) |
-| 28 | Airbus | Stage : STAGE 2027 - Data engineerie pour l’ingestion de données de vol hélicoptères (h/f) | Bouches-du-Rhône, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936317072) |
-| 28 | Safran | STAGE - Data Analyst du contrle de gestion commercial Business Helicoptristes F/H | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936309021) |
-| 28 | SCHUNK SE & Co. KG | Praktikum - Softwareentwicklung Humanoide Robotik (m/w/d) | Brackenheim, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936919415) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Cologne, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451740) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451721) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Stuttgart, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451702) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Hannover, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451712) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Munich, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451717) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451727) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Düsseldorf, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451718) |
-| 28 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Frankfurt, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451715) |
-| 28 | CHANTIERS DE L'ATLANTIQUE | Stage Ingénieur(e) Data / Business Intelligence H/F | Saint-Nazaire, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936418991) |
+| 28 | THALES SA | Stage - Informatique / Data Scientist- F/H (Stage) | Haute-Garonne, France | ❔ | 2026-10-22 | [Apply](https://www.adzuna.fr/details/5937116741) |
+| 27 | Ekimetrics | Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models | Paris, France | ❔ | 2026-10-21 | [Apply](https://jobs.lever.co/ekimetrics/8cb04b24-6ed0-4dc7-9b5e-e29c9cf5dd2c) |
+| 27 | Manty | Stage - Software Engineer | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936840558) |
+| 27 | Pellenc St | Stage en Deep Learning - Machine Learning H/F | Cadenet, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936831287) |
+| 27 | Stellantis | Stage : homologation véhicule, Data Analyst et digitalisation | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936849883) |
+| 27 | THALES | Stage – Informatique / Data Scientist– F/H | Toulouse, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936468137) |
+| 27 | Monoprix | Stage Data analyst Opérations F/H | Clichy, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936467775) |
+| 27 | Monoprix | Stage Data analyst Opérations F/H | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936467537) |
+| 27 | THALES | STAGE - Data Analytics and Visualization Engineer Python | Élancourt, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936439091) |
+| 27 | Airbus | Stage : STAGE 2027 - Data engineerie pour l’ingestion de données de vol hélicoptères (h/f) | Bouches-du-Rhône, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936317072) |
+| 27 | Safran | STAGE - Data Analyst du contrle de gestion commercial Business Helicoptristes F/H | France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936309021) |
+| 27 | SCHUNK SE & Co. KG | Praktikum - Softwareentwicklung Humanoide Robotik (m/w/d) | Brackenheim, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936919415) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Cologne, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451740) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451721) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Stuttgart, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451702) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Hannover, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451712) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Munich, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451717) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451727) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Düsseldorf, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451718) |
+| 27 | Deloitte | Praktikant AI & Data Engineering (m/w/d) - Datenbankentwicklung/BI, Ingenieur | Frankfurt, Germany | ❔ | 2026-10-21 | [Apply](https://www.adzuna.de/details/5936451715) |
+| 27 | CHANTIERS DE L'ATLANTIQUE | Stage Ingénieur(e) Data / Business Intelligence H/F | Saint-Nazaire, France | ❔ | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936418991) |
 | 27 | Ekimetrics | Stage IA/ML Engineer 100% R&D - agentic AI | Paris, France | ❔ | 2026-10-20 | [Apply](https://jobs.lever.co/ekimetrics/d20f4331-64c2-433a-a254-efefe35efa52) |
 | 27 | Thales | Stage – Informatique / Data Scientist– F/H | France | ❔ | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935590607) |
 | 27 | ArianeGroup | STAGE – Ingénieure / Ingénieur en Informatique et Data Science | France | ❔ | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935571295) |
@@ -226,31 +258,22 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 27 | Zentrale Frankfurt | Praktikum im Bereich Data Engineering/Data Science des Generaldirektorats Finanzstabilität - Inklusiver Job | Frankfurt, Germany | ❔ | 2026-10-20 | [Apply](https://www.adzuna.de/land/ad/5935280528) |
 | 27 | Zentrale Frankfurt | Praktikum im Bereich Data Engineering/Data Science des Generaldirektorats Finanzstabilität - Inklusiver Job | Frankfurt, Germany | ❔ | 2026-10-20 | [Apply](https://www.adzuna.de/details/5935280528) |
 | 27 | Veepee | Stage - Data Scientist - H/F/X - Janvier 2027 | France | ❔ | 2026-10-19 | [Apply](https://www.adzuna.fr/details/5933801207) |
-| 27 | Carrefour | Stagiaire Data Analyst (F/H) | Massy, France | ❔ | 2026-10-19 | [Apply](https://www.adzuna.fr/details/5933799980) |
 | 27 | TRUMPF Group | Praktikum oder Abschlussarbeit Softwareentwicklung (SS27) | Neukirch, Germany | ❔ | 2026-10-19 | [Apply](https://www.adzuna.de/details/5934366093) |
 | 27 | Allianz Lebensversicherungs-AG | Praktikum - Data Analyst im Investment Risikomanagement (m/w/d) | Stuttgart, Germany | ❔ | 2026-10-19 | [Apply](https://www.adzuna.de/details/5933929078) |
 | 27 | Allianz Lebensversicherungs-AG | Praktikum - Data Analyst im Investment Risikomanagement (m/w/d) | Dürrlewang, Germany | ❔ | 2026-10-19 | [Apply](https://www.adzuna.de/details/5933929054) |
 | 27 | Allianz Lebensversicherungs-AG | Praktikum - Data Analyst im Investment Risikomanagement (m/w/d) | Unterföhring, Germany | ❔ | 2026-10-19 | [Apply](https://www.adzuna.de/details/5933928991) |
-| 27 | Labcorp | Intern - Data Analytics | Switzerland | ❔ | 2026-10-18 | [Apply](https://www.adzuna.ch/details/5932685317) |
-| 27 | Thales | STAGE - Data Analyst Opérations - F/H | France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933470201) |
-| 27 | wienerberger France | Stage Data Analytics Industriel (F/H) | Castelnaudary, France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933464746) |
-| 27 | Withings | Stage - Data Scientist - Machine Learning & Signaux physiologiques (H/F) | Issy-les-Moulineaux, France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933409875) |
-| 27 | JCDecaux | Stage - Data Scientist F/H | Neuilly-sur-Seine, France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5932779205) |
-| 27 | Qare | Data Analyst (Stage ou Alternance) | Paris, France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5932779228) |
-| 27 | ViscoTec Pumpen- u. Dosiertechnik | Werkstudent / Praktikant (m/w/d) – Frontend-Entwicklung bei ViscoTec Pumpen- u. Dosiertechnik GmbH | Töging am Inn, Germany | ❔ | 2026-10-18 | [Apply](https://www.adzuna.de/details/5933550086) |
-| 27 | ING | Internship Software Engineer | Netherlands | ❔ | 2026-10-18 | [Apply](https://www.adzuna.nl/details/5933521420) |
-| 27 | NXP Semiconductors | Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning | Gratkorn, Austria | ❔ | 2026-10-18 | [Apply](https://www.adzuna.at/details/5933415125) |
-| 27 | AIRBUS | ATR – Internship 2027 - AI & Data Engineering - Automated Technical Knowledge Extraction | France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933470162) |
-| 27 | Mercedes-Benz Tech Innovation | Praktikant Softwareentwicklung - Augmented Reality (m/w/d/x) | Böblingen, Germany | ❔ | 2026-10-18 | [Apply](https://www.adzuna.de/land/ad/5933570415) |
-| 27 | NLwerkt | Internship Data Science & AI \| Hoofddorp | Hoofddorp, Netherlands | ❔ | 2026-10-18 | [Apply](https://www.adzuna.nl/details/5933188777) |
+| 26 | Labcorp | Intern - Data Analytics | Switzerland | ❔ | 2026-10-18 | [Apply](https://www.adzuna.ch/details/5932685317) |
+| 26 | Thales | STAGE - Data Analyst Opérations - F/H | France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933470201) |
+| 26 | wienerberger France | Stage Data Analytics Industriel (F/H) | Castelnaudary, France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933464746) |
+| 26 | ViscoTec Pumpen- u. Dosiertechnik | Werkstudent / Praktikant (m/w/d) – Frontend-Entwicklung bei ViscoTec Pumpen- u. Dosiertechnik GmbH | Töging am Inn, Germany | ❔ | 2026-10-18 | [Apply](https://www.adzuna.de/details/5933550086) |
+| 26 | NXP Semiconductors | Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning | Gratkorn, Austria | ❔ | 2026-10-18 | [Apply](https://www.adzuna.at/details/5933415125) |
+| 26 | AIRBUS | ATR – Internship 2027 - AI & Data Engineering - Automated Technical Knowledge Extraction | France | ❔ | 2026-10-18 | [Apply](https://www.adzuna.fr/details/5933470162) |
+| 26 | NLwerkt | Internship Data Science & AI \| Hoofddorp | Hoofddorp, Netherlands | ❔ | 2026-10-18 | [Apply](https://www.adzuna.nl/details/5933188777) |
 | 26 | Johnson and Johnson | AI/ML/Data Science Intern | Zug, Switzerland | ❔ | 2026-10-17 | [Apply](https://www.adzuna.ch/details/5931333979) |
 | 26 | Schroders | Working Student/Intern: AI, Data Analytics & Automation (December 2026 - December 2027) | Zurich, Switzerland | ❔ | 2026-10-17 | [Apply](https://www.adzuna.ch/details/5931333964) |
-| 26 | Johnson and Johnson | AI/ML/Data Science Intern | Zug, Switzerland | ❔ | 2026-10-17 | [Apply](https://www.adzuna.ch/details/5931482457) |
-| 26 | Safran | Stage: Data Engineer Achats F/H | France | ❔ | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931764547) |
 | 26 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Germany | ❔ | 2026-10-17 | [Apply](https://www.adzuna.de/land/ad/5932414156) |
 | 26 | Paulaner Brauerei Gruppe & Co. KGaA | Praktikum Data Engineering & Analytics (m/w/d) | Au-Haidhausen, Germany | ❔ | 2026-10-17 | [Apply](https://www.adzuna.de/details/5932488200) |
 | 26 | CEA | Stage - Machine learning pour le diagnostic des défauts non francs dans les câbles-Saclay-H/F | Saclay, France | ❔ | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5932398765) |
-| 26 | Safran | Stage : Stage: Data Engineer Achats F/H | Rue, France | ❔ | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931777327) |
 | 26 | Ethias NV | Stage Data Engineering & Business Intelligence | Luik, Belgium | ❔ | 2026-10-17 | [Apply](https://www.adzuna.be/details/5932031072) |
 | 26 | Labcorp | Intern - Data Analytics | Switzerland | ❔ | 2026-10-16 | [Apply](https://www.adzuna.ch/details/5929696217) |
 | 26 | Johnson & Johnson | AI/ML/Data Science Intern | Switzerland | ❔ | 2026-10-16 | [Apply](https://www.adzuna.ch/details/5929695963) |
@@ -262,20 +285,18 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 26 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-16 | [Apply](https://www.adzuna.de/details/5929943993) |
 | 26 | ASML | Computer Science \| Data Science internship: Quality dashboard development | Netherlands | ❔ | 2026-10-16 | [Apply](https://www.adzuna.nl/details/5930933958) |
 | 26 | Liebherr-Aerospace Lindenberg GmbH | Praktikum im Bereich Data Analytics für Predictive Maintenance | Lindenberg im Allgäu, Germany | ❔ | 2026-10-16 | [Apply](https://www.adzuna.de/details/5929757438) |
-| 26 | Schroders | Working Student/Intern: AI, Data Analytics & Automation (December 2026 - December 2027) | Switzerland | ❔ | 2026-10-15 | [Apply](https://www.adzuna.ch/details/5928249412) |
-| 26 | Magnet NTN SNR | Stagiaire Data / Business Intelligence PLM H/F | Epagny Metz-Tessy, France | ❔ | 2026-10-15 | [Apply](https://www.adzuna.fr/details/5928133609) |
-| 26 | NTN SNR | Stagiaire Data / Business Intelligence PLM H/F | Annecy, France | ❔ | 2026-10-15 | [Apply](https://www.adzuna.fr/details/5929233094) |
-| 26 | Ingenics AG | Werkstudent / Praktikant (m/w/d) Digitalisierung & Data Analytics | Germany | ❔ | 2026-10-15 | [Apply](https://www.adzuna.de/details/5929211949) |
-| 26 | TechTalk GmbH | Praktikant:in Softwareentwicklung & Agentic Engineering (m/w/d) | Austria | ❔ | 2026-10-15 | [Apply](https://www.adzuna.at/details/5929256668) |
-| 26 | TechTalk GmbH | Praktikant:in Softwareentwicklung & Agentic Engineering (m/w/d) | Innere Stadt, Austria | ❔ | 2026-10-15 | [Apply](https://www.adzuna.at/land/ad/5929118202) |
+| 25 | Schroders | Working Student/Intern: AI, Data Analytics & Automation (December 2026 - December 2027) | Switzerland | ❔ | 2026-10-15 | [Apply](https://www.adzuna.ch/details/5928249412) |
+| 25 | Magnet NTN SNR | Stagiaire Data / Business Intelligence PLM H/F | Epagny Metz-Tessy, France | ❔ | 2026-10-15 | [Apply](https://www.adzuna.fr/details/5928133609) |
+| 25 | NTN SNR | Stagiaire Data / Business Intelligence PLM H/F | Annecy, France | ❔ | 2026-10-15 | [Apply](https://www.adzuna.fr/details/5929233094) |
+| 25 | Ingenics AG | Werkstudent / Praktikant (m/w/d) Digitalisierung & Data Analytics | Germany | ❔ | 2026-10-15 | [Apply](https://www.adzuna.de/details/5929211949) |
 | 25 | Snowflake | Software Engineer Intern - Zurich (2026) | Zurich, Switzerland | ❔ | 2026-10-14 | [Apply](https://www.adzuna.ch/details/5926509872) |
 | 25 | Abbott | Intern Data Science - Future Talent Program | Switzerland | ❔ | 2026-10-13 | [Apply](https://www.adzuna.ch/details/5925146554) |
 | 25 | Sia Partners | Final Year Internship Consultant - Data Analyst | Paris, France | ❔ | 2026-10-13 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155313424) |
 | 25 | ZEISS | Praktikum Softwareentwicklung eingebettete Systeme (m/w/x) | Oberkochen, Germany | ❔ | 2026-10-13 | [Apply](https://www.adzuna.de/details/5926006456) |
-| 25 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155063759) |
-| 25 | Sia Partners | Final year internship - Data Scientist & AI Consultant | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155061916) |
-| 25 | Robert Bosch NV/SA | Internship Data Analytics | Antwerpen, Belgium | ❔ | 2026-10-12 | [Apply](https://www.adzuna.be/details/5924710016) |
-| 25 | FERRERO MSC GmbH & Co. KG | Praktikant Marktforschung - Business Intelligence & Analytics (w/m/d) | Germany | ❔ | 2026-10-12 | [Apply](https://www.adzuna.de/land/ad/5924327909) |
+| 24 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155063759) |
+| 24 | Sia Partners | Final year internship - Data Scientist & AI Consultant | Paris, France | ❔ | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/Sia/744000155061916) |
+| 24 | Robert Bosch NV/SA | Internship Data Analytics | Antwerpen, Belgium | ❔ | 2026-10-12 | [Apply](https://www.adzuna.be/details/5924710016) |
+| 24 | FERRERO MSC GmbH & Co. KG | Praktikant Marktforschung - Business Intelligence & Analytics (w/m/d) | Germany | ❔ | 2026-10-12 | [Apply](https://www.adzuna.de/land/ad/5924327909) |
 | 24 | Bank Lombard Odier & Co | Internship - Data Engineer - Optimization of Data Delivery | Switzerland | ❔ | 2026-10-11 | [Apply](https://www.adzuna.ch/details/5922665245) |
 | 24 | dsm-firmenich | Internship Finance Data Science & Margin Analytics | Maastricht, Netherlands | ❔ | 2026-10-11 | [Apply](https://www.adzuna.nl/details/5922957724) |
 | 24 | GSK Group of Companies | Data Analytics Intern | Nyon, Switzerland | ❔ | 2026-10-10 | [Apply](https://www.adzuna.ch/details/5921359440) |
@@ -287,14 +308,11 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 24 | Arcadis | Internship – Machine learning in flood modelling | Stadskern, Netherlands | ❔ | 2026-10-10 | [Apply](https://www.adzuna.nl/details/5922424323) |
 | 24 | Avanade Inc. | Graduation Internship Data & AI \| AI / Gen AI / AI Engineering | Amsterdam, Netherlands | ❔ | 2026-10-10 | [Apply](https://www.adzuna.nl/details/5921780645) |
 | 24 | BDO Belgium | Internship Deals & Data Analytics Advisor (février 2027) | Elsene, Belgium | ❔ | 2026-10-10 | [Apply](https://www.adzuna.be/details/5922009798) |
-| 24 | AXÉRÉAL | ALTERNANT/STAGIAIRE SUPPLY CHAIN DATA ANALYST F/H | La-Chapelle-Saint-Mesmin, France | ❔ | 2026-10-10 | [Apply](https://www.adzuna.fr/land/ad/5922346924) |
-| 24 | AXÉRÉAL | ALTERNANT/STAGIAIRE SUPPLY CHAIN DATA ANALYST F/H | Loiret, France | ❔ | 2026-10-10 | [Apply](https://www.adzuna.fr/land/ad/5922346928) |
-| 24 | AXÉRÉAL | ALTERNANT/STAGIAIRE SUPPLY CHAIN DATA ANALYST F/H | Saint-Jean-le-Blanc, France | ❔ | 2026-10-10 | [Apply](https://www.adzuna.fr/land/ad/5922346908) |
 | 24 | AXÉRÉAL | ALTERNANT/STAGIAIRE SUPPLY CHAIN DATA ANALYST F/H | Olivet, France | ❔ | 2026-10-10 | [Apply](https://www.adzuna.fr/details/5922346932) |
-| 24 | GSK Group of Companies | Data Engineer Intern | Nyon, Switzerland | ❔ | 2026-10-09 | [Apply](https://www.adzuna.ch/details/5919820061) |
-| 24 | TRUMPF Group | Praktikum / Abschlussarbeit im Bereich Artificial Intelligence (SS27) | Schramberg, Germany | ❔ | 2026-10-09 | [Apply](https://www.adzuna.de/details/5920942367) |
-| 24 | ZEISS | Internship – Software Engineering & Agentic Systems for Digital Twins (f/m/x) | Oberkochen, Germany | ❔ | 2026-10-09 | [Apply](https://www.adzuna.de/details/5920927403) |
-| 24 | NXP Semiconductors | Internship – Product Engineering (Data Science: Machine Learning Analyst) | Nijmegen, Netherlands | ❔ | 2026-10-09 | [Apply](https://www.adzuna.nl/details/5921039507) |
+| 23 | GSK Group of Companies | Data Engineer Intern | Nyon, Switzerland | ❔ | 2026-10-09 | [Apply](https://www.adzuna.ch/details/5919820061) |
+| 23 | TRUMPF Group | Praktikum / Abschlussarbeit im Bereich Artificial Intelligence (SS27) | Schramberg, Germany | ❔ | 2026-10-09 | [Apply](https://www.adzuna.de/details/5920942367) |
+| 23 | ZEISS | Internship – Software Engineering & Agentic Systems for Digital Twins (f/m/x) | Oberkochen, Germany | ❔ | 2026-10-09 | [Apply](https://www.adzuna.de/details/5920927403) |
+| 23 | NXP Semiconductors | Internship – Product Engineering (Data Science: Machine Learning Analyst) | Nijmegen, Netherlands | ❔ | 2026-10-09 | [Apply](https://www.adzuna.nl/details/5921039507) |
 | 23 | Lombard Odier | Generative AI Intern | Switzerland | ❔ | 2026-10-08 | [Apply](https://www.adzuna.ch/details/5917945595) |
 | 23 | GSK | Data Analytics Intern | Switzerland | ❔ | 2026-10-08 | [Apply](https://www.adzuna.ch/details/5917949175) |
 | 23 | BDO Belgium | Internship Deals & Data Analytics Advisor (février 2027) | Belgium | ❔ | 2026-10-08 | [Apply](https://www.adzuna.be/details/5918802411) |
@@ -303,11 +321,12 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 23 | RIVACON | Praktikum (m/w/d) - Beratung/Data Analysis/Computational Finance | Friedrichsdorf, Germany | ❔ | 2026-10-07 | [Apply](https://www.adzuna.de/details/5917366282) |
 | 23 | Amsterdam Music Harbour | Internship Data Analytics | Noord west, Netherlands | ❔ | 2026-10-07 | [Apply](https://www.adzuna.nl/details/5915689629) |
 | 22 | Mercedes-Benz AG | Praktikant*in Investitionscontrolling Mercedes-Benz Cars – Data Engineering | Sindelfingen, Germany | ❔ | 2026-10-05 | [Apply](https://www.adzuna.de/land/ad/5912842787) |
+| 22 | Mercedes-Benz AG | Praktikant*in Investitionscontrolling Mercedes-Benz Cars – Data Engineering | Sindelfingen, Germany | ❔ | 2026-10-05 | [Apply](https://www.adzuna.de/details/5912842787) |
 | 22 | Groupe Savencia | Stagiaire Data Engineer h/f | Hauts-de-Seine, France | ❔ | 2026-10-04 | [Apply](https://www.adzuna.fr/details/5911691217) |
-| 22 | Pinterest | Software Engineering Intern 2027 (Zurich) | Zurich, Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909109482) |
-| 22 | Pinterest | Machine Learning Intern 2027 (Zurich) | Zurich, Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909108405) |
-| 22 | Airbus | Praktikum/Abschlussarbeit: Softwareentwicklung in einer 3D Simulationsengine | Germany | ❔ | 2026-10-03 | [Apply](https://www.adzuna.de/details/5910239309) |
-| 22 | Toyota Motor Europe | Internship Process analysis & reporting using data science | Evere, Belgium | ❔ | 2026-10-03 | [Apply](https://www.adzuna.be/details/5909847482) |
+| 21 | Pinterest | Software Engineering Intern 2027 (Zurich) | Zurich, Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909109482) |
+| 21 | Pinterest | Machine Learning Intern 2027 (Zurich) | Zurich, Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909108405) |
+| 21 | Airbus | Praktikum/Abschlussarbeit: Softwareentwicklung in einer 3D Simulationsengine | Germany | ❔ | 2026-10-03 | [Apply](https://www.adzuna.de/details/5910239309) |
+| 21 | Toyota Motor Europe | Internship Process analysis & reporting using data science | Evere, Belgium | ❔ | 2026-10-03 | [Apply](https://www.adzuna.be/details/5909847482) |
 | 21 | TRUMPF Group | Praktikum Embedded Software Engineering (SS27) | Freiburg (Elbe), Germany | ❔ | 2026-10-02 | [Apply](https://www.adzuna.de/details/5908418586) |
 | 21 | doubleSlash Net-Business GmbH | Praktikum - Java Softwareentwicklung (m/w/d) | Ailingen, Germany | ❔ | 2026-10-02 | [Apply](https://www.adzuna.de/details/5907242630) |
 | 21 | doubleSlash Net-Business GmbH | Praktikum - Webentwicklung / Frontend (m/w/d) | Ailingen, Germany | ❔ | 2026-10-02 | [Apply](https://www.adzuna.de/details/5907242632) |
@@ -317,12 +336,12 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 21 | doubleSlash Net-Business GmbH | Praktikum - Softwareentwicklung (m/w/d) | Milbertshofen-Am Hart, Germany | ❔ | 2026-10-02 | [Apply](https://www.adzuna.de/details/5907242633) |
 | 21 | Mercedes-Benz Tech Innovation | Praktikant Softwareentwicklung - Augmented Reality (m/w/d/x) | Böblingen, Germany | ❔ | 2026-10-01 | [Apply](https://www.adzuna.de/land/ad/5905017823) |
 | 21 | Toyota Motor Europe | Internship Process analysis & reporting using data science | Belgium | ❔ | 2026-10-01 | [Apply](https://www.adzuna.be/details/5905448531) |
-| 21 | Lombard Odier | Internship – AI Software Engineer - AI-Powered Portfolio Intelligence (PMS) | Switzerland | ❔ | 2026-09-30 | [Apply](https://www.adzuna.ch/details/5903181608) |
-| 21 | Hilti | Intern - Quality Management - Technical Analysis Data Scientist (m/f/x) | Switzerland | ❔ | 2026-09-30 | [Apply](https://www.adzuna.ch/details/5903180478) |
-| 21 | SaintGobain | Stagiaire ingénieur Data Science & Industrie 4.0 (F/H) | La Défense, France | ❔ | 2026-09-30 | [Apply](https://www.adzuna.fr/details/5903499499) |
+| 20 | Lombard Odier | Internship – AI Software Engineer - AI-Powered Portfolio Intelligence (PMS) | Switzerland | ❔ | 2026-09-30 | [Apply](https://www.adzuna.ch/details/5903181608) |
+| 20 | Hilti | Intern - Quality Management - Technical Analysis Data Scientist (m/f/x) | Switzerland | ❔ | 2026-09-30 | [Apply](https://www.adzuna.ch/details/5903180478) |
+| 20 | SaintGobain | Stagiaire ingénieur Data Science & Industrie 4.0 (F/H) | La Défense, France | ❔ | 2026-09-30 | [Apply](https://www.adzuna.fr/details/5903499499) |
+| 20 | P&G | Data Engineer Internship (m/f/x) | Madrid, Spain | ❔ | 2026-09-29 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000154644) |
 | 20 | Lonza | Internship Global Master Data Analyst 80-100% | Switzerland | ❔ | 2026-09-29 | [Apply](https://www.adzuna.ch/details/5902053453) |
 | 20 | Lufthansa Technik Logistik Services GmbH | Praktikum im Bereich Prozess / Data Analyst und Logistik | Alsterdorf, Germany | ❔ | 2026-09-29 | [Apply](https://www.adzuna.de/details/5902521913) |
-| 20 | P&G | Data Engineer Internship (m/f/x) | Madrid, Spain | ❔ | 2026-09-28 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/MADRID-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000154644) |
 | 20 | Lombard Odier | Internship – AI Engineer - AI-Powered Software Migration Factory | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900077417) |
 | 20 | Lombard Odier | Internship – AI Engineer - AI-Powered CRM – Data Extraction & KYC Support | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900076674) |
 | 20 | Lombard Odier | Internship – Machine Learning Engineer - Action Dashboard Ranking Engine | Switzerland | ❔ | 2026-09-27 | [Apply](https://www.adzuna.ch/details/5900074793) |
@@ -344,7 +363,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | Avanade Spainu Company | Avanade Campus: Prácticas en Data Analytics con tecnologías Microsoft - Marzo 2026 | Málaga, Spain | ❔ | 2026-09-24 | [Apply](https://www.adzuna.es/details/5896071292) |
 | 20 | Ekimetrics | Stage 2027  Business Data Scientist - Marketing effectivness | Paris, France | ❔ | 2026-09-24 | [Apply](https://jobs.lever.co/ekimetrics/8f0d6bb4-903a-4deb-8689-2f72e8b3e171) |
 | 20 | Ekimetrics | Stage PFE 2027 - AI/ML Engineer - 50% Client 50% R&D | Paris, France | ❔ | 2026-09-24 | [Apply](https://jobs.lever.co/ekimetrics/e9065c12-7d2d-4753-bee0-0a80f933f28e) |
-| 20 | Murex | INTERNSHIP 2027 - UI Software Engineer | Paris, France | ❔ | 2026-09-24 | [Apply](https://www.adzuna.fr/details/5897037346) |
 | 20 | isk | Praktikum Agentic Software Development 40–100% (w/m/d) | Büetigen, Switzerland | ❔ | 2026-09-23 | [Apply](https://www.adzuna.ch/details/5894772855) |
 | 20 | Murex | INTERNSHIP 2027 – Software Engineer C++ | Paris, France | ❔ | 2026-09-23 | [Apply](https://www.adzuna.fr/details/5895359458) |
 | 20 | Murex | INTERNSHIP 2027 - Software Engineer Java | Paris, France | ❔ | 2026-09-23 | [Apply](https://www.adzuna.fr/details/5895359030) |
@@ -411,6 +429,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | Fnac | Stagiaire - Data Analyste Opérations E-commerce H/F F/H | Massy, France | ❔ | 2026-05-20 | [Apply](https://www.adzuna.fr/details/5734719631) |
 | 20 | prenode | Praktikum/Werkstudium: Software Engineer (m/w/d) | Hagsfeld, Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727343714) |
 | 20 | Simba n³ | Praktikum im Bereich Softwareentwicklung | Oelsnitz/Vogtland, Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727332405) |
+| 20 | Conze | Langzeit-Praktikum in Softwareentwicklung | Weidenau, Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727313231) |
 | 20 | Nexis | Werkstudent/ Praktikant Softwareentwicklung (m/w/d) | Galgenberg, Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727333667) |
 | 20 | XITASO | Praktikant/ Werkstudent (all genders) - Software Development | Krumbach (Schwaben), Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727293747) |
 | 20 | crossbase mediasolution | Praktikant Softwareentwicklung (m/w/d) | Dagersheim, Germany | ❔ | 2026-05-12 | [Apply](https://www.adzuna.de/details/5727292135) |
@@ -428,86 +447,84 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | PricewaterhouseCoopers GmbH WPG | Praktikum Data Analytics Global Transformation Tax (w/m/d) | Frankfurt, Germany | ❔ | 2026-02-26 | [Apply](https://www.adzuna.de/details/5645818163) |
 | 20 | Procter & Gamble | Data Science Internship | Belgium | ❔ | 2026-02-21 | [Apply](https://www.adzuna.be/details/5639186348) |
 | 20 | Dekra | Data Analyst CRM Stagiaire H/F | France | ❔ | 2026-01-09 | [Apply](https://www.adzuna.fr/details/5576597713) |
-| 14 | NVIDIA | GenAI Algorithms Intern – Model Optimization for Inference | Zurich, Switzerland | ❔ | 2026-10-26 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) |
-| 9 | ⭐ Amazon | 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition | Berlin, Germany | ❔ (3 mo) | 2026-10-09 | [Apply](https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) |
+| 14 | NVIDIA | GenAI Algorithms Intern – Model Optimization for Inference | Zurich, Switzerland | ❔ | 2026-10-27 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) |
+| 8 | ⭐ Amazon | 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition | Berlin, Germany | ❔ (3 mo) | 2026-10-09 | [Apply](https://www.amazon.jobs/en/jobs/10574996/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) |
 | 7 | Google | Data Scientist Product MS Intern, 2027 | Zurich, Switzerland | ❔ | 2026-10-05 | [Apply](https://www.adzuna.ch/details/5911925135) |
-| 7 | Google | Data Scientist Product MS Intern, 2027 | Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909109659) |
+| 6 | Google | Data Scientist Product MS Intern, 2027 | Switzerland | ❔ | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909109659) |
 | 6 | ⭐ Amazon | 2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition | Madrid, Spain | ❔ (3 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) |
-| 5 | P&G | Data Science Internship | Brussels, Belgium | ❔ (3 mo) | 2026-09-28 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Data-Science-Internship_R000145698) |
-| -5 | P&G | Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical | Brussels, Belgium | ❔ (3 mo) | 2026-09-28 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) |
+| 5 | P&G | Data Science Internship | Brussels, Belgium | ❔ (3 mo) | 2026-09-29 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Data-Science-Internship_R000145698) |
+| -5 | P&G | Engineering Internship - Automation/Mechanical/Mechatronic/Data Science/Chemical | Brussels, Belgium | ❔ (3 mo) | 2026-09-29 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/Brussels/Engineering-Internship---Automation-Mechanical-Mechatronic-Data-Science-Chemical_R000154036) |
 | -5 | Google | Software Engineering PhD Intern, 2027 | Switzerland | ❔ | 2026-08-21 | [Apply](https://www.adzuna.ch/details/5850176241) |
 | -5 | Google | Data Science PhD Intern, 2027 | Zurich, Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5849979493) |
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (92) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (89) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
-| 46 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
-| 45 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milan, Italy | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) |
+| 45 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
+| 44 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Milano | Milan, Italy | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000653003) |
 | 43 | ⭐ Gemmo | Forward-Deployed AI Engineer - Internship (Milan) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://apply.workable.com/j/AFC35133EE/apply) |
 | 37 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
-| 34 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.it/details/5920948578) |
-| 18 | GSK | Internship: MSAT Digital & Data Science, Italy, 2026 | Italy | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) |
-| 10 | ⭐ Accenture | Consultant stagiaire Data Science/AI Engineer (F/H) | Paris, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843) |
+| 33 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.it/details/5920948578) |
+| 18 | GSK | Internship: MSAT Digital & Data Science, Italy, 2026 | Italy | ❌ not summer (6 mo) | 2026-10-24 | [Apply](https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Italy---Rosia/Internship--MSAT-Digital---Data-Science--Italy--2026_450063) |
+| 10 | ⭐ Accenture | Consultant stagiaire Data Science/AI Engineer (F/H) | Paris, France | ❌ not summer (6 mo) | 2026-10-29 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843) |
 | 7 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
-| 6 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
-| 5 | ⭐ Doctolib | Software Engineering intern - Fullstack (x/f/m) - Nantes | Nantes, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) |
-| 5 | ⭐ Doctolib | Software Engineering Intern - Fullstack (x/f/m) - Paris | Paris, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7998193003) |
-| 5 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, Netherlands | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) |
-| 5 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | Berlin, Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) |
+| 5 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
+| 4 | ⭐ Doctolib | Software Engineering intern - Fullstack (x/f/m) - Nantes | Nantes, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8000592003) |
+| 4 | ⭐ Doctolib | Software Engineering Intern - Fullstack (x/f/m) - Paris | Paris, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/7998193003) |
+| 4 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, Netherlands | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) |
+| 4 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | Berlin, Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) |
 | 1 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
-| 0 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-28 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
+| 0 | Roche | Internship - Software and Data Engineer (for 12 months in Rotkreuz) | Switzerland | ❌ not summer (12 mo) | 2026-10-29 | [Apply](https://www.adzuna.ch/details/5945035285) |
+| 0 | Groupe Savencia | Savencia food service premium - Stage data analyst marketing - H/F | Bourg-lès-Valence, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://www.adzuna.fr/details/5944700049) |
+| 0 | RTE - Réseau de transport d'électricité | STAGE PFE – Développeur et Data Analyst F/H | La Chapelle-sur-Erdre, France | ❌ not summer (6 mo) | 2026-10-28 | [Apply](https://www.adzuna.fr/land/ad/5944307214) |
+| 0 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-09-29 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
 | 0 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
 | -1 | Lidl Stiftung & Co KG | Praktikum Data Analytics & Digitalisierung | Germany | ❌ not summer (4 mo) | 2026-10-26 | [Apply](https://www.adzuna.de/land/ad/5942324213) |
 | -1 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-10-25 | [Apply](https://www.adzuna.de/land/ad/5941191472) |
 | -1 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-10-25 | [Apply](https://www.adzuna.de/land/ad/5941545943) |
 | -1 | TARGOBANK AG | Praktikum im Ressort Finanzen als Data Analyst / Financial Analytics (6 Monate) | Düsseldorf, Germany | ❌ not summer (6 mo) | 2026-10-25 | [Apply](https://www.adzuna.de/details/5941331075) |
-| -1 | Michelin | Stage - Data Science Jumeau numérique du pneu (F/H) | Clermont-Ferrand, France | ❌ not summer (6 mo) | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939912098) |
-| -2 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://www.adzuna.de/land/ad/5939413825) |
-| -2 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://www.adzuna.de/land/ad/5938801051) |
+| -1 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-10-25 | [Apply](https://www.adzuna.de/details/5941191472) |
+| -2 | Michelin | Stage - Data Science Jumeau numérique du pneu (F/H) | Clermont-Ferrand, France | ❌ not summer (6 mo) | 2026-10-24 | [Apply](https://www.adzuna.fr/details/5939912098) |
 | -2 | Virtuos | Software Engineer (stage 6 mois) | Hérault, France | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938924228) |
 | -2 | Caisse d'Epargne | Stage : Stage – 6 mois – Data Analyst/ Project Officer – F/H | Saint-Mandé, France | ❌ not summer (6 mo) | 2026-10-23 | [Apply](https://www.adzuna.fr/details/5938929316) |
 | -2 | Bosch | Praktikum Softwareentwicklung für Bosch eBike Systems ABS | Reutlingen, Germany | ❌ not summer (6 mo) | 2026-10-22 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000157086850) |
 | -2 | SFR | Stage : Stagiaire (h/f) - Data Analyst | Bron, France | ❌ not summer (6 mo) | 2026-10-22 | [Apply](https://www.adzuna.fr/details/5937513581) |
-| -2 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-10-22 | [Apply](https://www.adzuna.de/land/ad/5937524033) |
-| -2 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-10-22 | [Apply](https://www.adzuna.de/land/ad/5937362764) |
 | -2 | Hunkemöller | Internship IT - Data Engineering | Netherlands | ❌ not summer | 2026-10-22 | [Apply](https://www.adzuna.nl/details/5938201566) |
-| -2 | Bosch | Pflichtpraktikum im Bereich Softwareentwicklung (Full-Stack) | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156756139) |
-| -2 | RTE - Réseau de transport d'électricité | STAGE PFE – Développeur et Data Analyst F/H | La Chapelle-sur-Erdre, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936704530) |
-| -2 | Heineken | Stage - Data analyst H/F - Rueil Malmaison (92) | Rueil-Malmaison, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936373797) |
-| -2 | Caisse d'Epargne | Stage : Stage – 6 mois – Data Scientist IA F/H | Valderiès, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936317280) |
+| -3 | Bosch | Pflichtpraktikum im Bereich Softwareentwicklung (Full-Stack) | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156756139) |
+| -3 | RTE - Réseau de transport d'électricité | STAGE PFE – Développeur et Data Analyst F/H | La Chapelle-sur-Erdre, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936704530) |
+| -3 | Heineken | Stage - Data analyst H/F - Rueil Malmaison (92) | Rueil-Malmaison, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/land/ad/5936373797) |
+| -3 | Caisse d'Epargne | Stage : Stage – 6 mois – Data Scientist IA F/H | Valderiès, France | ❌ not summer (6 mo) | 2026-10-21 | [Apply](https://www.adzuna.fr/details/5936317280) |
 | -3 | Orange | Stage : Stage Data Engineer – Agent IA & Data F/H | Saint-Aubin-du-Cormier, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935181947) |
 | -3 | Isover | Stage R&D - Data science et optimisation d'un procédé industriel - H/F | Creil-Nogent-sur-Oise, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://www.adzuna.fr/details/5935144924) |
 | -3 | Bosch | Praktikum Softwareentwicklung für Bosch eBike Systems ABS | Reutlingen, Germany | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000156301369) |
-| -4 | Chanel | Stage - Data Science Et Ia Appliquées À La R&D H/F | France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5932393937) |
-| -4 | Orange | Stage : Stage Data scientist - Prédiction de séries temporelles (H/F) | Saint-Aubin-du-Cormier, France | ❌ not summer (6 mo) | 2026-10-17 | [Apply](https://www.adzuna.fr/details/5931776634) |
+| -4 | P&G | Data Engineer Internship (m/f/x) | Lisbon, Portugal | ❌ not summer (12 mo) | 2026-10-17 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) |
 | -4 | Bosch | Stagiaire Développeur Full Stack F/H | Vénissieux, France | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155947364) |
-| -4 | P&G | Data Engineer Internship (m/f/x) | Lisbon, Portugal | ❌ not summer (12 mo) | 2026-10-16 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/LISBON-GENERAL-OFFICE/Data-Engineer-Internship--m-f-x-_R000161204) |
 | -4 | Taktile | Software Engineer Internship for HPI Students | Germany | ❌ not summer (6 mo) | 2026-10-16 | [Apply](https://www.adzuna.de/details/5930951799) |
 | -4 | Daimler Truck AG | Praktikum im S24H Data analytics & Reporting Umfeld ab Januar 2027 | Leinfelden-Echterdingen, Germany | ❌ not summer | 2026-10-16 | [Apply](https://www.adzuna.de/details/5930004997) |
-| -4 | The Adecco Group | Becario It Y Data Analytics: 12 Meses, Flexible | Barcelona, Spain | ❌ not summer (12 mo) | 2026-10-15 | [Apply](https://www.adzuna.es/details/5928792237) |
-| -4 | Daimler Truck | Praktikum im S24H Data analytics & Reporting Umfeld ab Januar 2027 | Leinfelden-Echterdingen, Germany | ❌ not summer | 2026-10-15 | [Apply](https://www.adzuna.de/details/5929202722) |
+| -5 | The Adecco Group | Becario It Y Data Analytics: 12 Meses, Flexible | Barcelona, Spain | ❌ not summer (12 mo) | 2026-10-15 | [Apply](https://www.adzuna.es/details/5928792237) |
+| -5 | Daimler Truck | Praktikum im S24H Data analytics & Reporting Umfeld ab Januar 2027 | Leinfelden-Echterdingen, Germany | ❌ not summer | 2026-10-15 | [Apply](https://www.adzuna.de/details/5929202722) |
 | -5 | Bosch | Werkstudent*in in der Softwareentwicklung – Python (w/m/div.) | Kusterdingen, Germany | ❌ not summer (12 mo) | 2026-10-14 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155479269) |
 | -5 | Bosch | Working Student in Software Development – Python (f/m/div.) | Kusterdingen, Germany | ❌ not summer (12 mo) | 2026-10-14 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155476967) |
 | -5 | Job-Room | R&D Data Science Intern | Orbe, Switzerland | ❌ not summer (6 mo) | 2026-10-13 | [Apply](https://www.adzuna.ch/details/5925751069) |
-| -5 | Bosch | Internship in GenAI Knowledge Assistant for Engineering | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020599) |
-| -5 | Bosch | Internship Data Analytics | Mechelen, Belgium | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155002879) |
 | -6 | ⭐ Doctolib | Machine Learning Engineer Intern (x/f/m) | Paris, France | ❌ not summer (6 mo) | 2026-10-26 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8042970003) |
+| -6 | Bosch | Internship in GenAI Knowledge Assistant for Engineering | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020599) |
+| -6 | Bosch | Internship Data Analytics | Mechelen, Belgium | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155002879) |
 | -6 | Huntsman Corporation | Intern - Data Science | Basel, Switzerland | ❌ not summer (6 mo) | 2026-10-11 | [Apply](https://www.adzuna.ch/details/5922665205) |
-| -6 | Huntsman Corporation | Intern - Data Science | Switzerland | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.ch/details/5919854561) |
-| -6 | MongoDB | 2027 - Software Engineer Intern, Dublin - 6 Month Internship | Dublin, Ireland | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8258279) |
+| -7 | Huntsman Corporation | Intern - Data Science | Switzerland | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.adzuna.ch/details/5919854561) |
+| -7 | MongoDB | 2027 - Software Engineer Intern, Dublin - 6 Month Internship | Dublin, Ireland | ❌ not summer (6 mo) | 2026-10-09 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8258279) |
 | -7 | Bosch |  Pflichtpraktikum Data Analytics & Intelligent Process Automation | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-10-08 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154387546) |
 | -7 | Melexis | Internship: Rail-to-Rail Output Driver for Software Defined Back-end Architecture | Boudry, Switzerland | ❌ not summer (6 mo) | 2026-10-08 | [Apply](https://www.adzuna.ch/details/5917952567) |
 | -7 | Bosch | Pflichtpraktikum Software Development für datenbasierte Anwendungen im industriellen Umfeld | Bühl, Germany | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000154025189) |
 | -7 | Shift Technology | Full stack Engineer Intern (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014470003) |
 | -7 | Aumovio | Praktikum - Softwareentwicklung mit .NET (Web, Mobile, Client) | Regensburg, Germany | ❌ not summer (5 mo) | 2026-10-07 | [Apply](https://www.adzuna.de/details/5914295600) |
-| -7 | Bosch | Pflichtpraktikum in der Full-Stack-Entwicklung zur Release-Automatisierung von Embedded-Middleware-Software im Automobilbereich (w/m/div.) | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153771709) |
-| -7 | Bosch | Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153769414) |
-| -8 | ⭐ Euronext | Equity & ETF Sales Data Analyst Intern | Paris, France | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity---ETF-Sales-Data-Analyst-Intern_R29199) |
-| -8 | Bank Julius Bär & Co. AG | Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme] | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909034035) |
-| -9 | ANYbotics | Software Engineer Intern - Industrialization | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-09-30 | [Apply](https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169) |
+| -8 | ⭐ Euronext | Equity & ETF Sales Data Analyst Intern | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity---ETF-Sales-Data-Analyst-Intern_R29199) |
+| -8 | Bosch | Pflichtpraktikum in der Full-Stack-Entwicklung zur Release-Automatisierung von Embedded-Middleware-Software im Automobilbereich (w/m/div.) | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153771709) |
+| -8 | Bosch | Mandatory Internship Full-Stack Development for Release Automation of Automotive Embedded Middleware Software | Abstatt, Germany | ❌ not summer (6 mo) | 2026-10-06 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000153769414) |
+| -9 | Bank Julius Bär & Co. AG | Internship: Data Analytics Intern - Product Control 100% (f/m/d) - [6–12-month Internship Programme] | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-10-03 | [Apply](https://www.adzuna.ch/details/5909034035) |
+| -10 | ANYbotics | Software Engineer Intern - Industrialization | Zurich, Switzerland | ❌ not summer (6 mo) | 2026-09-30 | [Apply](https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169) |
 | -10 | Bosch | Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code | Blaichach, Germany | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000152410271) |
 | -10 | Assystem | Ingénieur Data Science - Stage - H/F | Nantes, France | ❌ not summer (6 mo) | 2026-09-24 | [Apply](https://jobs.smartrecruiters.com/Assystem/744000151616149) |
 | -10 | Artefact | Intern Data Analyst - Paris  | Paris, France | ❌ not summer (6 mo) | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/artefact/jobs/8795537002) |
@@ -518,15 +535,14 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -10 | Artefact | Stage Software Engineer - Paris - H/F/X | Paris, France | ❌ not summer (6 mo) | 2026-09-07 | [Apply](https://job-boards.greenhouse.io/artefact/jobs/8785345002) |
 | -10 | Stryker | Internship Artificial Intelligence & Surgical Navigation – 6 Months \| Start Spring 2027 | Freiburg im Breisgau, Germany | ❌ not summer (6 mo) | 2026-09-03 | [Apply](https://www.adzuna.de/details/5869175498) |
 | -10 | Stryker | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) – 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-03 | [Apply](https://www.adzuna.de/details/5868392738) |
-| -10 | Stryker | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frhjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-02 | [Apply](https://www.adzuna.de/details/5866656754) |
 | -10 | Stryker | Praktikum Data Analytics & Lean Process Improvement in Quality Assurance (m/w/d) \| 6 Monate \| Frhjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-02 | [Apply](https://www.adzuna.de/details/5866656729) |
 | -10 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-02 | [Apply](https://www.adzuna.de/details/5865808212) |
 | -10 | Excelia, SL | Prácticas Data Analyst | Boadilla del Monte, Spain | ❌ not summer (6 mo) | 2026-08-07 | [Apply](https://www.adzuna.es/details/5831947933) |
 | -10 | Bosch | Internship AI Lighthouse & Data engineering | Tienen, Belgium | ❌ not summer (6 mo) | 2026-07-03 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000135674088) |
 | -18 | Shift Technology | Data scientist Internship (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) |
-| -20 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020669) |
+| -21 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000155020669) |
 | -22 | Shift Technology | Data & AI Engineer Intern (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014397003) |
-| -25 | P&G | Data Engineering Intern | Paris, France | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) |
+| -25 | P&G | Data Engineering Intern | Paris, France | ❌ not summer (6 mo) | 2026-09-29 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) |
 | -25 | Shift Technology | Data Scientist Internship (November, 6 months) | Paris, France | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) |
 | -25 | P&G | Analysis & Insights Internship (Stagiaire Data Analyst) | Paris, France | ❌ not summer | 2026-09-26 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Analysis---Insights-Internship--Stagiaire-Data-Analyst-_R000159355) |
 | -25 | Bosch | Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-09-11 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738) |
