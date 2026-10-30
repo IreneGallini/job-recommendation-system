@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:12+00:00",
+ "generated_at": "2026-10-30T03:29+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -126,7 +126,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 157
+   "open_postings_total": 150
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -165,7 +165,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 77
+   "open_postings_total": 74
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -202,13 +202,13 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
+     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Quality Control",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
+     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
      "role_match": false
     },
     {
@@ -217,7 +217,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 17
+   "open_postings_total": 19
   },
   {
    "id": "google-university-recruiter-emea",
@@ -230,11 +230,6 @@
    "notes": "EMEA STEP / SWE intern applications usually open in autumn.",
    "priority": "high",
    "open_postings": [
-    {
-     "role": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
-     "link": "https://www.adzuna.ch/details/5872391764",
-     "role_match": true
-    },
     {
      "role": "Data Scientist Product MS Intern, 2027",
      "link": "https://www.adzuna.ch/details/5911925135",
@@ -254,9 +249,14 @@
      "role": "Data Science PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5849979493",
      "role_match": true
+    },
+    {
+     "role": "Data Science PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5848973616",
+     "role_match": true
     }
    ],
-   "open_postings_total": 6
+   "open_postings_total": 5
   },
   {
    "id": "microsoft-university-recruiter-italy",
