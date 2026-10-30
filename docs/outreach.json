@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T11:51+00:00",
+ "generated_at": "2026-10-30T17:26+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -50,12 +50,17 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Merchant Risk Intern ",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/5024103101",
+     "role_match": false
+    },
+    {
      "role": "SDR Intern",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4927248101",
      "role_match": false
     }
    ],
-   "open_postings_total": 1
+   "open_postings_total": 2
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",

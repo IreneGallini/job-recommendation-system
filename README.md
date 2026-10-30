@@ -138,6 +138,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | Carrefour | Stagiaire Data Analyst H/F | Massy, France | ❔ | 2026-10-30 | [Apply](https://www.adzuna.fr/details/5946441684) |
 | 30 | CMA CGM | Stagiaire Data Scientist - Prédiction des taux de fret | Marseille, France | ❔ | 2026-10-30 | [Apply](https://www.adzuna.fr/details/5946317286) |
 | 30 | Voith SE & Co. KG | Praktikum (m\|w\|d) im Bereich Data Science & Process Improvement | Auhof, Germany | ❔ | 2026-10-30 | [Apply](https://www.adzuna.de/land/ad/5946449574) |
+| 30 | Bosch | Extracurricular Internship – DevOps & GenAI Engineer for Quality (f/m/div.) | Braga, Portugal | ❔ | 2026-10-30 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000158794999) |
 | 30 | Sopra Steria | Stage - Data Engineer - Aeroline - Toulouse | Toulouse, France | ❔ | 2026-10-29 | [Apply](https://www.adzuna.fr/details/5945047044) |
 | 30 | Chantiers de l'Atlantique | Stage Ingénieur(e) Data / Business Intelligence H/F | Saint-Nazaire, France | ❔ | 2026-10-29 | [Apply](https://www.adzuna.fr/details/5944958378) |
 | 30 | Air France | Stage – Methods & Data Analyst F/H | Orly, France | ❔ | 2026-10-29 | [Apply](https://www.adzuna.fr/details/5945905408) |
