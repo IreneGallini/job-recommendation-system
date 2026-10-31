@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:47+00:00",
+ "generated_at": "2026-10-31T03:14+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -85,14 +85,8 @@
    "careers_url": "https://careers.mastercard.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Product Management Intern, Summer 2027 - Lisbon, Portugal",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Product-Management-Intern--Summer-2027---Lisbon--Portugal_R-287709",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -131,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 151
+   "open_postings_total": 150
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -170,7 +164,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 74
+   "open_postings_total": 70
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -207,11 +201,6 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für November 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-November-2027_R2876362",
-     "role_match": false
-    },
-    {
      "role": "Pharmaziepraktikant*in im Bereich Quality Control",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
      "role_match": false
@@ -220,9 +209,14 @@
      "role": "stage 1 mois douane monde",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-1-mois-douane-monde_R2875415",
      "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für Mai 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-Mai-2027_R2875868",
+     "role_match": false
     }
    ],
-   "open_postings_total": 19
+   "open_postings_total": 17
   },
   {
    "id": "google-university-recruiter-emea",
