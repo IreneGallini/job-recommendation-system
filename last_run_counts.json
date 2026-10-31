@@ -1,6 +1,6 @@
 {
   "ANYbotics": 22,
-  "Accenture": 471,
+  "Accenture": 475,
   "Adzuna": 1281,
   "Airbnb": 202,
   "Alan": 130,
@@ -35,8 +35,8 @@
   "MongoDB": 366,
   "NVIDIA": 200,
   "Novartis": 205,
-  "P&G": 201,
-  "Palantir": 299,
+  "P&G": 190,
+  "Palantir": 301,
   "Perplexity": 138,
   "Philips": 200,
   "Prima Assicurazioni": 93,
@@ -50,6 +50,6 @@
   "Shift Technology": 17,
   "Sia Partners": 537,
   "SimplifyGitHubScraper": 1268,
-  "Stripe": 746,
+  "Stripe": 745,
   "TeamSystem": 40
 }
