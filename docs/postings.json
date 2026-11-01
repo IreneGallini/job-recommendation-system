@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:17+00:00",
+ "generated_at": "2026-11-01T21:29+00:00",
  "postings": [
   {
    "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Milan-Italy/Associate-Consultant-Intern--Summer-2027---Milan--Italy_R-287715-1",
@@ -49946,30 +49946,6 @@
    "score": 9
   },
   {
-   "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843",
-   "company": "Accenture",
-   "role": "Consultant stagiaire Data Science/AI Engineer (F/H)",
-   "location": "Paris, France",
-   "city": "Paris",
-   "country": "France",
-   "region": "europe",
-   "category": "consulting",
-   "priority": "high",
-   "source": "Workday",
-   "posted_date": "2026-10-29",
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-11-01",
-   "active": true,
-   "role_match": true,
-   "chem_bio": false,
-   "summer_program": false,
-   "summer_fit": "no",
-   "duration_months": "6",
-   "start_hint": "",
-   "degree_req": "unknown",
-   "score": 9
-  },
-  {
    "link": "https://www.adzuna.fr/details/5945030334",
    "company": "Forums Talents Handicap",
    "role": "Stage IA/DevOps Étude et mise en place d’un environnement d’intégration - Défense & Sécurité - Le Plessis-Robinson/Rungis",
@@ -52389,6 +52365,30 @@
    "summer_program": false,
    "summer_fit": "unknown",
    "duration_months": "",
+   "start_hint": "",
+   "degree_req": "unknown",
+   "score": 9
+  },
+  {
+   "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843",
+   "company": "Accenture",
+   "role": "Consultant stagiaire Data Science/AI Engineer (F/H)",
+   "location": "Paris, France",
+   "city": "Paris",
+   "country": "France",
+   "region": "europe",
+   "category": "consulting",
+   "priority": "high",
+   "source": "Workday",
+   "posted_date": "2026-10-28",
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-11-01",
+   "active": true,
+   "role_match": true,
+   "chem_bio": false,
+   "summer_program": false,
+   "summer_fit": "no",
+   "duration_months": "6",
    "start_hint": "",
    "degree_req": "unknown",
    "score": 9
