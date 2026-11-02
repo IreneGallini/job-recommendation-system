@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:29+00:00",
+ "generated_at": "2026-11-02T03:20+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -125,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 146
+   "open_postings_total": 145
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,7 +164,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 68
+   "open_postings_total": 65
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -206,17 +206,17 @@
      "role_match": false
     },
     {
-     "role": "stage 1 mois douane monde",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-1-mois-douane-monde_R2875415",
-     "role_match": false
-    },
-    {
      "role": "stage 6 mois – data analyst audit interne",
      "link": "https://www.adzuna.fr/details/5945941758",
      "role_match": true
+    },
+    {
+     "role": "stage 6 mois support qualité et amélioration continue",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
+     "role_match": false
     }
    ],
-   "open_postings_total": 14
+   "open_postings_total": 11
   },
   {
    "id": "google-university-recruiter-emea",
@@ -332,14 +332,8 @@
    "careers_url": "https://www.stellantis.com/en/careers",
    "notes": "",
    "priority": "normal",
-   "open_postings": [
-    {
-     "role": "Stage : homologation véhicule, Data Analyst et digitalisation",
-     "link": "https://www.adzuna.fr/details/5936849883",
-     "role_match": true
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   }
  ]
 }
