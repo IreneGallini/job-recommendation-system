@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:09+00:00",
+ "generated_at": "2026-11-03T00:13+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -13,17 +13,12 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "FP&A Intern",
-     "link": "https://jobs.ashbyhq.com/satispay/c1b98e6a-9460-4ddb-915b-af9349523339",
-     "role_match": false
-    },
-    {
      "role": "KYC & KYB Analyst Intern",
      "link": "https://jobs.ashbyhq.com/satispay/c7286e6d-0a10-424a-a524-5277c5fac580",
      "role_match": false
     }
    ],
-   "open_postings_total": 2
+   "open_postings_total": 1
   },
   {
    "id": "prima-assicurazioni-engineering-manager-tech-recruiter",
@@ -58,9 +53,14 @@
      "role": "SDR Intern",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4927248101",
      "role_match": false
+    },
+    {
+     "role": "Merchant Onboarding Intern (6-month Internship)",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4775120101",
+     "role_match": false
     }
    ],
-   "open_postings_total": 2
+   "open_postings_total": 3
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -85,8 +85,14 @@
    "careers_url": "https://careers.mastercard.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
+     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
+     "role_match": false
+    }
+   ],
+   "open_postings_total": 1
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -125,7 +131,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 145
+   "open_postings_total": 144
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,7 +170,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 65
+   "open_postings_total": 63
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -216,7 +222,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 14
+   "open_postings_total": 13
   },
   {
    "id": "google-university-recruiter-emea",
