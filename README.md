@@ -578,7 +578,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (136) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (137) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -599,6 +599,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 2 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Amsterdam | Amsterdam, Netherlands | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8006520003) |
 | 2 | ⭐ Doctolib | Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027 | Berlin, Germany | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/doctolib/jobs/8007923003) |
 | 0 | Bosch | Praktikum Software Development (w/m/div.) | Vienna, Austria | ❌ not summer (12 mo) | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159859240) |
+| 0 | Bosch | Pflichtpraktikum im Bereich Full-Stack Developer | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-11-05 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000159903541) |
 | 0 | Chanel | STAGE - Data science, modélisation prédictive & analyse d’images | France | ❌ not summer (6 mo) | 2026-11-04 | [Apply](https://www.adzuna.fr/details/5953207093) |
 | 0 | Lidl Stiftung & Co KG | Praktikum Data Science - Immobilien | Germany | ❌ not summer (6 mo) | 2026-11-04 | [Apply](https://www.adzuna.de/details/5953277321) |
 | 0 | ⭐ Euronext | Commodities Data Analyst Intern | Paris, France | ❌ not summer | 2026-10-06 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Commodities-Data-Analyst-Intern_R28885-1) |
