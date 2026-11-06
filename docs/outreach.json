@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:10+00:00",
+ "generated_at": "2026-11-06T13:26+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -131,7 +131,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 147
+   "open_postings_total": 148
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -144,6 +144,11 @@
    "notes": "",
    "priority": "high",
    "open_postings": [
+    {
+     "role": "Analista Junior Tecnico/Funzionale - Intern",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795",
+     "role_match": false
+    },
     {
      "role": "ACIN - Booking&Events - Intern",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/ACIN---Booking-Events---Intern_R00367758",
@@ -163,14 +168,9 @@
      "role": "Capital Projects Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
      "role_match": false
-    },
-    {
-     "role": "Junior SAP Analyst - Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Junior-SAP-Analyst---Internship_R00279839",
-     "role_match": false
     }
    ],
-   "open_postings_total": 70
+   "open_postings_total": 71
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -197,18 +197,18 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Pharmaziepraktikant*in im Bereich Quality Control November 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control_R2868236",
+     "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Quality Control für Mai 2028",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Quality-Control-fr-Mai-2028_R2878350",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikant*in im Bereich Medical Information für Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Information-fr-Mai-2028_R2869549",
-     "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
-     "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für Mai 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-Mai-2027_R2875868",
      "role_match": false
     },
     {
@@ -217,12 +217,12 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich ICF Quality Pharma Fill and Inspection für Mai 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-ICF-Quality-Pharma-Fill-and-Inspection_R2828009",
+     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
      "role_match": false
     }
    ],
-   "open_postings_total": 12
+   "open_postings_total": 14
   },
   {
    "id": "google-university-recruiter-emea",
