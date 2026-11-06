@@ -511,6 +511,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 20 | 4am Robotics | (Pflicht-)Praktikum Softwareentwicklung Mobile Robotics | Plattling, Germany | ❔ | 2026-09-03 | [Apply](https://www.adzuna.de/details/5869349122) |
 | 20 | Marquardt GmbH | Praktikant (m/w/d) im Bereich Innovations - KI & Machine Learning auf Embedded Systems | Rietheim-Weilheim, Germany | ❔ | 2026-09-02 | [Apply](https://www.adzuna.de/details/5867247764) |
 | 20 | Perplexity | Internship - Machine Learning Research Engineer | Berlin, Germany | ❔ (2.8 mo) | 2026-09-02 | [Apply](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) |
+| 20 | Perplexity | Internship - Machine Learning Research Engineer | Berlin, Germany | ❔ (2.8 mo) | 2026-09-02 | [Apply](https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) |
 | 20 | Deloitte | Praktikant AI & Data Engineering (m/w/d) | Frankfurt, Germany | ❔ | 2026-09-01 | [Apply](https://www.adzuna.de/details/5864338041) |
 | 20 | Bosch | Pflichtpraktikum Data Engineering – CAD-Visualisierung  | Renningen, Germany | ❔ (4 mo) | 2026-08-27 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000145898759) |
 | 20 | PricewaterhouseCoopers GmbH WPG | Praktikum Finance Transformation: Performance Management/Data Analytics (w/m/d) | Cologne, Germany | ❔ | 2026-08-26 | [Apply](https://www.adzuna.de/details/5856677911) |
