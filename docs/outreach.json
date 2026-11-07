@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:31+00:00",
+ "generated_at": "2026-11-07T03:43+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -85,14 +85,8 @@
    "careers_url": "https://careers.mastercard.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Global Markets Intern, Summer 2027 - Lisbon, Portugal",
-     "link": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Lisbon-Portugal/Global-Markets-Intern--Summer-2027---Lisbon--Portugal_R-287710-2",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "amazon-university-recruiter-italy",
@@ -131,7 +125,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 150
+   "open_postings_total": 148
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -212,17 +206,17 @@
      "role_match": false
     },
     {
-     "role": "Pharmaziepraktikant*in im Bereich Regulatory Affairs für Mai 2028",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Regulatory-Affairs-fr-Mai-2028_R2862981",
-     "role_match": false
-    },
-    {
      "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
      "role_match": false
+    },
+    {
+     "role": "Pharmaziepraktikant*in im Bereich Medical Affairs - Immuno-Respiratory für Mai 2027",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Medical-Affairs---Immuno-Respiratory-fr-Mai-2027_R2875868",
+     "role_match": false
     }
    ],
-   "open_postings_total": 14
+   "open_postings_total": 11
   },
   {
    "id": "google-university-recruiter-emea",
