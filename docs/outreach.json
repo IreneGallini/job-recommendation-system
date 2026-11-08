@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:13+00:00",
+ "generated_at": "2026-11-08T03:18+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -53,14 +53,9 @@
      "role": "SDR Intern",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4927248101",
      "role_match": false
-    },
-    {
-     "role": "Merchant Onboarding Intern (6-month Internship)",
-     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4775120101",
-     "role_match": false
     }
    ],
-   "open_postings_total": 3
+   "open_postings_total": 2
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -125,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 148
+   "open_postings_total": 147
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -164,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 71
+   "open_postings_total": 70
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -216,7 +211,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 11
+   "open_postings_total": 9
   },
   {
    "id": "google-university-recruiter-emea",
