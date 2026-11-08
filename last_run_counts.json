@@ -1,6 +1,6 @@
 {
   "ANYbotics": 22,
-  "Accenture": 481,
+  "Accenture": 482,
   "Adzuna": 1410,
   "Airbnb": 205,
   "Alan": 133,
@@ -16,10 +16,10 @@
   "Cisco": 201,
   "Databricks": 922,
   "Datadog": 401,
-  "Deliveroo": 199,
-  "Devoteam": 957,
+  "Deliveroo": 200,
+  "Devoteam": 958,
   "Ekimetrics": 31,
-  "Elastic": 425,
+  "Elastic": 426,
   "ElevenLabs": 137,
   "Eurofins": 2640,
   "Euronext": 110,
@@ -48,7 +48,7 @@
   "Scalapay": 10,
   "Shift Technology": 15,
   "Sia Partners": 533,
-  "SimplifyGitHubScraper": 1238,
+  "SimplifyGitHubScraper": 1231,
   "Stripe": 766,
   "TeamSystem": 36
 }
