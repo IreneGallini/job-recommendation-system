@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:40+00:00",
+ "generated_at": "2026-11-10T01:01+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -159,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 68
+   "open_postings_total": 67
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -243,9 +243,14 @@
      "role": "Data Science PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5849979493",
      "role_match": true
+    },
+    {
+     "role": "Data Science PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5848973616",
+     "role_match": true
     }
    ],
-   "open_postings_total": 4
+   "open_postings_total": 5
   },
   {
    "id": "microsoft-university-recruiter-italy",
