@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:56+00:00",
+ "generated_at": "2026-11-10T22:39+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 146
+   "open_postings_total": 147
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -159,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 67
+   "open_postings_total": 72
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -186,6 +186,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
+     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
+     "role_match": false
+    },
+    {
      "role": "Pharmaziepraktikum im Bereich RSV Marketing ab Mai 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikum-im-Bereich-RSV-Marketing-ab-Mai-2027_R2872378",
      "role_match": false
@@ -204,14 +209,9 @@
      "role": "Pharmaziepraktikant*in im Bereich Impfstoff-Marketing für Mai 2028",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Impfstoff-Marketing-fr-Mai-2028_R2878700",
      "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikant*in im Bereich Impfstoff-Marketing für Mai 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikant-in-im-Bereich-Impfstoff-Marketing-fr-Mai-2027_R2855913",
-     "role_match": false
     }
    ],
-   "open_postings_total": 21
+   "open_postings_total": 25
   },
   {
    "id": "google-university-recruiter-emea",

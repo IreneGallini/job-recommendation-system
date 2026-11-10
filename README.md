@@ -99,6 +99,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 37 | ⭐ Amazon Europe Core | Software Dev Engineer Internship - Embedded Development (linux) (m/w/d) | Germany | ❔ | 2026-10-31 | [Apply](https://www.adzuna.de/details/5947574223) |
 | 36 | ⭐ Amazon Europe Core | Software Dev Engineer Internship - Embedded Development (Linux) (m/w/d) | Dresden, Germany | ❔ | 2026-10-30 | [Apply](https://www.adzuna.de/details/5947240603) |
 | 31 | ⭐ Philips | Werkstudent Customer Service Reporting & Data Analytics (all genders) | Hamburg, Germany | ❔ | 2026-10-14 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Hamburg/Werkstudent-Customer-Service-Reporting---Data-Analytics--m-w-d-_592783-1) |
+| 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-11-10 | [Apply](https://jobs.smartrecruiters.com/Sia/744000160939209) |
 | 30 | AirFrance | Stage Data Science – Digital Commercial Cargo F/H | Val-d'Oise, France | ❔ | 2026-11-09 | [Apply](https://www.adzuna.fr/details/5959537428) |
 | 30 | THALES | STAGE Data Analyst - F/H | Vélizy-Villacoublay, France | ❔ | 2026-11-09 | [Apply](https://www.adzuna.fr/land/ad/5959501660) |
 | 30 | CDiscount | STAGE - DATA ANALYST PAIEMENT FRACTIONNE F/H | Gironde, France | ❔ | 2026-11-09 | [Apply](https://www.adzuna.fr/details/5959029006) |
