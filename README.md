@@ -481,13 +481,14 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (103) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (104) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 41 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 38 | Sky | STAGE - NOW – Data Analytics & Insight: Planning & Analysis | Milan, Italy | ❌ not summer (6 mo) | 2026-11-04 | [Apply](https://www.adzuna.it/details/5953146295) |
 | 32 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
+| 10 | ⭐ Accenture | Stage - Ingénieur Digital Foundations – Cloud, Software Engineering & Agentic AI | Paris, France | ❌ not summer (6 mo) | 2026-11-10 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Stage---Ingnieur-Digital-Foundations---Cloud--Software-Engineering---Agentic-AI_R00369362) |
 | 9 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-09 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 7 | ⭐ Accenture | AI & Data – Data Science/ML Engineering Thesis Internship | Amsterdam, Netherlands | ❌ not summer (5 mo) | 2026-11-03 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686) |
 | 6 | ⭐ Sanofi Group | stage 6 mois - data analyst audit interne | Gentilly, France | ❌ not summer (6 mo) | 2026-10-30 | [Apply](https://www.adzuna.fr/details/5946604170) |
@@ -579,7 +580,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -10 | Bosch | Internship AI Lighthouse & Data engineering | Tienen, Belgium | ❌ not summer (6 mo) | 2026-07-03 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000135674088) |
 | -13 | ⭐ Euronext | Equity & ETF Sales Data Analyst Intern | Paris, France | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Equity---ETF-Sales-Data-Analyst-Intern_R29199) |
 | -16 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-11-09 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000160557559) |
-| -22 | Shift Technology | Data scientist Internship (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) |
+| -22 | Shift Technology | Data Scientist Internship (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) |
 | -25 | P&G | Data Engineering Intern | Paris, France | ❌ not summer (6 mo) | 2026-10-12 | [Apply](https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-ASNIERES-SUR-SEINE/Data-Engineering-Intern_R000155891) |
 | -25 | Shift Technology | Data Scientist Internship (November, 6 months) | Paris, France | ❌ not summer (6 mo) | 2026-09-28 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8005395003) |
 | -25 | Bosch | Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-09-11 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000148963738) |
