@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:39+00:00",
+ "generated_at": "2026-11-11T03:44+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -211,7 +211,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 25
+   "open_postings_total": 23
   },
   {
    "id": "google-university-recruiter-emea",
@@ -332,9 +332,14 @@
      "role": "Stage : IA Automatisation et Data",
      "link": "https://www.adzuna.fr/details/5954459950",
      "role_match": false
+    },
+    {
+     "role": "STAGE : Data & AI Product Analyst – Pro One Next",
+     "link": "https://www.adzuna.fr/details/5949641053",
+     "role_match": false
     }
    ],
-   "open_postings_total": 1
+   "open_postings_total": 2
   }
  ]
 }
