@@ -97,6 +97,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 50 | Bitmovin | AI & Beyond Incubator - Software Engineering (summer internship 2027) | Germany | ✅ summer (2.3 mo) | 2026-10-28 | [Apply](https://www.adzuna.de/details/5944743581) |
 | 49 | Cloudflight | Internship Software Engineering (m/f/x) | Innsbruck, Austria | ✅ summer (0.9 mo) | 2026-10-25 | [Apply](https://www.adzuna.at/details/5941541802) |
 | 48 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin, Ireland | ✅ summer (2.3 mo) | 2026-10-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
+| 40 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Finland | Tampere, Finland | ❔ | 2026-11-12 | [Apply](https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland) |
 | 39 | ⭐ Amazon | Applied Scientist Intern - VLA and DATA, RIVR  | Zurich, Switzerland | ❔ | 2026-11-10 | [Apply](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) |
 | 36 | ⭐ Amazon Europe Core | Software Dev Engineer Internship - Embedded Development (linux) (m/w/d) | Germany | ❔ | 2026-10-31 | [Apply](https://www.adzuna.de/details/5947574223) |
 | 36 | ⭐ Amazon Europe Core | Software Dev Engineer Internship - Embedded Development (Linux) (m/w/d) | Dresden, Germany | ❔ | 2026-10-30 | [Apply](https://www.adzuna.de/land/ad/5947240603) |

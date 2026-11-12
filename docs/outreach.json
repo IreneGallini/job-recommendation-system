@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:14+00:00",
+ "generated_at": "2026-11-12T22:58+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 147
+   "open_postings_total": 149
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -134,6 +134,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Cloud Transformation Internship",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
+     "role_match": false
+    },
+    {
      "role": "Payroll Internship",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Payroll-Internship_14811479",
      "role_match": false
@@ -144,22 +149,17 @@
      "role_match": false
     },
     {
+     "role": "Stage in area Industry&Process",
+     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
+     "role_match": false
+    },
+    {
      "role": "ACIN - Booking&Events - Intern",
      "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/ACIN---Booking-Events---Intern_R00367758",
      "role_match": false
-    },
-    {
-     "role": "Payroll Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Payroll-Internship_14811480",
-     "role_match": false
-    },
-    {
-     "role": "Capital Projects Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Industry-X---Capital-Projects-Internship_R00290978-1",
-     "role_match": false
     }
    ],
-   "open_postings_total": 76
+   "open_postings_total": 78
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
