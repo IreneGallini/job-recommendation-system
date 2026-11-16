@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:16+00:00",
+ "generated_at": "2026-11-16T03:47+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 147
+   "open_postings_total": 145
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -159,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 69
+   "open_postings_total": 65
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -332,14 +332,9 @@
      "role": "Stage : Ethics & Compliance Data & AI Analyst",
      "link": "https://www.adzuna.fr/details/5966112424",
      "role_match": false
-    },
-    {
-     "role": "Stage : IA Automatisation et Data",
-     "link": "https://www.adzuna.fr/details/5954459950",
-     "role_match": false
     }
    ],
-   "open_postings_total": 2
+   "open_postings_total": 1
   }
  ]
 }
