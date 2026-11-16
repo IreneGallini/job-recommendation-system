@@ -473,7 +473,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (86) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (87) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -482,6 +482,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 8 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-10 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 6 | ⭐ Accenture | AI & Data – Data Science/ML Engineering Thesis Internship | Amsterdam, Netherlands | ❌ not summer (5 mo) | 2026-11-03 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686) |
 | 1 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
+| 0 | Bosch | Werkstudent Digitalisierung & Business Intelligence im Controlling (w/m/div.) | Lohr am Main, Germany | ❌ not summer (12 mo) | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161791391) |
 | 0 | Nepsen | Stage Chargé(e) de Marketing Data Analyst & Performance Digitale (F/H) – Vincennes (F/H) | Vincennes, France | ❌ not summer (6 mo) | 2026-11-15 | [Apply](https://www.adzuna.fr/details/5967020695) |
 | 0 | Valeco | Stage : Data Analyst - H/F | Hérault, France | ❌ not summer (6 mo) | 2026-11-15 | [Apply](https://www.adzuna.fr/details/5967020415) |
 | 0 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-11-15 | [Apply](https://www.adzuna.de/details/5966689241) |
