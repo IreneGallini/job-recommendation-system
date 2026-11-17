@@ -475,7 +475,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Zurich, Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5849979493) |
 
 <details>
-<summary>Not a summer fit (82) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (83) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -483,6 +483,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | 8 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-10 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 5 | ⭐ Accenture | AI & Data – Data Science/ML Engineering Thesis Internship | Amsterdam, Netherlands | ❌ not summer (5 mo) | 2026-11-03 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686) |
+| 0 | Bosch | Werkstudent Data Analytics & Business Intelligence (w/m/div.) | Gunzenhausen, Germany | ❌ not summer (12 mo) | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162039594) |
 | 0 | Bosch | Werkstudent Digitalisierung & Business Intelligence im Controlling (w/m/div.) | Lohr am Main, Germany | ❌ not summer (12 mo) | 2026-11-16 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161791391) |
 | 0 | Crédit Mutuel Arkéa | STAGE - Data Analyste Pilotage Financier H/F - Crédit Mutuel Arkéa | Finistère, France | ❌ not summer (6 mo) | 2026-11-16 | [Apply](https://www.adzuna.fr/details/5967503426) |
 | 0 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
