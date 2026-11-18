@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:08+00:00",
+ "generated_at": "2026-11-18T00:13+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -159,7 +159,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 61
+   "open_postings_total": 58
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -186,6 +186,11 @@
    "priority": "high",
    "open_postings": [
     {
+     "role": "Stage Qc Data Management (All Genders)",
+     "link": "https://www.adzuna.it/details/5969271863",
+     "role_match": false
+    },
+    {
      "role": "Supply Chain Internship",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Supply-Chain-Internship_R2878796",
      "role_match": false
@@ -204,14 +209,9 @@
      "role": "Pharmaziepraktikum im Bereich RSV Marketing ab Mai 2027",
      "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikum-im-Bereich-RSV-Marketing-ab-Mai-2027_R2872378",
      "role_match": false
-    },
-    {
-     "role": "Local Marketing Intern",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Amsterdam/Local-Marketing-Intern_R2877660",
-     "role_match": false
     }
    ],
-   "open_postings_total": 27
+   "open_postings_total": 28
   },
   {
    "id": "google-university-recruiter-emea",
@@ -243,9 +243,14 @@
      "role": "Data Science PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5849979493",
      "role_match": true
+    },
+    {
+     "role": "Data Science PhD Intern, 2027",
+     "link": "https://www.adzuna.ch/details/5848973616",
+     "role_match": true
     }
    ],
-   "open_postings_total": 4
+   "open_postings_total": 5
   },
   {
    "id": "microsoft-university-recruiter-italy",
