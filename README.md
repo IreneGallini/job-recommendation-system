@@ -92,6 +92,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 46 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin, Ireland | ✅ summer (2.3 mo) | 2026-10-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | 38 | ⭐ Amazon | 2027 Software Dev Engineer Intern - Finland | Tampere, Finland | ❔ | 2026-11-12 | [Apply](https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland) |
 | 37 | ⭐ Amazon | Applied Scientist Intern - VLA and DATA, RIVR  | Zurich, Switzerland | ❔ | 2026-11-10 | [Apply](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) |
+| 30 | Ekimetrics | Stage 2027 - IA/ML Engineer 50% R&D 50% Produit - Statistiques Bayésiennes | Paris, France | ❔ | 2026-11-18 | [Apply](https://jobs.lever.co/ekimetrics/a728950b-e131-442f-98d2-7a527dd1b82b) |
 | 30 | Renault Group | CS27 - Stage - BAC5 – Géomatique & Data Engineering (H/F) | France | ❔ | 2026-11-17 | [Apply](https://www.adzuna.fr/details/5969243356) |
 | 30 | SAFRAN | Stage : STAGE - Data Science et UI/UX pour le diagnostic augmenté des moteurs d'hélicoptères F/H | Saint-Martin-de-Seignanx, France | ❔ | 2026-11-17 | [Apply](https://www.adzuna.fr/details/5968885961) |
 | 30 | BNP PARIBAS | Stage : Stage - Finance Data Analyst H/F | Rueil-Malmaison, France | ❔ | 2026-11-17 | [Apply](https://www.adzuna.fr/details/5968885493) |
@@ -453,7 +454,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (80) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (82) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -461,6 +462,8 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 30 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | 7 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-10 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 5 | ⭐ Accenture | AI & Data – Data Science/ML Engineering Thesis Internship | Amsterdam, Netherlands | ❌ not summer (5 mo) | 2026-11-03 | [Apply](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/XMLNAME---Data---AI---Data-Science-ML-Engineering-Graduation-Internship-_R00368686) |
+| 0 | Bosch | Internship in Software Engineering | Tranås, Sweden | ❌ not summer (6 mo) | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162282030) |
+| 0 | Bosch | Extracurricular Internship: AI Software Engineer (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) |
 | 0 | Bosch | Werkstudent Data Analytics & Business Intelligence (w/m/div.) | Gunzenhausen, Germany | ❌ not summer (12 mo) | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162039594) |
 | 0 | Orange | Stage : Stage - Data Analyste Projet RH - diversité & inclusion F/H | Issy-les-Moulineaux, France | ❌ not summer (6 mo) | 2026-11-17 | [Apply](https://www.adzuna.fr/details/5968885904) |
 | 0 | AXA | Stage : STAGE - Business Data Analyst H/F | Malakoff, France | ❌ not summer (6 mo) | 2026-11-17 | [Apply](https://www.adzuna.fr/details/5968885488) |
