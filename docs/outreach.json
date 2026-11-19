@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:42+00:00",
+ "generated_at": "2026-11-19T05:00+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -134,32 +134,12 @@
    "priority": "high",
    "open_postings": [
     {
-     "role": "Cloud Transformation Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago-Via-del-Mulino-11a/Cloud-Transformation-Internship_R00355331",
-     "role_match": false
-    },
-    {
-     "role": "Payroll Internship",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Payroll-Internship_14811479",
-     "role_match": false
-    },
-    {
-     "role": "Analista Junior Tecnico/Funzionale - Intern",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Assago/Analista-Junior-Tecnico-Funzionale---Ambito-Financial-Services_R00278795",
-     "role_match": false
-    },
-    {
-     "role": "Stage in area Industry&Process",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Stage-in-area-Industry-Process_R00362413",
-     "role_match": false
-    },
-    {
-     "role": "ACIN - Booking&Events - Intern",
-     "link": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/ACIN---Booking-Events---Intern_R00367758",
+     "role": "Data & AI – Strategy Internship",
+     "link": "https://www.adzuna.nl/details/5953231079",
      "role_match": false
     }
    ],
-   "open_postings_total": 58
+   "open_postings_total": 1
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -211,7 +191,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 28
+   "open_postings_total": 27
   },
   {
    "id": "google-university-recruiter-emea",
