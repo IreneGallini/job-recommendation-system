@@ -441,13 +441,14 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (78) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (79) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 30 | Celonis | Intern Applied AI Solution Consulting (Italy) | Milan, Italy | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003) |
 | 7 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-10 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
+| 0 | Bosch | Pflichtpraktikum Data Science im Qualitätsmanagement | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162486754) |
 | 0 | Bosch | Internship in Software Engineering | Tranås, Sweden | ❌ not summer (6 mo) | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162282030) |
 | 0 | Bosch | Extracurricular Internship: AI Software Engineer (f/m/div.) | Aveiro, Portugal | ❌ not summer (12 mo) | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162244270) |
 | 0 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
