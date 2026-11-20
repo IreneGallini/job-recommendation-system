@@ -420,7 +420,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (73) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (74) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
@@ -490,6 +490,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -10 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-02 | [Apply](https://www.adzuna.de/land/ad/5865808212) |
 | -10 | Excelia, SL | Prácticas Data Analyst | Boadilla del Monte, Spain | ❌ not summer (6 mo) | 2026-08-07 | [Apply](https://www.adzuna.es/details/5831947933) |
 | -10 | Bosch | Internship AI Lighthouse & Data engineering | Tienen, Belgium | ❌ not summer (6 mo) | 2026-07-03 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000135674088) |
+| -15 | Eurofins | 6-month internship - IT Finance & Data Analyst | Brussels, Belgium | ❌ not summer (6 mo) | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162701161) |
 | -15 | Eurofins | 6-month internship - IT Finance & Data Analyst | Brussels, Belgium | ❌ not summer (6 mo) | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162539484) |
 | -18 | Bosch | Praktikum als GenAI-Wissensassistent*in für den Bereich Engineering (w/m/div.) | Wernau (Neckar), Germany | ❌ not summer (6 mo) | 2026-11-12 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000161272219) |
 | -18 | Kandou AI | Internship - AI Engineer | Switzerland | ❌ not summer (6 mo) | 2026-11-11 | [Apply](https://www.adzuna.ch/details/5960978396) |
