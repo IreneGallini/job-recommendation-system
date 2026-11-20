@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:54+00:00",
+ "generated_at": "2026-11-20T00:01+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -120,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 147
+   "open_postings_total": 145
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -169,29 +169,9 @@
      "role": "Stage Qc Data Management (All Genders)",
      "link": "https://www.adzuna.it/details/5969271863",
      "role_match": false
-    },
-    {
-     "role": "Supply Chain Internship",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Milano/Supply-Chain-Internship_R2878796",
-     "role_match": false
-    },
-    {
-     "role": "Werkstudent*in Administration Vertrieb/Sales",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Werkstudent-in-Administration-Vertrieb-Sales_R2878869",
-     "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikant*in im Bereich Galenik / Biologics Drug Product Development",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-Galenik---Biologics-Drug-Product-Development_R2872954",
-     "role_match": false
-    },
-    {
-     "role": "Pharmaziepraktikum im Bereich RSV Marketing ab Mai 2027",
-     "link": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Berlin/Pharmaziepraktikum-im-Bereich-RSV-Marketing-ab-Mai-2027_R2872378",
-     "role_match": false
     }
    ],
-   "open_postings_total": 27
+   "open_postings_total": 1
   },
   {
    "id": "google-university-recruiter-emea",
