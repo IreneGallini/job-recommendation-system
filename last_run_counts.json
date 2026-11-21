@@ -12,8 +12,7 @@
   "Bosch": 5181,
   "Buddyfit": 3,
   "Celonis": 262,
-  "Cisco": 202,
-  "Databricks": 897,
+  "Databricks": 896,
   "Datadog": 382,
   "Deliveroo": 189,
   "Devoteam": 987,
@@ -37,6 +36,6 @@
   "Scalapay": 9,
   "Shift Technology": 13,
   "Sia Partners": 532,
-  "SimplifyGitHubScraper": 1003,
+  "SimplifyGitHubScraper": 997,
   "Stripe": 778
 }
