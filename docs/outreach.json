@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:25+00:00",
+ "generated_at": "2026-11-21T04:46+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -48,14 +48,9 @@
      "role": "Merchant Risk Intern ",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/5024103101",
      "role_match": false
-    },
-    {
-     "role": "SDR Intern",
-     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4927248101",
-     "role_match": false
     }
    ],
-   "open_postings_total": 2
+   "open_postings_total": 1
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -120,7 +115,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 145
+   "open_postings_total": 142
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -132,14 +127,8 @@
    "careers_url": "https://www.accenture.com/it-it/careers",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Data & AI – Strategy Internship",
-     "link": "https://www.adzuna.nl/details/5953231079",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "databricks-solutions-engineer-milan-office",
@@ -222,8 +211,14 @@
    "careers_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Italy&exp=Students%20and%20graduates",
    "notes": "",
    "priority": "high",
-   "open_postings": [],
-   "open_postings_total": 0
+   "open_postings": [
+    {
+     "role": "Data Science - PhD Internship Opportunities",
+     "link": "https://www.adzuna.ch/details/5972362603",
+     "role_match": true
+    }
+   ],
+   "open_postings_total": 1
   },
   {
    "id": "apple-university-recruiter-emea",
@@ -289,12 +284,17 @@
    "priority": "normal",
    "open_postings": [
     {
+     "role": "Stage : Data analysis & Performance Supply Chain Overseas",
+     "link": "https://www.adzuna.fr/details/5971872939",
+     "role_match": true
+    },
+    {
      "role": "Stage : Ethics & Compliance Data & AI Analyst",
      "link": "https://www.adzuna.fr/details/5966112424",
      "role_match": false
     }
    ],
-   "open_postings_total": 1
+   "open_postings_total": 2
   }
  ]
 }
