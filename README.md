@@ -502,11 +502,12 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (84) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (85) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
+| 6 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-09 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 0 | Crédit Mutuel ARKEA | Stage - Data Scientist H/F | Le-Relecq-Kerhuon, France | ❌ not summer (6 mo) | 2026-11-21 | [Apply](https://www.adzuna.fr/details/5973456852) |
 | 0 | Axa partners | Stage - Business Data Analyst H/F | Malakoff, France | ❌ not summer (6 mo) | 2026-11-21 | [Apply](https://www.adzuna.fr/details/5973456727) |
 | 0 | Sodebo | Stage Data Analyst H/F | Montaigu, France | ❌ not summer (6 mo) | 2026-11-21 | [Apply](https://www.adzuna.fr/details/5973456506) |
