@@ -1,6 +1,6 @@
 {
   "ANYbotics": 24,
-  "Adzuna": 1411,
+  "Adzuna": 1300,
   "Airbnb": 202,
   "Alan": 135,
   "Amazon": 166,
@@ -28,7 +28,6 @@
   "MongoDB": 417,
   "Palantir": 308,
   "Perplexity": 151,
-  "Philips": 200,
   "Prima Assicurazioni": 93,
   "Quantis": 9,
   "RAI Institute": 24,
@@ -37,6 +36,6 @@
   "Scalapay": 9,
   "Shift Technology": 13,
   "Sia Partners": 532,
-  "SimplifyGitHubScraper": 1002,
-  "Stripe": 778
+  "SimplifyGitHubScraper": 1000,
+  "Stripe": 777
 }

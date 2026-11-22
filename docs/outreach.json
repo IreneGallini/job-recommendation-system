@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:35+00:00",
+ "generated_at": "2026-11-22T04:01+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -115,7 +115,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 142
+   "open_postings_total": 141
   },
   {
    "id": "accenture-campus-recruiting-italy",
@@ -153,14 +153,8 @@
    "careers_url": "https://jobs.sanofi.com/",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "Stage Qc Data Management (All Genders)",
-     "link": "https://www.adzuna.it/details/5969271863",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "google-university-recruiter-emea",
@@ -173,16 +167,6 @@
    "notes": "EMEA STEP / SWE intern applications usually open in autumn.",
    "priority": "high",
    "open_postings": [
-    {
-     "role": "Data Scientist Product MS Intern, 2027",
-     "link": "https://www.adzuna.ch/details/5911925135",
-     "role_match": true
-    },
-    {
-     "role": "Data Scientist Product MS Intern, 2027",
-     "link": "https://www.adzuna.ch/details/5909109659",
-     "role_match": true
-    },
     {
      "role": "Software Engineering PhD Intern, 2027",
      "link": "https://www.adzuna.ch/details/5850176241",
@@ -199,7 +183,7 @@
      "role_match": true
     }
    ],
-   "open_postings_total": 5
+   "open_postings_total": 3
   },
   {
    "id": "microsoft-university-recruiter-italy",
