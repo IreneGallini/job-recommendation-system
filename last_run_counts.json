@@ -1,7 +1,7 @@
 {
   "ANYbotics": 24,
   "Adzuna": 1300,
-  "Airbnb": 202,
+  "Airbnb": 203,
   "Alan": 135,
   "Amazon": 166,
   "Artefact": 150,
@@ -12,14 +12,15 @@
   "Bosch": 5179,
   "Buddyfit": 3,
   "Celonis": 262,
-  "Databricks": 895,
+  "Databricks": 893,
   "Datadog": 382,
   "Deliveroo": 190,
   "Devoteam": 987,
   "Ekimetrics": 28,
   "Elastic": 382,
   "ElevenLabs": 122,
-  "Eurofins": 2622,
+  "Eurofins": 2623,
+  "GSK": 208,
   "Gemmo": 0,
   "ION Group": 100,
   "Manex AI": 9,
@@ -36,6 +37,6 @@
   "Scalapay": 9,
   "Shift Technology": 13,
   "Sia Partners": 532,
-  "SimplifyGitHubScraper": 992,
-  "Stripe": 777
+  "SimplifyGitHubScraper": 989,
+  "Stripe": 778
 }
