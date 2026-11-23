@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:43+00:00",
+ "generated_at": "2026-11-23T16:48+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -48,9 +48,14 @@
      "role": "Merchant Risk Intern ",
      "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/5024103101",
      "role_match": false
+    },
+    {
+     "role": "KYC/AML Analyst  - Intern (6 months)",
+     "link": "https://job-boards.eu.greenhouse.io/scalapaysrl/jobs/4860934101",
+     "role_match": false
     }
    ],
-   "open_postings_total": 1
+   "open_postings_total": 2
   },
   {
    "id": "moneyfarm-data-engineering-team-lead",
@@ -115,7 +120,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 140
+   "open_postings_total": 141
   },
   {
    "id": "accenture-campus-recruiting-italy",
