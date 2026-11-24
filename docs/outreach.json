@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:48+00:00",
+ "generated_at": "2026-11-24T03:39+00:00",
  "contacts": [
   {
    "id": "satispay-tech-recruiter-talent-acquisition",
@@ -11,14 +11,8 @@
    "careers_url": "https://jobs.ashbyhq.com/satispay",
    "notes": "",
    "priority": "high",
-   "open_postings": [
-    {
-     "role": "KYC & KYB Analyst Intern",
-     "link": "https://jobs.ashbyhq.com/satispay/c7286e6d-0a10-424a-a524-5277c5fac580",
-     "role_match": false
-    }
-   ],
-   "open_postings_total": 1
+   "open_postings": [],
+   "open_postings_total": 0
   },
   {
    "id": "prima-assicurazioni-engineering-manager-tech-recruiter",
@@ -120,7 +114,7 @@
      "role_match": false
     }
    ],
-   "open_postings_total": 141
+   "open_postings_total": 140
   },
   {
    "id": "accenture-campus-recruiting-italy",
