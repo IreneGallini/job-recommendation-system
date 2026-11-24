@@ -497,6 +497,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
+| 10 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
 | 5 | ⭐ Philips | Internship: Full Stack Developer in Finance Domain | Eindhoven, Netherlands | ❌ not summer (6 mo) | 2026-11-09 | [Apply](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Internship--Full-Stack-Developer-in-Finance-Domain_592556) |
 | 0 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-11-23 | [Apply](https://www.adzuna.de/land/ad/5975703361) |
 | 0 | Bosch | Pflichtpraktikum in Generative AI & Leadership Intelligence | Gerlingen, Germany | ❌ not summer (6 mo) | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163232629) |
@@ -507,7 +508,6 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 0 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
 | 0 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
 | 0 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
-| 0 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
 | -1 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Germany | ❌ not summer (6 mo) | 2026-11-22 | [Apply](https://www.adzuna.de/land/ad/5974840646) |
 | -1 | Crédit Mutuel ARKEA | Stage - Data Scientist H/F | Le-Relecq-Kerhuon, France | ❌ not summer (6 mo) | 2026-11-21 | [Apply](https://www.adzuna.fr/details/5973456852) |
 | -1 | Axa partners | Stage - Business Data Analyst H/F | Malakoff, France | ❌ not summer (6 mo) | 2026-11-21 | [Apply](https://www.adzuna.fr/details/5973456727) |
