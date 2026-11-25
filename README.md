@@ -453,12 +453,13 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (76) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (78) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 10 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
+| 0 | Bosch | Pflichtpraktikum im Bereich der Softwareentwicklung | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163629259) |
 | 0 | ⭐ Amazon | Business Intelligence Intern Spain | Madrid, Spain | ❌ not summer (6 mo) | 2026-10-19 | [Apply](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) |
 | 0 | ⭐ Amazon | Business Intelligence Engineer Internship France | Clichy, France | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) |
 | 0 | ⭐ Amazon | Business Intelligence Engineer Intern Germany | Munich, Germany | ❌ not summer (6 mo) | 2026-10-02 | [Apply](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) |
@@ -527,6 +528,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -10 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Freiburg (Elbe), Germany | ❌ not summer (6 mo) | 2026-09-02 | [Apply](https://www.adzuna.de/land/ad/5865808212) |
 | -10 | Excelia, SL | Prácticas Data Analyst | Boadilla del Monte, Spain | ❌ not summer (6 mo) | 2026-08-07 | [Apply](https://www.adzuna.es/details/5831947933) |
 | -10 | Bosch | Internship AI Lighthouse & Data engineering | Tienen, Belgium | ❌ not summer (6 mo) | 2026-07-03 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000135674088) |
+| -15 | Bosch | Pflichtpraktikum Softwareentwicklung - Computer Vision und AI | Abstatt, Germany | ❌ not summer (6 mo) | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163695159) |
 | -17 | Eurofins | 6-month internship - IT Finance & Data Analyst | Brussels, Belgium | ❌ not summer (6 mo) | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000162701161) |
 | -20 | Kandou AI | Internship - AI Engineer | Switzerland | ❌ not summer (6 mo) | 2026-11-11 | [Apply](https://www.adzuna.ch/details/5960978396) |
 | -25 | Shift Technology | Data Scientist Internship (6 months)  | Paris, France | ❌ not summer (6 mo) | 2026-10-20 | [Apply](https://job-boards.greenhouse.io/shifttechnology/jobs/8014553003) |
