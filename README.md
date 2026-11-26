@@ -460,12 +460,13 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (84) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (85) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 9 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
+| 0 | Bosch | Pflichtpraktikum im Bereich der Softwareentwicklung | Bietigheim-Bissingen, Germany | ❌ not summer (6 mo) | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163812109) |
 | 0 | Bosch | Pflichtpraktikum im Bereich der Softwareentwicklung | Stuttgart, Germany | ❌ not summer (6 mo) | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163629259) |
 | 0 | Orange | Stage : Stage Data Analyst spécialisé outils LLM F/H | Arcueil, France | ❌ not summer (6 mo) | 2026-11-25 | [Apply](https://www.adzuna.fr/details/5978208774) |
 | 0 | Stryker GmbH & Co.KG | Praktikum Data Analytics & Manufacturing Excellence (m/w/d) - 6 Monate \| Start Frühjahr 2027 | Betzenhausen, Germany | ❌ not summer (6 mo) | 2026-11-25 | [Apply](https://www.adzuna.de/details/5977942875) |
