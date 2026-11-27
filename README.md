@@ -93,6 +93,7 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | 45 | MongoDB | 2027 - Summer Software Engineer Intern, Dublin | Dublin, Ireland | ✅ summer (2.3 mo) | 2026-10-23 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8267099) |
 | 40 | ⭐ Amazon | 2027 Software Dev Engineer Internship, AWS EC2 | Berlin, Germany | ❔ | 2026-11-26 | [Apply](https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2) |
 | 34 | ⭐ Amazon | Applied Scientist Intern - VLA and DATA, RIVR  | Zurich, Switzerland | ❔ | 2026-11-10 | [Apply](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) |
+| 30 | Sia Partners | Final year internship - Marketing Data Scientist | Paris, France | ❔ | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/Sia/744000164039714) |
 | 30 | CEA | Stage - Ingénieur en machine learning / métrologie H/F | Grenoble, France | ❔ | 2026-11-26 | [Apply](https://www.adzuna.fr/details/5979882253) |
 | 30 | Theodo | Software Engineer Fullstack - Stage Lyon - Theodo | Lyon, France | ❔ | 2026-11-26 | [Apply](https://www.adzuna.fr/details/5979856731) |
 | 30 | Forums Talents Handicap | Stage de fin d’étude – Ingénieur(e) IA/ML – Exploration et prototypage de solutions de Machine Learning | Hauts-de-Seine, France | ❔ | 2026-11-26 | [Apply](https://www.adzuna.fr/details/5978992023) |
@@ -467,12 +468,13 @@ Ranked by recommendation score. Triage (applied / ineligible) and the full colle
 | -5 | Google | Data Science PhD Intern, 2027 | Switzerland | ❔ | 2026-08-20 | [Apply](https://www.adzuna.ch/details/5848973616) |
 
 <details>
-<summary>Not a summer fit (87) — 5+ months or starts Sept–March</summary>
+<summary>Not a summer fit (88) — 5+ months or starts Sept–March</summary>
 
 | Score | Company | Role | Location | Summer | Posted | Apply |
 |---|---|---|---|---|---|---|
 | 40 | ⭐ Amazon | Business Intelligence Intern Italy | Milan, Italy | ❌ not summer (6 mo) | 2026-10-15 | [Apply](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) |
 | 9 | ⭐ Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer - (Internship) | Paris, France | ❌ not summer (6 mo) | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b) |
+| 0 | Bosch | Pflichtpraktikum Software Development für datenbasierte Anwendungen im industriellen Umfeld | Bühl, Germany | ❌ not summer (6 mo) | 2026-11-27 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000164013921) |
 | 0 | Bosch | Pflichtpraktikum im Bereich der Softwareentwicklung | Bietigheim-Bissingen, Germany | ❌ not summer (6 mo) | 2026-11-26 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000163812109) |
 | 0 | Excelia | Prácticas Data Analyst | Pozuelo de Alarcón, Spain | ❌ not summer (6 mo) | 2026-11-26 | [Apply](https://www.adzuna.es/details/5979383232) |
 | 0 | TomTom | Software Engineering Internship - API Management | Netherlands | ❌ not summer (6 mo) | 2026-11-26 | [Apply](https://www.adzuna.nl/details/5979896314) |
